@@ -41,9 +41,9 @@
  "credits": {
   "day": "2026-10-14",
   "month": null,
-  "remaining": 477,
-  "spent_today": 15,
-  "used": 23
+  "remaining": 474,
+  "spent_today": 18,
+  "used": 26
  },
  "errors": [
   {
@@ -393,19 +393,19 @@
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|h2h|Sam Houston State Bearkats|None": [
    0.4839,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|h2h|Western Kentucky Hilltoppers|None": [
    0.5161,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Sam Houston State Bearkats|1.0": [
    0.4968,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Sam Houston State Bearkats|1.5": [
    0.5092,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Sam Houston State Bearkats|2.0": [
    0.5,
@@ -413,11 +413,11 @@
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Western Kentucky Hilltoppers|-1.0": [
    0.5032,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Western Kentucky Hilltoppers|-1.5": [
    0.4908,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Western Kentucky Hilltoppers|-2.0": [
    0.5,
@@ -425,19 +425,19 @@
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|totals|Over|52.5": [
    0.5022,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|totals|Over|53.5": [
    0.4933,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|totals|Under|52.5": [
    0.4978,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|totals|Under|53.5": [
    0.5067,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "3192c41b5eb5fad69e518d6eba5fcb91|h2h|Boston Bruins|None": [
    0.5379,
@@ -553,27 +553,51 @@
   ],
   "7ebcab7b97620342a9205b32139222d1|h2h|Kennesaw State Owls|None": [
    0.5772,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "7ebcab7b97620342a9205b32139222d1|h2h|Missouri State Bears|None": [
    0.4228,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "7ebcab7b97620342a9205b32139222d1|spreads|Kennesaw State Owls|-3.0": [
    0.4898,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "7ebcab7b97620342a9205b32139222d1|spreads|Missouri State Bears|3.0": [
    0.5102,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "7ebcab7b97620342a9205b32139222d1|totals|Over|52.5": [
    0.5089,
-   1792000832.1241684
+   1792001717.9348354
   ],
   "7ebcab7b97620342a9205b32139222d1|totals|Under|52.5": [
    0.4911,
-   1792000832.1241684
+   1792001717.9348354
+  ],
+  "855f58fad5f0f14b239f4f63df27998b|h2h|Denver Broncos|None": [
+   0.4335,
+   1792001717.9348354
+  ],
+  "855f58fad5f0f14b239f4f63df27998b|h2h|Seattle Seahawks|None": [
+   0.5665,
+   1792001717.9348354
+  ],
+  "855f58fad5f0f14b239f4f63df27998b|spreads|Denver Broncos|2.5": [
+   0.4931,
+   1792001717.9348354
+  ],
+  "855f58fad5f0f14b239f4f63df27998b|spreads|Seattle Seahawks|-2.5": [
+   0.5069,
+   1792001717.9348354
+  ],
+  "855f58fad5f0f14b239f4f63df27998b|totals|Over|40.5": [
+   0.51,
+   1792001717.9348354
+  ],
+  "855f58fad5f0f14b239f4f63df27998b|totals|Under|40.5": [
+   0.49,
+   1792001717.9348354
   ],
   "9604eeafec33b8980e6565c617f04fc6|h2h|Colorado Avalanche|None": [
    0.5701,
@@ -784,7 +808,7 @@
    1791941420.7899446
   ]
  },
- "last_run": 1792000832.1241684,
+ "last_run": 1792001717.9348354,
  "last_vote": {
   "approved": true,
   "label": "Dallas Stars to win",
@@ -1022,6 +1046,211 @@
     }
    ],
    "t": 1791999924.4773288
+  },
+  "americanfootball_nfl": {
+   "items": [
+    {
+     "t": 1792000823.0,
+     "text": "Super Bowl LXI odds: All 32 teams' odds to win the championship Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI."
+    },
+    {
+     "t": 1792001034.0,
+     "text": "Patriots CB Gonzalez says he's 'ready to go'; WR Brown returns to practice Patriots cornerback Christian Gonzalez said Wednesday he's ready to return after missing the past two games with a shoulder injury."
+    },
+    {
+     "t": 1792000413.0,
+     "text": "Kiper: Jeremiah Smith is best player in 2027 draft 'by a wide margin' Kiper: Jeremiah Smith is best player in 2027 draft 'by a wide margin'"
+    },
+    {
+     "t": 1791999029.0,
+     "text": "Fantasy football rankings Week 6: PPR and superflex Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks."
+    },
+    {
+     "t": 1791998959.0,
+     "text": "Fantasy football rankings for Week 6: Kicker Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates."
+    },
+    {
+     "t": 1791998983.0,
+     "text": "Fantasy football rankings for Week 6: IDP Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody."
+    },
+    {
+     "t": 1791998900.0,
+     "text": "Fantasy football rankings for Week 6: Wide receiver Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates."
+    },
+    {
+     "t": 1791998941.0,
+     "text": "Fantasy football rankings for Week 6: D/ST Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates."
+    },
+    {
+     "t": 1791998916.0,
+     "text": "Fantasy football rankings for Week 6: Running back Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates."
+    },
+    {
+     "t": 1791998884.0,
+     "text": "Fantasy football rankings for Week 6: Tight end Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates."
+    },
+    {
+     "t": 1791998792.0,
+     "text": "Fantasy football rankings for Week 6: Quarterback Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates."
+    },
+    {
+     "t": 1791999747.0,
+     "text": "Sources: Broncos S Talanoa Hufanga (ankle) set to miss multiple weeks Safety Talanoa Hufanga, who has made several key plays for the Broncos defense in recent wins, is expected to miss multiple weeks with an ankle injury, sources told ESPN."
+    },
+    {
+     "t": 1791997416.0,
+     "text": "Dopp: I'd prefer not to start Woody Marks vs. the Jags Dopp: I'd prefer not to start Woody Marks vs. the Jags"
+    },
+    {
+     "t": 1791997340.0,
+     "text": "Daniel Dopp urging fantasy owners to start Isaiah Likely in Week 6 Daniel Dopp urging fantasy owners to start Isaiah Likely in Week 6"
+    },
+    {
+     "t": 1791997265.0,
+     "text": "Why Dopp is locking Jordan Love in as a top-7 QB in Week 6 Why Dopp is locking Jordan Love in as a top-7 QB in Week 6"
+    },
+    {
+     "t": 1791996738.0,
+     "text": "Where Daniel Dopp is ranking DK Metcalf in Week 6 Where Daniel Dopp is ranking DK Metcalf in Week 6"
+    },
+    {
+     "t": 1791996738.0,
+     "text": "Jaylen Waddle's Week 6 fantasy preview Jaylen Waddle's Week 6 fantasy preview"
+    },
+    {
+     "t": 1791998376.0,
+     "text": "Falcons QB Michael Penix on track to start vs. Bears if no setbacks, coach says Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week."
+    },
+    {
+     "t": 1791995111.0,
+     "text": "Emeka Egbuka's Week 6 fantasy preview Emeka Egbuka's Week 6 fantasy preview"
+    },
+    {
+     "t": 1791994131.0,
+     "text": "Why Stephen A. believes Seahawks need a win more than Broncos Why Stephen A. believes Seahawks need a win more than Broncos"
+    },
+    {
+     "t": 1791991253.0,
+     "text": "Stephen A. has \u2018no problem\u2019 with Micah Parsons chiming in on Commanders\u2019 clock fiasco Stephen A. has \u2018no problem\u2019 with Micah Parsons chiming in on Commanders\u2019 clock fiasco"
+    },
+    {
+     "t": 1791992352.0,
+     "text": "Is Drake London or Christian Watson a better fantasy option in Week 6? Is Drake London or Christian Watson a better fantasy option in Week 6?"
+    },
+    {
+     "t": 1791992374.0,
+     "text": "Mike Clay's emphatic case for choosing Javonte Williams over Bucky Irving in Week 6 Mike Clay's emphatic case for choosing Javonte Williams over Bucky Irving in Week 6"
+    },
+    {
+     "t": 1791991193.0,
+     "text": "Fantasy football buzz: Free agent pickups for the toughest three-week stretch If it feels like your fantasy team is either on a bye or will be in the next three weeks, you're in luck."
+    },
+    {
+     "t": 1791990649.0,
+     "text": "Who\u2019s the better fantasy QB in Week 6: Hurts or Rodgers? Who\u2019s the better fantasy QB in Week 6: Hurts or Rodgers?"
+    },
+    {
+     "t": 1791989217.0,
+     "text": "Mike Evans' Week 6 fantasy preview Mike Evans' Week 6 fantasy preview"
+    },
+    {
+     "t": 1791989541.0,
+     "text": "Is Kirk Cousins a viable streamer in Week 6? Is Kirk Cousins a viable streamer in Week 6?"
+    },
+    {
+     "t": 1791988034.0,
+     "text": "Jahmyr Gibbs' strong fantasy start in perspective Jahmyr Gibbs' strong fantasy start in perspective"
+    },
+    {
+     "t": 1791988324.0,
+     "text": "Micah Parsons wants to ensure 'all the small things fixed first' before return The Packers' Micah Parsons explained on his podcast why he's not rushing his return from last season's knee injury."
+    },
+    {
+     "t": 1791987073.0,
+     "text": "What Lamar's potential return means for Ravens' season What Lamar's potential return means for Ravens' season"
+    },
+    {
+     "t": 1791987975.0,
+     "text": "Source: Lamar Jackson has realistic chance to play Ravens' Week 6 game at Browns Ravens quarterback Lamar Jackson has a realistic chance to return for Sunday's game against the Cleveland Browns, a league source told ESPN."
+    },
+    {
+     "t": 1791991931.0,
+     "text": "How far can the Steelers, Aaron Rodgers go this season? 1 Checkmark reaction. How far can the Steelers, Aaron Rodgers go this season? 1 Checkmark reaction."
+    },
+    {
+     "t": 1792001465.0,
+     "text": "Facts vs. Feelings: Out of Love with Jeremiyah, but another Cardinal looms Why Jeremiyah Love is a bust candidate but Kendrick Bourne is a sleeper, and more Week 6 lineup insights."
+    },
+    {
+     "t": 1791982045.0,
+     "text": "Should Micah Parsons be commenting on the Commanders' clock blunder? Should Micah Parsons be commenting on the Commanders' clock blunder?"
+    },
+    {
+     "t": 1791976684.0,
+     "text": "Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions."
+    },
+    {
+     "t": 1791976606.0,
+     "text": "Jaguars coach Liam Coen takes blame for delay of game penalties vs. Eagles Jaguars coach Liam Coen says the blame for the team's three delay of game penalties against the Eagles belongs on his shoulders."
+    },
+    {
+     "t": 1791984056.0,
+     "text": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track? In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?"
+    },
+    {
+     "t": 1791993672.0,
+     "text": "NFL Week 6 latest intel, buzz questions, news, fantasy tips: What we're hearing What is going on with the Eagles?! We have intel on Philly's three-game slide, three remaining unbeaten teams, QBs at risk of being benched, potential WR trades and more."
+    },
+    {
+     "t": 1791996300.0,
+     "text": "How NFL pros such as Matthew Stafford gain perspective from coaching their kids ESPN spoke to 16 NFL players about what it's like to coach their children and what it means to spend that time with them."
+    },
+    {
+     "t": 1791972010.0,
+     "text": "Jaguars WR Parker Washington has the clutch gene: Will that earn him an extension? Did you see Washington's one-handed grab in London? How did he get so good at contested catches? And how did he quickly become a big part of the Jaguars' offense?"
+    },
+    {
+     "t": 1791968353.0,
+     "text": "Jacksonville Jaguars remain in the NFL hunt thanks to Foyesade Oluokun's bone-crunching efforts Runaway AFC South leaders the Jacksonville Jaguars continued their impressive start to the season, with Nigerian-American linebacker Foyesade Oluokun starring in a 19-17 win over the Philadelphia Eagles."
+    },
+    {
+     "t": 1791945467.0,
+     "text": "Niners LB Dre Greenlaw's appeal of suspension rejected, will sit vs. Commanders Niners linebacker Dre Greenlaw will serve his one-game suspension in Monday night's game against the Commanders after the NFL denied his appeal Tuesday."
+    },
+    {
+     "t": 1791989089.0,
+     "text": "Tyreek Hill found liable for 2 of 10 counts in battery trial; wife awarded $500K A jury returned a mixed verdict in the trial against Tyreek Hill, finding him liable for 2 counts of battery but not liable for his wife's 8 other claims."
+    },
+    {
+     "t": 1791937868.0,
+     "text": "Cleveland Browns gets their close-up in first trailer for Hulu's 'The Land' Created by Dan Fogelman, the NFL-backed drama follows a fictional version of the Browns and premieres the day after Super Bowl LXI."
+    },
+    {
+     "t": 1791936325.0,
+     "text": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start Broncos quarterback Bo Nix said Tuesday he can find solutions if he can simplify his approach: \"Making it simple, making things 1-2-3, and let's play fast and let's roll.\""
+    },
+    {
+     "t": 1791941840.0,
+     "text": "Panthers RT Moton coughed up blood before clot diagnosis Carolina Panthers right tackle Taylor Moton, 32, told reporters Tuesday that he coughed up blood before being diagnosed with multiple blood clots in June, an ailment that sidelined him through training camp and into the second month of the regular season."
+    },
+    {
+     "t": 1791973625.0,
+     "text": "Saints owner Gayle Benson rips 1-4 start, says fans 'deserve better' Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\""
+    },
+    {
+     "t": 1791982306.0,
+     "text": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job' Micah Parsons said on his podcast that Jayden Daniels' mistake at the end of overtime Sunday will probably end up getting Commanders coach Dan Quinn fired."
+    },
+    {
+     "t": 1791941605.0,
+     "text": "The Saints' offense keeps declining each week. Can they turn it around? After dropping three straight games at home, New Orleans goes on the road with intent to turn things around."
+    },
+    {
+     "t": 1791934362.0,
+     "text": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues."
+    }
+   ],
+   "t": 1792001719.6637793
   },
   "icehockey_nhl": {
    "items": [
@@ -2209,6 +2438,498 @@
     }
    ]
   },
+  "americanfootball_nfl": {
+   "fetched": 1792001719.357978,
+   "games": [
+    {
+     "away_team": "Seattle Seahawks",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-14T18:13:46Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:13:45Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 120
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -142
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:13:45Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -108
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -112
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:13:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -112
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-14T18:15:05Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:15:05Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 126
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -148
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:15:05Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -104
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -118
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:15:05Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -105
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-14T18:15:05Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:15:05Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 120
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -140
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:15:05Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -101
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -109
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:15:05Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -107
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -107
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-14T18:14:34Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:14:34Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 120
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -140
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:14:34Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -106
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -114
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:14:34Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-14T18:14:36Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:14:35Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 125
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -150
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:14:35Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -107
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -114
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:14:35Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -107
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -114
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-14T18:15:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:15:07Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 120
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -145
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:15:07Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -105
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -112
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:15:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-14T18:14:48Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:14:48Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 124
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -140
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:14:48Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -103
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -109
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:14:48Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -113
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -104
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-14T18:14:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:14:04Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 125
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -145
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:14:04Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -105
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:14:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 41.0,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 41.0,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-14T18:14:49Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-14T18:14:49Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "price": 125
+          },
+          {
+           "name": "Seattle Seahawks",
+           "price": -145
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-14T18:14:49Z",
+         "outcomes": [
+          {
+           "name": "Denver Broncos",
+           "point": 2.5,
+           "price": -105
+          },
+          {
+           "name": "Seattle Seahawks",
+           "point": -2.5,
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-14T18:14:49Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 40.5,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 40.5,
+           "price": -105
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      }
+     ],
+     "commence_time": "2026-10-16T00:15:00Z",
+     "home_team": "Denver Broncos",
+     "id": "855f58fad5f0f14b239f4f63df27998b",
+     "sport_key": "americanfootball_nfl",
+     "sport_title": "NFL"
+    }
+   ]
+  },
   "icehockey_nhl": {
    "fetched": 1791972025.953805,
    "games": [
@@ -3200,6 +3921,7 @@
  },
  "schedule": {
   "americanfootball_ncaaf": 5,
-  "icehockey_nhl": 8
+  "americanfootball_nfl": 1,
+  "icehockey_nhl": 11
  }
 }
