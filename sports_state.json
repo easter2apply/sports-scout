@@ -41,9 +41,9 @@
  "credits": {
   "day": "2026-10-14",
   "month": null,
-  "remaining": 486,
-  "spent_today": 6,
-  "used": 14
+  "remaining": 483,
+  "spent_today": 9,
+  "used": 17
  },
  "errors": [
   {
@@ -392,24 +392,24 @@
    1791941420.7899446
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|h2h|Sam Houston State Bearkats|None": [
-   0.4693,
-   1791960319.6015277
+   0.4745,
+   1791969317.770475
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|h2h|Western Kentucky Hilltoppers|None": [
-   0.5307,
-   1791960319.6015277
+   0.5255,
+   1791969317.770475
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Sam Houston State Bearkats|1.5": [
-   0.4946,
-   1791941420.7899446
+   0.5,
+   1791969317.770475
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Sam Houston State Bearkats|2.0": [
    0.5,
    1791960319.6015277
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Western Kentucky Hilltoppers|-1.5": [
-   0.5054,
-   1791941420.7899446
+   0.5,
+   1791969317.770475
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|spreads|Western Kentucky Hilltoppers|-2.0": [
    0.5,
@@ -417,11 +417,11 @@
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|totals|Over|52.5": [
    0.5066,
-   1791960319.6015277
+   1791969317.770475
   ],
   "2bbbf3488a5d57c9c13ae578bad17a9d|totals|Under|52.5": [
    0.4934,
-   1791960319.6015277
+   1791969317.770475
   ],
   "3192c41b5eb5fad69e518d6eba5fcb91|h2h|Boston Bruins|None": [
    0.5379,
@@ -537,27 +537,27 @@
   ],
   "7ebcab7b97620342a9205b32139222d1|h2h|Kennesaw State Owls|None": [
    0.5817,
-   1791960319.6015277
+   1791969317.770475
   ],
   "7ebcab7b97620342a9205b32139222d1|h2h|Missouri State Bears|None": [
    0.4183,
-   1791960319.6015277
+   1791969317.770475
   ],
   "7ebcab7b97620342a9205b32139222d1|spreads|Kennesaw State Owls|-3.0": [
    0.4978,
-   1791960319.6015277
+   1791969317.770475
   ],
   "7ebcab7b97620342a9205b32139222d1|spreads|Missouri State Bears|3.0": [
    0.5022,
-   1791960319.6015277
+   1791969317.770475
   ],
   "7ebcab7b97620342a9205b32139222d1|totals|Over|52.5": [
    0.488,
-   1791960319.6015277
+   1791969317.770475
   ],
   "7ebcab7b97620342a9205b32139222d1|totals|Under|52.5": [
    0.512,
-   1791960319.6015277
+   1791969317.770475
   ],
   "9604eeafec33b8980e6565c617f04fc6|h2h|Colorado Avalanche|None": [
    0.5733,
@@ -760,7 +760,7 @@
    1791941420.7899446
   ]
  },
- "last_run": 1791968424.6579294,
+ "last_run": 1791969317.770475,
  "last_vote": {
   "approved": true,
   "label": "Dallas Stars to win",
@@ -997,7 +997,7 @@
      "text": "Officials spotted ball incorrectly on Oregon conversion try Officials spotted the ball incorrectly on Oregon's potential tying two-point conversion attempt late in Saturday's 17-15 loss to UCLA, the Big Ten said Sunday, and the league vowed to \"continue to emphasize consistent application of the playing rules.\""
     }
    ],
-   "t": 1791960321.4848711
+   "t": 1791969320.1396058
   },
   "icehockey_nhl": {
    "items": [
@@ -1207,18 +1207,18 @@
  },
  "odds": {
   "americanfootball_ncaaf": {
-   "fetched": 1791950424.9869797,
+   "fetched": 1791969319.3487258,
    "games": [
     {
      "away_team": "Kennesaw State Owls",
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-14T04:00:24Z",
+       "last_update": "2026-10-14T09:14:46Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T04:00:23Z",
+         "last_update": "2026-10-14T09:14:45Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1232,7 +1232,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T04:00:23Z",
+         "last_update": "2026-10-14T09:14:45Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1248,17 +1248,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T04:00:23Z",
+         "last_update": "2026-10-14T09:14:45Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 51.5,
-           "price": -118
+           "point": 52.5,
+           "price": -106
           },
           {
            "name": "Under",
-           "point": 51.5,
-           "price": -104
+           "point": 52.5,
+           "price": -114
           }
          ]
         }
@@ -1267,11 +1267,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-14T03:59:48Z",
+       "last_update": "2026-10-14T09:15:04Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:47Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1285,7 +1285,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:47Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1301,7 +1301,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:47Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1320,11 +1320,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-14T03:59:18Z",
+       "last_update": "2026-10-14T09:13:43Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:17Z",
+         "last_update": "2026-10-14T09:13:43Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1338,7 +1338,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:17Z",
+         "last_update": "2026-10-14T09:13:43Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1354,7 +1354,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:17Z",
+         "last_update": "2026-10-14T09:13:43Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1373,11 +1373,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-14T03:59:37Z",
+       "last_update": "2026-10-14T09:14:29Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1391,7 +1391,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1407,7 +1407,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1426,11 +1426,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-14T03:59:32Z",
+       "last_update": "2026-10-14T09:15:15Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:32Z",
+         "last_update": "2026-10-14T09:15:15Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1444,7 +1444,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:32Z",
+         "last_update": "2026-10-14T09:15:15Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1460,7 +1460,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:32Z",
+         "last_update": "2026-10-14T09:15:15Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1479,11 +1479,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-14T03:59:33Z",
+       "last_update": "2026-10-14T09:14:29Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1497,7 +1497,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1513,7 +1513,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1532,11 +1532,11 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-14T04:00:21Z",
+       "last_update": "2026-10-14T09:15:02Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T04:00:21Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1550,7 +1550,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T04:00:21Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1566,7 +1566,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T04:00:21Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1585,15 +1585,15 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-14T03:58:48Z",
+       "last_update": "2026-10-14T09:14:30Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:58:47Z",
+         "last_update": "2026-10-14T09:14:30Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
-           "price": -155
+           "price": -160
           },
           {
            "name": "Missouri State Bears",
@@ -1603,7 +1603,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:58:47Z",
+         "last_update": "2026-10-14T09:14:30Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1619,7 +1619,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:58:47Z",
+         "last_update": "2026-10-14T09:14:30Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1638,11 +1638,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-14T03:59:06Z",
+       "last_update": "2026-10-14T09:12:58Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:06Z",
+         "last_update": "2026-10-14T09:12:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1656,7 +1656,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:06Z",
+         "last_update": "2026-10-14T09:12:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -1672,7 +1672,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:06Z",
+         "last_update": "2026-10-14T09:12:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1701,11 +1701,11 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-14T04:00:24Z",
+       "last_update": "2026-10-14T09:14:46Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T04:00:23Z",
+         "last_update": "2026-10-14T09:14:45Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1719,7 +1719,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T04:00:23Z",
+         "last_update": "2026-10-14T09:14:45Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1735,17 +1735,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T04:00:23Z",
+         "last_update": "2026-10-14T09:14:45Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 52.5,
-           "price": -120
+           "price": -110
           },
           {
            "name": "Under",
            "point": 52.5,
-           "price": -102
+           "price": -110
           }
          ]
         }
@@ -1754,11 +1754,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-14T03:59:48Z",
+       "last_update": "2026-10-14T09:15:04Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:47Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1772,7 +1772,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:47Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1788,7 +1788,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:47Z",
+         "last_update": "2026-10-14T09:15:02Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1807,11 +1807,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-14T03:59:18Z",
+       "last_update": "2026-10-14T09:13:43Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:17Z",
+         "last_update": "2026-10-14T09:13:43Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1825,7 +1825,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:17Z",
+         "last_update": "2026-10-14T09:13:43Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1841,17 +1841,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:17Z",
+         "last_update": "2026-10-14T09:13:43Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 53.5,
-           "price": -109
+           "point": 52.5,
+           "price": -114
           },
           {
            "name": "Under",
-           "point": 53.5,
-           "price": -114
+           "point": 52.5,
+           "price": -109
           }
          ]
         }
@@ -1860,11 +1860,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-14T03:59:37Z",
+       "last_update": "2026-10-14T09:14:29Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -1878,23 +1878,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
            "point": 1.5,
-           "price": -105
+           "price": -110
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": -1.5,
-           "price": -115
+           "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1913,41 +1913,41 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-14T03:59:32Z",
+       "last_update": "2026-10-14T09:15:15Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:32Z",
+         "last_update": "2026-10-14T09:15:15Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
-           "price": 110
+           "price": 105
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -130
+           "price": -125
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:32Z",
+         "last_update": "2026-10-14T09:15:15Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
            "point": 2.0,
-           "price": -110
+           "price": -114
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": -2.0,
-           "price": -110
+           "price": -106
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:32Z",
+         "last_update": "2026-10-14T09:15:15Z",
          "outcomes": [
           {
            "name": "Over",
@@ -1966,41 +1966,41 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-14T03:59:33Z",
+       "last_update": "2026-10-14T09:14:29Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
-           "price": 110
+           "price": 105
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -130
+           "price": -125
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
            "point": 2.0,
-           "price": -106
+           "price": -110
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": -2.0,
-           "price": -106
+           "price": -102
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:33Z",
+         "last_update": "2026-10-14T09:14:28Z",
          "outcomes": [
           {
            "name": "Over",
@@ -2019,41 +2019,41 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-14T04:00:21Z",
+       "last_update": "2026-10-14T09:15:02Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T04:00:21Z",
+         "last_update": "2026-10-14T09:15:01Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
-           "price": 105
+           "price": 103
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -123
+           "price": -120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T04:00:21Z",
+         "last_update": "2026-10-14T09:15:01Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
            "point": 1.0,
-           "price": 101
+           "price": -102
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": -1.0,
-           "price": -117
+           "price": -114
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T04:00:21Z",
+         "last_update": "2026-10-14T09:15:01Z",
          "outcomes": [
           {
            "name": "Over",
@@ -2072,11 +2072,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-14T03:58:48Z",
+       "last_update": "2026-10-14T09:14:30Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:58:47Z",
+         "last_update": "2026-10-14T09:14:30Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
@@ -2084,34 +2084,34 @@
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -125
+           "price": -120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:58:47Z",
+         "last_update": "2026-10-14T09:14:30Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
-           "point": 2.0,
-           "price": -110
+           "point": 1.5,
+           "price": -108
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "point": -2.0,
-           "price": -108
+           "point": -1.5,
+           "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:58:47Z",
+         "last_update": "2026-10-14T09:14:30Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 52.5,
-           "price": -118
+           "price": -110
           },
           {
            "name": "Under",
@@ -2125,51 +2125,51 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-14T03:59:06Z",
+       "last_update": "2026-10-14T09:12:58Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-14T03:59:06Z",
+         "last_update": "2026-10-14T09:12:58Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
-           "price": 105
+           "price": 100
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -125
+           "price": -120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-14T03:59:06Z",
+         "last_update": "2026-10-14T09:12:58Z",
          "outcomes": [
           {
            "name": "Sam Houston State Bearkats",
-           "point": 2.0,
+           "point": 1.5,
            "price": -110
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "point": -2.0,
+           "point": -1.5,
            "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-14T03:59:06Z",
+         "last_update": "2026-10-14T09:12:58Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 52.5,
-           "price": -115
+           "point": 53.0,
+           "price": -105
           },
           {
            "name": "Under",
-           "point": 52.5,
-           "price": -105
+           "point": 53.0,
+           "price": -115
           }
          ]
         }
