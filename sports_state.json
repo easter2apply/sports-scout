@@ -1,240 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Kent State Golden Flashes to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.2395155324634397,
-   "fair": 0.11476995670957775,
-   "matchup": "Flashes @ Bulls",
-   "odds": 980,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792278000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 13.7h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +771 vs FanDuel 980: +24.0% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Florida State Seminoles to win",
-   "book": "draftkings",
-   "book_name": "DraftKings",
-   "ev": 0.070475843042477,
-   "fair": 0.10195008028975971,
-   "matchup": "Seminoles @ Hurricanes",
-   "odds": 950,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792278000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 13.7h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +881 vs DraftKings 950: +7.0% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Auburn Tigers to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.060752643198242806,
-   "fair": 0.11656622452727942,
-   "matchup": "Tigers @ Bulldogs",
-   "odds": 810,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792265400.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 10.2h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +758 vs FanDuel 810: +6.1% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Charlotte 49ers to win",
-   "book": "draftkings",
-   "book_name": "DraftKings",
-   "ev": 0.049701596480865806,
-   "fair": 0.0954274178618969,
-   "matchup": "49ers @ Owls",
-   "odds": 1000,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792256400.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 7.7h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +948 vs DraftKings 1000: +5.0% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Nevada Wolf Pack to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.030868237095069695,
-   "fair": 0.1718113728491783,
-   "matchup": "Pack @ Bison",
-   "odds": 500,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792278000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 13.7h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +482 vs FanDuel 500: +3.1% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Hawaii Rainbow Warriors to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.030709400563229128,
-   "fair": 0.1636046667560681,
-   "matchup": "Lobos @ Warriors",
-   "odds": 530,
-   "ok": true,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792290600.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 17.2h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +511 vs FanDuel 530: +3.1% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -1313,27 +1078,27 @@
   ],
   "57418b2cf5aca558b3c98eafac1e264a|h2h|Houston Texans|None": [
    0.4263,
-   1792228515.691227
+   1792229420.0305223
   ],
   "57418b2cf5aca558b3c98eafac1e264a|h2h|Jacksonville Jaguars|None": [
    0.5737,
-   1792228515.691227
+   1792229420.0305223
   ],
   "57418b2cf5aca558b3c98eafac1e264a|spreads|Houston Texans|2.5": [
    0.4852,
-   1792228515.691227
+   1792229420.0305223
   ],
   "57418b2cf5aca558b3c98eafac1e264a|spreads|Jacksonville Jaguars|-2.5": [
    0.5148,
-   1792228515.691227
+   1792229420.0305223
   ],
   "57418b2cf5aca558b3c98eafac1e264a|totals|Over|42.5": [
    0.4933,
-   1792228515.691227
+   1792229420.0305223
   ],
   "57418b2cf5aca558b3c98eafac1e264a|totals|Under|42.5": [
    0.5067,
-   1792228515.691227
+   1792229420.0305223
   ],
   "5d09c85c1d67e8f9db8db560cb038027|h2h|Missouri Tigers|None": [
    0.3495,
@@ -2816,7 +2581,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792228515.691227,
+ "last_run": 1792229420.0305223,
  "last_vote": {
   "approved": false,
   "label": "Kent State Golden Flashes to win",
@@ -3258,7 +3023,7 @@
      "text": "Fantasy playbook: NFL Week 6 Shadow Reports, lineup locks and projected scores An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
     }
    ],
-   "t": 1792226717.2509818
+   "t": 1792229421.2275686
   },
   "icehockey_nhl": {
    "items": [
