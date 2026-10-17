@@ -108,6 +108,42 @@
     "The Shopper": true,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Charlotte 49ers",
+   "bet": "Charlotte 49ers to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 12.6,
+   "ev": 0.14185596906718212,
+   "fair": 0.09062348960850652,
+   "game_id": "f10a59f9dd66cb1aa169a293326449d9",
+   "graded": 1792269020.6901662,
+   "home": "Temple Owls",
+   "id": "f10a59f9dd66cb1aa169a293326449d9-h2h-Charlotte 49ers--1792161028",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "49ers @ Owls",
+   "odds": 1160,
+   "outcome": "Charlotte 49ers",
+   "pl": 11.6,
+   "placed": 1792161028.664483,
+   "player": null,
+   "point": null,
+   "result": "win",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1792256400.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": true,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": false,
+    "The Skeptic": false
+   }
   }
  ],
  "credits": {
@@ -157,12 +193,12 @@
     {
      "away": {
       "name": "Charlotte 49ers",
-      "score": 35.0
+      "score": 38.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Temple Owls",
-      "score": 28.0
+      "score": 31.0
      },
      "id": "401862803"
     },
@@ -174,7 +210,7 @@
      "done": false,
      "home": {
       "name": "Buffalo Bulls",
-      "score": 15.0
+      "score": 25.0
      },
      "id": "401866442"
     },
@@ -210,7 +246,7 @@
      "done": false,
      "home": {
       "name": "Tennessee Volunteers",
-      "score": 6.0
+      "score": 9.0
      },
      "id": "401856723"
     },
@@ -229,31 +265,31 @@
     {
      "away": {
       "name": "Arizona State Sun Devils",
-      "score": 0.0
+      "score": 7.0
      },
      "done": false,
      "home": {
       "name": "Texas Tech Red Raiders",
-      "score": 14.0
+      "score": 21.0
      },
      "id": "401856828"
     },
     {
      "away": {
       "name": "Georgia Tech Yellow Jackets",
-      "score": 0.0
+      "score": 3.0
      },
      "done": false,
      "home": {
       "name": "Virginia Tech Hokies",
-      "score": 14.0
+      "score": 21.0
      },
      "id": "401858264"
     },
     {
      "away": {
       "name": "North Carolina Tar Heels",
-      "score": 10.0
+      "score": 17.0
      },
      "done": false,
      "home": {
@@ -277,7 +313,7 @@
     {
      "away": {
       "name": "Northern Illinois Huskies",
-      "score": 0.0
+      "score": 3.0
      },
      "done": false,
      "home": {
@@ -294,7 +330,7 @@
      "done": false,
      "home": {
       "name": "Air Force Falcons",
-      "score": 3.0
+      "score": 10.0
      },
      "id": "401864524"
     },
@@ -306,7 +342,7 @@
      "done": false,
      "home": {
       "name": "Eastern Michigan Eagles",
-      "score": 0.0
+      "score": 7.0
      },
      "id": "401866444"
     },
@@ -779,7 +815,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792268117.079537
+   "t": 1792269020.7998383
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -3342,7 +3378,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792268115.982149,
+ "last_run": 1792269019.8474233,
  "last_vote": {
   "approved": false,
   "label": "Kent State Golden Flashes to win",
@@ -27242,39 +27278,6 @@
  },
  "open": [
   {
-   "away": "Charlotte 49ers",
-   "bet": "Charlotte 49ers to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 12.6,
-   "ev": 0.14185596906718212,
-   "fair": 0.09062348960850652,
-   "game_id": "f10a59f9dd66cb1aa169a293326449d9",
-   "home": "Temple Owls",
-   "id": "f10a59f9dd66cb1aa169a293326449d9-h2h-Charlotte 49ers--1792161028",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "49ers @ Owls",
-   "odds": 1160,
-   "outcome": "Charlotte 49ers",
-   "placed": 1792161028.664483,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1792256400.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": true,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": false,
-    "The Skeptic": false
-   }
-  },
-  {
    "away": "Auburn Tigers",
    "bet": "Auburn Tigers to win",
    "book": "fanduel",
@@ -27538,15 +27541,22 @@
    "title": "Kent State Golden Flashes to win + Auburn Tigers to win"
   }
  ],
+ "parties": [
+  {
+   "detail": "+$11.60",
+   "t": 1792269020.6901662,
+   "title": "Charlotte 49ers to win"
+  }
+ ],
  "record": {
   "losses": 3,
-  "pl": -5.34,
+  "pl": 6.26,
   "pushes": 0,
-  "staked": 5.34,
-  "wins": 0
+  "staked": 6.34,
+  "wins": 1
  },
  "schedule": {
-  "americanfootball_ncaaf": 23,
+  "americanfootball_ncaaf": 22,
   "americanfootball_nfl": 12,
   "icehockey_nhl": 13
  }
