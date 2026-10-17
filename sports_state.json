@@ -1,123 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Kent State Golden Flashes to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.20242514703805292,
-   "fair": 0.11133566176278267,
-   "matchup": "Flashes @ Bulls",
-   "odds": 980,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792278000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 3.0h; odds 180 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +798 vs FanDuel 980: +20.2% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Florida State Seminoles to win",
-   "book": "draftkings",
-   "book_name": "DraftKings",
-   "ev": 0.10956833063080218,
-   "fair": 0.11095683306308023,
-   "matchup": "Seminoles @ Hurricanes",
-   "odds": 900,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792278000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 3.0h; odds 180 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +801 vs DraftKings 900: +11.0% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  },
-  {
-   "bet": "Auburn Tigers to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.07994992686498748,
-   "fair": 0.1124947840484362,
-   "matchup": "Tigers @ Bulldogs",
-   "odds": 860,
-   "ok": true,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792265400.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in -0.5h; odds 180 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +789 vs FanDuel 860: +8.0% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -274,42 +156,6 @@
    "games": [
     {
      "away": {
-      "name": "Ohio State Buckeyes",
-      "score": 19.0
-     },
-     "done": true,
-     "home": {
-      "name": "Indiana Hoosiers",
-      "score": 15.0
-     },
-     "id": "401858488"
-    },
-    {
-     "away": {
-      "name": "Rutgers Scarlet Knights",
-      "score": 37.0
-     },
-     "done": false,
-     "home": {
-      "name": "Maryland Terrapins",
-      "score": 30.0
-     },
-     "id": "401858489"
-    },
-    {
-     "away": {
-      "name": "The Citadel Bulldogs",
-      "score": 0.0
-     },
-     "done": true,
-     "home": {
-      "name": "Texas A&M Aggies",
-      "score": 41.0
-     },
-     "id": "401856725"
-    },
-    {
-     "away": {
       "name": "Charlotte 49ers",
       "score": 35.0
      },
@@ -323,7 +169,7 @@
     {
      "away": {
       "name": "Massachusetts Minutemen",
-      "score": 15.0
+      "score": 18.0
      },
      "done": false,
      "home": {
@@ -347,7 +193,7 @@
     {
      "away": {
       "name": "Auburn Tigers",
-      "score": 0.0
+      "score": 7.0
      },
      "done": false,
      "home": {
@@ -355,6 +201,18 @@
       "score": 14.0
      },
      "id": "401856719"
+    },
+    {
+     "away": {
+      "name": "Alabama Crimson Tide",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Tennessee Volunteers",
+      "score": 6.0
+     },
+     "id": "401856723"
     },
     {
      "away": {
@@ -367,6 +225,18 @@
       "score": 7.0
      },
      "id": "401856721"
+    },
+    {
+     "away": {
+      "name": "Arizona State Sun Devils",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Texas Tech Red Raiders",
+      "score": 14.0
+     },
+     "id": "401856828"
     },
     {
      "away": {
@@ -394,20 +264,32 @@
     },
     {
      "away": {
+      "name": "Penn State Nittany Lions",
+      "score": 3.0
+     },
+     "done": false,
+     "home": {
+      "name": "Michigan Wolverines",
+      "score": 0.0
+     },
+     "id": "401858490"
+    },
+    {
+     "away": {
       "name": "Northern Illinois Huskies",
       "score": 0.0
      },
      "done": false,
      "home": {
       "name": "Wyoming Cowboys",
-      "score": 3.0
+      "score": 10.0
      },
      "id": "401864522"
     },
     {
      "away": {
       "name": "UNLV Rebels",
-      "score": 0.0
+      "score": 7.0
      },
      "done": false,
      "home": {
@@ -419,7 +301,7 @@
     {
      "away": {
       "name": "Toledo Rockets",
-      "score": 10.0
+      "score": 17.0
      },
      "done": false,
      "home": {
@@ -436,9 +318,21 @@
      "done": false,
      "home": {
       "name": "Miami (OH) RedHawks",
-      "score": 0.0
+      "score": 7.0
      },
      "id": "401866478"
+    },
+    {
+     "away": {
+      "name": "Ohio State Buckeyes",
+      "score": 19.0
+     },
+     "done": true,
+     "home": {
+      "name": "Indiana Hoosiers",
+      "score": 15.0
+     },
+     "id": "401858488"
     },
     {
      "away": {
@@ -574,39 +468,27 @@
     },
     {
      "away": {
-      "name": "Alabama Crimson Tide",
-      "score": 0.0
+      "name": "Rutgers Scarlet Knights",
+      "score": 37.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "Tennessee Volunteers",
-      "score": 9.0
+      "name": "Maryland Terrapins",
+      "score": 30.0
      },
-     "id": "401856723"
+     "id": "401858489"
     },
     {
      "away": {
-      "name": "Arizona State Sun Devils",
+      "name": "The Citadel Bulldogs",
       "score": 0.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "Texas Tech Red Raiders",
-      "score": 7.0
+      "name": "Texas A&M Aggies",
+      "score": 41.0
      },
-     "id": "401856828"
-    },
-    {
-     "away": {
-      "name": "Penn State Nittany Lions",
-      "score": 3.0
-     },
-     "done": false,
-     "home": {
-      "name": "Michigan Wolverines",
-      "score": 0.0
-     },
-     "id": "401858490"
+     "id": "401856725"
     },
     {
      "away": {
@@ -897,7 +779,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792267223.48503
+   "t": 1792268117.079537
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -3460,7 +3342,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792267222.5194023,
+ "last_run": 1792268115.982149,
  "last_vote": {
   "approved": false,
   "label": "Kent State Golden Flashes to win",
