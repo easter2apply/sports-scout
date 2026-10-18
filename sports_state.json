@@ -408,18 +408,6 @@
    "games": [
     {
      "away": {
-      "name": "Nebraska Cornhuskers",
-      "score": 14.0
-     },
-     "done": true,
-     "home": {
-      "name": "Oregon Ducks",
-      "score": 17.0
-     },
-     "id": "401858492"
-    },
-    {
-     "away": {
       "name": "Auburn Tigers",
       "score": 27.0
      },
@@ -1029,9 +1017,21 @@
       "score": 10.0
      },
      "id": "401864521"
+    },
+    {
+     "away": {
+      "name": "Nebraska Cornhuskers",
+      "score": 14.0
+     },
+     "done": true,
+     "home": {
+      "name": "Oregon Ducks",
+      "score": 17.0
+     },
+     "id": "401858492"
     }
    ],
-   "t": 1792305918.9388192
+   "t": 1792306825.328316
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -4007,7 +4007,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792305917.2650313,
+ "last_run": 1792306824.0916388,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
