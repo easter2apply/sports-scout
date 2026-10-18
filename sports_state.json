@@ -180,6 +180,42 @@
     "The Shopper": false,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "New York Islanders",
+   "bet": "Toronto Maple Leafs to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 1.8518518518518516,
+   "ev": 0.03383458646616533,
+   "fair": 0.5582706766917294,
+   "game_id": "72d1180c19caf72334666cf7ccf93c48",
+   "graded": 1792287915.7229013,
+   "home": "Toronto Maple Leafs",
+   "id": "72d1180c19caf72334666cf7ccf93c48-h2h-Toronto Maple Leafs--1792180823",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Islanders @ Leafs",
+   "odds": 52,
+   "outcome": "Toronto Maple Leafs",
+   "pl": -1.0,
+   "placed": 1792180823.3122873,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "icehockey_nhl",
+   "stake": 1.0,
+   "start": 1792278600.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26oct22nyrtor",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -229,19 +265,19 @@
     {
      "away": {
       "name": "Washington State Cougars",
-      "score": 28.0
+      "score": 30.0
      },
      "done": false,
      "home": {
       "name": "Oregon State Beavers",
-      "score": 41.0
+      "score": 48.0
      },
      "id": "401860903"
     },
     {
      "away": {
       "name": "Florida State Seminoles",
-      "score": 14.0
+      "score": 21.0
      },
      "done": false,
      "home": {
@@ -253,7 +289,7 @@
     {
      "away": {
       "name": "Arkansas Razorbacks",
-      "score": 21.0
+      "score": 28.0
      },
      "done": false,
      "home": {
@@ -306,7 +342,7 @@
      "done": false,
      "home": {
       "name": "Southern Miss Golden Eagles",
-      "score": 7.0
+      "score": 13.0
      },
      "id": "401869934"
     },
@@ -325,7 +361,7 @@
     {
      "away": {
       "name": "Wisconsin Badgers",
-      "score": 0.0
+      "score": 7.0
      },
      "done": false,
      "home": {
@@ -342,19 +378,19 @@
      "done": false,
      "home": {
       "name": "Oklahoma Sooners",
-      "score": 10.0
+      "score": 13.0
      },
      "id": "401856722"
     },
     {
      "away": {
       "name": "Oklahoma State Cowboys",
-      "score": 3.0
+      "score": 10.0
      },
      "done": false,
      "home": {
       "name": "Houston Cougars",
-      "score": 14.0
+      "score": 21.0
      },
      "id": "401856831"
     },
@@ -385,7 +421,7 @@
     {
      "away": {
       "name": "Navy Midshipmen",
-      "score": 14.0
+      "score": 20.0
      },
      "done": false,
      "home": {
@@ -851,7 +887,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792287021.7567275
+   "t": 1792287916.2341983
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -1186,6 +1222,179 @@
     }
    ],
    "t": 1792122320.1067958
+  },
+  "icehockey_nhl|2026-10-17": {
+   "games": [
+    {
+     "away": {
+      "name": "New Jersey Devils",
+      "score": 2.0
+     },
+     "done": true,
+     "home": {
+      "name": "Washington Capitals",
+      "score": 4.0
+     },
+     "id": "401892519"
+    },
+    {
+     "away": {
+      "name": "Carolina Hurricanes",
+      "score": 3.0
+     },
+     "done": true,
+     "home": {
+      "name": "Winnipeg Jets",
+      "score": 2.0
+     },
+     "id": "401892520"
+    },
+    {
+     "away": {
+      "name": "Vancouver Canucks",
+      "score": 2.0
+     },
+     "done": true,
+     "home": {
+      "name": "Tampa Bay Lightning",
+      "score": 4.0
+     },
+     "id": "401892521"
+    },
+    {
+     "away": {
+      "name": "Seattle Kraken",
+      "score": 3.0
+     },
+     "done": true,
+     "home": {
+      "name": "Florida Panthers",
+      "score": 8.0
+     },
+     "id": "401892522"
+    },
+    {
+     "away": {
+      "name": "New York Islanders",
+      "score": 4.0
+     },
+     "done": true,
+     "home": {
+      "name": "Toronto Maple Leafs",
+      "score": 1.0
+     },
+     "id": "401892523"
+    },
+    {
+     "away": {
+      "name": "Buffalo Sabres",
+      "score": 3.0
+     },
+     "done": false,
+     "home": {
+      "name": "Montreal Canadiens",
+      "score": 3.0
+     },
+     "id": "401892524"
+    },
+    {
+     "away": {
+      "name": "San Jose Sharks",
+      "score": 3.0
+     },
+     "done": false,
+     "home": {
+      "name": "Detroit Red Wings",
+      "score": 3.0
+     },
+     "id": "401892525"
+    },
+    {
+     "away": {
+      "name": "Ottawa Senators",
+      "score": 1.0
+     },
+     "done": false,
+     "home": {
+      "name": "Philadelphia Flyers",
+      "score": 2.0
+     },
+     "id": "401892526"
+    },
+    {
+     "away": {
+      "name": "New York Rangers",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Columbus Blue Jackets",
+      "score": 0.0
+     },
+     "id": "401892527"
+    },
+    {
+     "away": {
+      "name": "Dallas Stars",
+      "score": 4.0
+     },
+     "done": true,
+     "home": {
+      "name": "Chicago Blackhawks",
+      "score": 0.0
+     },
+     "id": "401892528"
+    },
+    {
+     "away": {
+      "name": "St. Louis Blues",
+      "score": 2.0
+     },
+     "done": false,
+     "home": {
+      "name": "Nashville Predators",
+      "score": 3.0
+     },
+     "id": "401892529"
+    },
+    {
+     "away": {
+      "name": "Boston Bruins",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Los Angeles Kings",
+      "score": 1.0
+     },
+     "id": "401892530"
+    },
+    {
+     "away": {
+      "name": "Edmonton Oilers",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Utah Mammoth",
+      "score": 0.0
+     },
+     "id": "401892531"
+    },
+    {
+     "away": {
+      "name": "Pittsburgh Penguins",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Vegas Golden Knights",
+      "score": 0.0
+     },
+     "id": "401892532"
+    }
+   ],
+   "t": 1792287916.3898022
   }
  },
  "fair_hist": {
@@ -3694,7 +3903,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792287020.5487604,
+ "last_run": 1792287914.977331,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
@@ -32994,39 +33203,6 @@
    }
   },
   {
-   "away": "New York Islanders",
-   "bet": "Toronto Maple Leafs to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 1.8518518518518516,
-   "ev": 0.03383458646616533,
-   "fair": 0.5582706766917294,
-   "game_id": "72d1180c19caf72334666cf7ccf93c48",
-   "home": "Toronto Maple Leafs",
-   "id": "72d1180c19caf72334666cf7ccf93c48-h2h-Toronto Maple Leafs--1792180823",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Islanders @ Leafs",
-   "odds": 52,
-   "outcome": "Toronto Maple Leafs",
-   "placed": 1792180823.3122873,
-   "player": null,
-   "point": null,
-   "sport": "icehockey_nhl",
-   "stake": 1.0,
-   "start": 1792278600.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26oct22nyrtor",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  },
-  {
    "away": "Utah Utes",
    "bet": "Colorado Buffaloes to win",
    "book": "kalshi",
@@ -33172,15 +33348,15 @@
   }
  ],
  "record": {
-  "losses": 3,
-  "pl": 14.36,
+  "losses": 4,
+  "pl": 13.36,
   "pushes": 0,
-  "staked": 7.34,
+  "staked": 8.34,
   "wins": 2
  },
  "schedule": {
-  "americanfootball_ncaaf": 5,
+  "americanfootball_ncaaf": 4,
   "americanfootball_nfl": 12,
-  "icehockey_nhl": 4
+  "icehockey_nhl": 2
  }
 }
