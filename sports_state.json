@@ -264,18 +264,6 @@
    "games": [
     {
      "away": {
-      "name": "Washington State Cougars",
-      "score": 30.0
-     },
-     "done": false,
-     "home": {
-      "name": "Oregon State Beavers",
-      "score": 48.0
-     },
-     "id": "401860903"
-    },
-    {
-     "away": {
       "name": "Florida State Seminoles",
       "score": 21.0
      },
@@ -318,7 +306,7 @@
      "done": false,
      "home": {
       "name": "South Florida Bulls",
-      "score": 17.0
+      "score": 24.0
      },
      "id": "401862806"
     },
@@ -330,7 +318,7 @@
      "done": false,
      "home": {
       "name": "North Dakota State Bison",
-      "score": 24.0
+      "score": 31.0
      },
      "id": "401864520"
     },
@@ -373,7 +361,7 @@
     {
      "away": {
       "name": "Kentucky Wildcats",
-      "score": 7.0
+      "score": 14.0
      },
      "done": false,
      "home": {
@@ -385,7 +373,7 @@
     {
      "away": {
       "name": "Oklahoma State Cowboys",
-      "score": 10.0
+      "score": 17.0
      },
      "done": false,
      "home": {
@@ -402,7 +390,7 @@
      "done": false,
      "home": {
       "name": "Stanford Cardinal",
-      "score": 14.0
+      "score": 21.0
      },
      "id": "401858262"
     },
@@ -433,7 +421,7 @@
     {
      "away": {
       "name": "Louisiana Tech Bulldogs",
-      "score": 0.0
+      "score": 7.0
      },
      "done": false,
      "home": {
@@ -816,6 +804,18 @@
     },
     {
      "away": {
+      "name": "Washington State Cougars",
+      "score": 30.0
+     },
+     "done": true,
+     "home": {
+      "name": "Oregon State Beavers",
+      "score": 48.0
+     },
+     "id": "401860903"
+    },
+    {
+     "away": {
       "name": "Ohio Bobcats",
       "score": 0.0
      },
@@ -887,7 +887,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792287916.2341983
+   "t": 1792288825.2136178
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -3903,7 +3903,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792287914.977331,
+ "last_run": 1792288823.3907206,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
@@ -33355,7 +33355,7 @@
   "wins": 2
  },
  "schedule": {
-  "americanfootball_ncaaf": 4,
+  "americanfootball_ncaaf": 1,
   "americanfootball_nfl": 12,
   "icehockey_nhl": 2
  }
