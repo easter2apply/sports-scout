@@ -360,6 +360,42 @@
     "The Shopper": true,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Buffalo Bills",
+   "bet": "Las Vegas Raiders to win",
+   "book": "draftkings",
+   "book_name": "DraftKings",
+   "dec": 3.1,
+   "ev": 0.03214363506238915,
+   "fair": 0.33294955969754486,
+   "game_id": "45b2690b350ed45145c7a716b18e8e66",
+   "graded": 1792367116.2498384,
+   "home": "Las Vegas Raiders",
+   "id": "45b2690b350ed45145c7a716b18e8e66-h2h-Las Vegas Raiders--1792269915",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Bills @ Raiders",
+   "odds": 210,
+   "outcome": "Las Vegas Raiders",
+   "pl": -1.0,
+   "placed": 1792269915.1338305,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_nfl",
+   "stake": 1.0,
+   "start": 1792355100.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -1031,34 +1067,10 @@
      "id": "401858492"
     }
    ],
-   "t": 1792366220.9192746
+   "t": 1792367116.5514708
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
-    {
-     "away": {
-      "name": "Los Angeles Chargers",
-      "score": 6.0
-     },
-     "done": true,
-     "home": {
-      "name": "Kansas City Chiefs",
-      "score": 22.0
-     },
-     "id": "401873006"
-    },
-    {
-     "away": {
-      "name": "Buffalo Bills",
-      "score": 33.0
-     },
-     "done": false,
-     "home": {
-      "name": "Las Vegas Raiders",
-      "score": 30.0
-     },
-     "id": "401873005"
-    },
     {
      "away": {
       "name": "Houston Texans",
@@ -1169,6 +1181,30 @@
     },
     {
      "away": {
+      "name": "Los Angeles Chargers",
+      "score": 6.0
+     },
+     "done": true,
+     "home": {
+      "name": "Kansas City Chiefs",
+      "score": 22.0
+     },
+     "id": "401873006"
+    },
+    {
+     "away": {
+      "name": "Buffalo Bills",
+      "score": 33.0
+     },
+     "done": true,
+     "home": {
+      "name": "Las Vegas Raiders",
+      "score": 30.0
+     },
+     "id": "401873005"
+    },
+    {
+     "away": {
       "name": "Dallas Cowboys",
       "score": 0.0
      },
@@ -1180,7 +1216,7 @@
      "id": "401873007"
     }
    ],
-   "t": 1792366221.0053802
+   "t": 1792367116.7212129
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -2533,11 +2569,11 @@
   ],
   "82fd5a159fa130e67abab93a9537f70b|h2h|Dallas Cowboys|None": [
    0.5127,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "82fd5a159fa130e67abab93a9537f70b|h2h|Green Bay Packers|None": [
    0.4873,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "82fd5a159fa130e67abab93a9537f70b|spreads|Dallas Cowboys|1.0": [
    0.5093,
@@ -2549,11 +2585,11 @@
   ],
   "82fd5a159fa130e67abab93a9537f70b|totals|Over|53.5": [
    0.5092,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "82fd5a159fa130e67abab93a9537f70b|totals|Under|53.5": [
    0.4908,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "841c71c033cf05ad1313e3d5ecd2d9ab|h2h|New Jersey Devils|None": [
    0.477,
@@ -3253,27 +3289,27 @@
   ],
   "f122527f003276d3bca19efa48c902c1|h2h|San Francisco 49ers|None": [
    0.7752,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "f122527f003276d3bca19efa48c902c1|h2h|Washington Commanders|None": [
    0.2248,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "f122527f003276d3bca19efa48c902c1|spreads|San Francisco 49ers|-7.5": [
    0.4954,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "f122527f003276d3bca19efa48c902c1|spreads|Washington Commanders|7.5": [
    0.5046,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "f122527f003276d3bca19efa48c902c1|totals|Over|52.5": [
    0.491,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "f122527f003276d3bca19efa48c902c1|totals|Under|52.5": [
    0.509,
-   1792366219.8982584
+   1792367115.5381963
   ],
   "f89afd766421957193cfae45ff3aa16a|h2h|Arkansas State Red Wolves|None": [
    0.674,
@@ -3356,7 +3392,7 @@
    1792267222.5194023
   ]
  },
- "last_run": 1792366219.8982584,
+ "last_run": 1792367115.5381963,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
@@ -3598,35 +3634,67 @@
   "americanfootball_nfl": {
    "items": [
     {
-     "t": 1792364211.0,
+     "t": 1792366657.0,
+     "text": "Chiefs move to 5-0 as Kenneth Walker runs for two TDs in a 22-6 win over Chargers \u2014 Kenneth Walker ran for 128 yards and two touchdowns, Patrick Mahomes finished with 272 yards passing and the Kansas City Chiefs remained one of the NFL's final three unbeatens with a 22-6 victory over the injury-plagued Los Angeles Chargers on Sunday."
+    },
+    {
+     "t": 1792366596.0,
+     "text": "Fantasy football buzz: Week 6 scoring leaders through Sunday's 4 p.m. ET games A look at the leading fantasy scorers through Sunday's 4 p.m. games."
+    },
+    {
+     "t": 1792367003.0,
+     "text": "Fans boo Colts in loss to Titans; 'I don't blame them,' says Shane Steichen Boos and calls to \"Fire Ballard\" rained down from the Colts' home fans Sunday as Indianapolis lost to previously winless Tennessee. Said coach Shane Steichen: \"I don't blame them for booing one freaking bit.\""
+    },
+    {
+     "t": 1792366458.0,
+     "text": "Los Angeles Chargers vs. Kansas City Chiefs: Game Highlights Los Angeles Chargers vs. Kansas City Chiefs: Game Highlights"
+    },
+    {
+     "t": 1792366997.0,
+     "text": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6."
+    },
+    {
+     "t": 1792365627.0,
+     "text": "Cardinals beat Rams 18-16 on Chad Ryland's 6th field goal as time expires \u2014 Chad Ryland kicked his sixth field goal a 43-yarder as time expired, and the Arizona Cardinals rallied for a stunning 18-16 victory over the Los Angeles Rams on Sunday."
+    },
+    {
+     "t": 1792365686.0,
+     "text": "McCarthy nearly rallies Giants after Winston benched; Skattebo logs no carries Giants coach John Harbaugh said Sunday he's not ready to name a starting quarterback for Week 7 after J.J. McCarthy replaced Jameis Winston against the Saints."
+    },
+    {
+     "t": 1792365262.0,
+     "text": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\""
+    },
+    {
+     "t": 1792365101.0,
      "text": "Week 6 winners and losers: Lawrence, Nabers impress; Robinson, Henry disappoint Malik Nabers, Trevor Lawrence and Tyler Shough came up big in Week 6, while Bijan Robinson and Derrick Henry underwhelmed."
     },
     {
-     "t": 1792363393.0,
-     "text": "Panthers' Tremble admits TD taunt was payback for 'suplex' by Eagles' DeJean Panthers TE Tommy Tremble apologized for costing his team a penalty after he taunted DB Cooper DeJean, saying it was retaliation for an earlier personal foul."
+     "t": 1792365970.0,
+     "text": "Panthers' Tremble admits TD taunt was payback for 'suplex' by Eagles' DeJean Panthers tight end Tommy Tremble apologized for costing his team a penalty after he taunted defensive back Cooper DeJean, saying it was retaliation for an earlier personal foul."
     },
     {
-     "t": 1792362797.0,
+     "t": 1792366153.0,
      "text": "How to bet Cowboys-Packers: Analysis, tips and top prop plays Odds, bets and analysis to help you bet Dallas Cowboys-Green Bay Packers on \"Sunday Night Football.\""
     },
     {
-     "t": 1792362914.0,
+     "t": 1792364669.0,
      "text": "Patriots' A.J. Brown has career-high 3 dropped passes in return from injury Patriots receiver A.J. Brown, coming off a right high ankle sprain that sidelined him four weeks, had a shaky return to action Sunday, dropping a career-high three passes in the team's win over the Jets"
     },
     {
-     "t": 1792363746.0,
-     "text": "Blake Grupe exits Rams debut early due to knee injury In his first game since replacing Harrison Mevis last week, kicker Blake Grupe left because of a knee injury and didn't return."
+     "t": 1792366605.0,
+     "text": "Ethan Evans' heroics for Rams short-lived in loss to Cards In his first game since replacing Harrison Mevis, Blake Grupe left because of a knee injury and didn't return. Punter Ethan Evans hit a go-ahead PAT late."
     },
     {
-     "t": 1792362411.0,
-     "text": "Jeffery Simmons' halftime message, play help Titans stun Colts, get 1st win Robert Saleh said it was said it was Jeffrey Simmons' play and halftime actions that inspired the Titans to their first win of the season."
+     "t": 1792365337.0,
+     "text": "Jeffery Simmons' halftime message, play help Titans stun Colts, get 1st win Robert Saleh said it was Jeffery Simmons' play and halftime actions that inspired the Titans to their first win of the season."
     },
     {
      "t": 1792364275.0,
      "text": "Derrick Henry takes blame as fumbling woes costly for Ravens Derrick Henry's fumble in the fourth quarter led to Cleveland's only touchdown drive of the game."
     },
     {
-     "t": 1792363939.0,
+     "t": 1792366867.0,
      "text": "Jerry Jeudy, amid trade buzz, has clutch catch in Browns' win, gets game ball Browns wide receiver Jerry Jeudy had a clutch catch in Cleveland's game-winning drive Sunday, earning a game ball from coach Todd Monken."
     },
     {
@@ -3638,7 +3706,7 @@
      "text": "How should fantasy managers view Bhayshul Tuen moving forward? How should fantasy managers view Bhayshul Tuen moving forward?"
     },
     {
-     "t": 1792361760.0,
+     "t": 1792366407.0,
      "text": "Steelers' Aaron Rodgers throws two TDs to tie Peyton Manning on all-time list Aaron Rodgers tied Peyton Manning on the all-time passing touchdown list with 539 in the Steelers' overtime victory."
     },
     {
@@ -3666,10 +3734,6 @@
      "text": "Rodgers throws 2 late TD passes as Steelers storm back to beat Buccaneers 26-19 in OT \u2014 The way Aaron Rodgers sees it, the Pittsburgh Steelers took a significant step with their first road win of the season."
     },
     {
-     "t": 1792360328.0,
-     "text": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6."
-    },
-    {
      "t": 1792357904.0,
      "text": "Week 6 NFL highlights: Best plays, moments, touchdowns, more Here's a look at the best plays from Sunday's NFL action in Week 6."
     },
@@ -3684,10 +3748,6 @@
     {
      "t": 1792357293.0,
      "text": "Pittsburgh Steelers vs. Tampa Bay Buccaneers: Game Highlights Pittsburgh Steelers vs. Tampa Bay Buccaneers: Game Highlights"
-    },
-    {
-     "t": 1792359040.0,
-     "text": "Betting buzz: $100K buy-in, $7.7 million prize pool ... and a missed deadline A first-time Circa Grandissimo player says his proxy failed to submit his Week 6 pick before the deadline."
     },
     {
      "t": 1792360648.0,
@@ -3708,10 +3768,6 @@
     {
      "t": 1792359993.0,
      "text": "Drake Maye's 3 TD passes help Patriots stave off late push by Jets in 26-19 win \u2014 The mantra in New England's locker room under Mike Vrabel has been to never apologize for a win. So no one was feeling bad about the Patriots improving to 2-0 in the AFC East after their victory over the New York Jets on Sunday."
-    },
-    {
-     "t": 1792356379.0,
-     "text": "Fantasy football buzz: Week 6 scoring leaders through Sunday's early games A look at the leading fantasy scorers through Sunday's early games."
     },
     {
      "t": 1792360649.0,
@@ -3776,29 +3832,9 @@
     {
      "t": 1792357857.0,
      "text": "NFL: Steelers-Saints in Paris still on despite civil unrest, protests in France The Week 7 game between the New Orleans Saints and Pittsburgh Steelers on Oct. 25 in Paris is still scheduled as planned despite civil unrest and protests in France, the NFL said."
-    },
-    {
-     "t": 1792344320.0,
-     "text": "2027 NFL draft questions, latest intel, risers, CFB standouts Is Trinidad Chambliss playing well enough to overcome his size? Which Tennessee defender is emerging among the DT group? Here's draft spin off CFB Week 7."
-    },
-    {
-     "t": 1792342052.0,
-     "text": "CB Alontae Taylor inactive against Colts as Titans seek first victory Titans cornerback Alontae Taylor is inactive for Sunday's game against the Colts. A team source told ESPN that it was a coach's decision and not injury-related."
-    },
-    {
-     "t": 1792351933.0,
-     "text": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals NFL stars continue to turn game-day arrivals into their own weekly fashion showcase."
-    },
-    {
-     "t": 1792344207.0,
-     "text": "Texans safety Reed Blankenship suffers concussion vs. Jaguars in London The Texans lost starting safety Reed Blankenship to a concussion in the second quarter of Sunday's game against the Jaguars in London."
-    },
-    {
-     "t": 1792340514.0,
-     "text": "'Sunny Strong': How one young Ravens fan with cancer inspires the team During pregame warm-ups, the Ravens wear a hand-crafted hoodie, designed by pediatric cancer patients. As Kimberley tells us, Baltimore's number one receiver, Zay Flowers, has made a connection with his number one fan"
     }
    ],
-   "t": 1792364426.9945664
+   "t": 1792367117.3210833
   },
   "icehockey_nhl": {
    "items": [
@@ -22750,39 +22786,6 @@
     "The Shopper": true,
     "The Skeptic": false
    }
-  },
-  {
-   "away": "Buffalo Bills",
-   "bet": "Las Vegas Raiders to win",
-   "book": "draftkings",
-   "book_name": "DraftKings",
-   "dec": 3.1,
-   "ev": 0.03214363506238915,
-   "fair": 0.33294955969754486,
-   "game_id": "45b2690b350ed45145c7a716b18e8e66",
-   "home": "Las Vegas Raiders",
-   "id": "45b2690b350ed45145c7a716b18e8e66-h2h-Las Vegas Raiders--1792269915",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Bills @ Raiders",
-   "odds": 210,
-   "outcome": "Las Vegas Raiders",
-   "placed": 1792269915.1338305,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_nfl",
-   "stake": 1.0,
-   "start": 1792355100.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
   }
  ],
  "parlays": [
@@ -22832,14 +22835,14 @@
   }
  ],
  "record": {
-  "losses": 8,
-  "pl": 9.36,
+  "losses": 9,
+  "pl": 8.36,
   "pushes": 0,
-  "staked": 12.34,
+  "staked": 13.34,
   "wins": 2
  },
  "schedule": {
   "americanfootball_nfl": 2,
-  "icehockey_nhl": 5
+  "icehockey_nhl": 4
  }
 }
