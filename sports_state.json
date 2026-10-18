@@ -324,6 +324,42 @@
     "The Shopper": false,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Utah Utes",
+   "bet": "Colorado Buffaloes to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 6.666666666666666,
+   "ev": 0.03089555438335334,
+   "fair": 0.15463433315750302,
+   "game_id": "9f43906997c18b956105dded3134ef1f",
+   "graded": 1792304115.8916001,
+   "home": "Colorado Buffaloes",
+   "id": "9f43906997c18b956105dded3134ef1f-h2h-Colorado Buffaloes--1792203317",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Utes @ Buffaloes",
+   "odds": 14,
+   "outcome": "Colorado Buffaloes",
+   "pl": -1.0,
+   "placed": 1792203317.0152564,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1792289700.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct16utahcolo",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
   }
  ],
  "credits": {
@@ -375,36 +411,12 @@
       "name": "Utah Utes",
       "score": 27.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Colorado Buffaloes",
       "score": 24.0
      },
      "id": "401856833"
-    },
-    {
-     "away": {
-      "name": "Wake Forest Demon Deacons",
-      "score": 41.0
-     },
-     "done": true,
-     "home": {
-      "name": "California Golden Bears",
-      "score": 7.0
-     },
-     "id": "401858269"
-    },
-    {
-     "away": {
-      "name": "New Mexico Lobos",
-      "score": 21.0
-     },
-     "done": false,
-     "home": {
-      "name": "Hawai'i Rainbow Warriors",
-      "score": 10.0
-     },
-     "id": "401864521"
     },
     {
      "away": {
@@ -414,7 +426,7 @@
      "done": false,
      "home": {
       "name": "Oregon Ducks",
-      "score": 6.0
+      "score": 9.0
      },
      "id": "401858492"
     },
@@ -561,6 +573,18 @@
       "score": 35.0
      },
      "id": "401856831"
+    },
+    {
+     "away": {
+      "name": "Wake Forest Demon Deacons",
+      "score": 41.0
+     },
+     "done": true,
+     "home": {
+      "name": "California Golden Bears",
+      "score": 7.0
+     },
+     "id": "401858269"
     },
     {
      "away": {
@@ -993,9 +1017,21 @@
       "score": 26.0
      },
      "id": "401860904"
+    },
+    {
+     "away": {
+      "name": "New Mexico Lobos",
+      "score": 21.0
+     },
+     "done": true,
+     "home": {
+      "name": "Hawai'i Rainbow Warriors",
+      "score": 10.0
+     },
+     "id": "401864521"
     }
    ],
-   "t": 1792303223.6605666
+   "t": 1792304115.9874969
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -3971,7 +4007,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792303222.7166383,
+ "last_run": 1792304115.2371247,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
@@ -28176,39 +28212,6 @@
  },
  "open": [
   {
-   "away": "Utah Utes",
-   "bet": "Colorado Buffaloes to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 6.666666666666666,
-   "ev": 0.03089555438335334,
-   "fair": 0.15463433315750302,
-   "game_id": "9f43906997c18b956105dded3134ef1f",
-   "home": "Colorado Buffaloes",
-   "id": "9f43906997c18b956105dded3134ef1f-h2h-Colorado Buffaloes--1792203317",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Utes @ Buffaloes",
-   "odds": 14,
-   "outcome": "Colorado Buffaloes",
-   "placed": 1792203317.0152564,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1792289700.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct16utahcolo",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  },
-  {
    "away": "New Mexico Lobos",
    "bet": "Hawaii Rainbow Warriors to win",
    "book": "fanduel",
@@ -28322,10 +28325,10 @@
   }
  ],
  "record": {
-  "losses": 7,
-  "pl": 10.36,
+  "losses": 8,
+  "pl": 9.36,
   "pushes": 0,
-  "staked": 11.34,
+  "staked": 12.34,
   "wins": 2
  },
  "schedule": {
