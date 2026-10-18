@@ -378,7 +378,7 @@
      "done": false,
      "home": {
       "name": "Colorado Buffaloes",
-      "score": 17.0
+      "score": 24.0
      },
      "id": "401856833"
     },
@@ -387,7 +387,7 @@
       "name": "Wake Forest Demon Deacons",
       "score": 41.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "California Golden Bears",
       "score": 7.0
@@ -396,20 +396,8 @@
     },
     {
      "away": {
-      "name": "Fresno State Bulldogs",
-      "score": 23.0
-     },
-     "done": false,
-     "home": {
-      "name": "San Diego State Aztecs",
-      "score": 26.0
-     },
-     "id": "401860904"
-    },
-    {
-     "away": {
       "name": "New Mexico Lobos",
-      "score": 14.0
+      "score": 21.0
      },
      "done": false,
      "home": {
@@ -421,7 +409,7 @@
     {
      "away": {
       "name": "Nebraska Cornhuskers",
-      "score": 7.0
+      "score": 14.0
      },
      "done": false,
      "home": {
@@ -993,9 +981,21 @@
       "score": 7.0
      },
      "id": "401866445"
+    },
+    {
+     "away": {
+      "name": "Fresno State Bulldogs",
+      "score": 23.0
+     },
+     "done": true,
+     "home": {
+      "name": "San Diego State Aztecs",
+      "score": 26.0
+     },
+     "id": "401860904"
     }
    ],
-   "t": 1792302317.6624103
+   "t": 1792303223.6605666
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -3971,7 +3971,7 @@
    1792188915.7972763
   ]
  },
- "last_run": 1792302530.9081738,
+ "last_run": 1792303222.7166383,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
