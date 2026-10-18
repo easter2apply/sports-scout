@@ -372,18 +372,6 @@
    "games": [
     {
      "away": {
-      "name": "Ohio Bobcats",
-      "score": 48.0
-     },
-     "done": false,
-     "home": {
-      "name": "Sacramento State Hornets",
-      "score": 7.0
-     },
-     "id": "401866445"
-    },
-    {
-     "away": {
       "name": "Utah Utes",
       "score": 20.0
      },
@@ -409,7 +397,7 @@
     {
      "away": {
       "name": "Fresno State Bulldogs",
-      "score": 17.0
+      "score": 23.0
      },
      "done": false,
      "home": {
@@ -438,7 +426,7 @@
      "done": false,
      "home": {
       "name": "Oregon Ducks",
-      "score": 3.0
+      "score": 6.0
      },
      "id": "401858492"
     },
@@ -993,9 +981,21 @@
       "score": 11.0
      },
      "id": "401864523"
+    },
+    {
+     "away": {
+      "name": "Ohio Bobcats",
+      "score": 48.0
+     },
+     "done": true,
+     "home": {
+      "name": "Sacramento State Hornets",
+      "score": 7.0
+     },
+     "id": "401866445"
     }
    ],
-   "t": 1792300516.4461606
+   "t": 1792301421.3225248
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -1756,35 +1756,35 @@
   ],
   "0922c474e6588f94af491684dbae6cdb|h2h|Calgary Flames|None": [
    0.3343,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|h2h|Carolina Hurricanes|None": [
    0.6657,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|spreads|Calgary Flames|1.5": [
    0.5587,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|spreads|Carolina Hurricanes|-1.5": [
    0.4413,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|totals|Over|6.0": [
    0.5146,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|totals|Over|6.5": [
    0.4568,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|totals|Under|6.0": [
    0.4854,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0922c474e6588f94af491684dbae6cdb|totals|Under|6.5": [
    0.5432,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "0b0b582b32b09ab6ff6664ffae0c9653|h2h|New England Patriots|None": [
    0.7538,
@@ -2156,27 +2156,27 @@
   ],
   "3af4496cf626dc3538fb93001aa2fba0|h2h|Columbus Blue Jackets|None": [
    0.373,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "3af4496cf626dc3538fb93001aa2fba0|h2h|Minnesota Wild|None": [
    0.627,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "3af4496cf626dc3538fb93001aa2fba0|spreads|Columbus Blue Jackets|1.5": [
    0.5943,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "3af4496cf626dc3538fb93001aa2fba0|spreads|Minnesota Wild|-1.5": [
    0.4057,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "3af4496cf626dc3538fb93001aa2fba0|totals|Over|6.5": [
    0.4743,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "3af4496cf626dc3538fb93001aa2fba0|totals|Under|6.5": [
    0.5257,
-   1792300515.3486557
+   1792301420.2193363
   ],
   "43959d4bb3927439ced7a6bf26cc3c00|h2h|Air Force Falcons|None": [
    0.4908,
@@ -2185,14 +2185,6 @@
   "43959d4bb3927439ced7a6bf26cc3c00|h2h|UNLV Rebels|None": [
    0.5092,
    1792267222.5194023
-  ],
-  "43959d4bb3927439ced7a6bf26cc3c00|spreads|Air Force Falcons|-1.5": [
-   0.4957,
-   1792170917.0986922
-  ],
-  "43959d4bb3927439ced7a6bf26cc3c00|spreads|UNLV Rebels|1.5": [
-   0.5043,
-   1792170917.0986922
   ],
   "43959d4bb3927439ced7a6bf26cc3c00|totals|Over|48.5": [
    0.4955,
@@ -2318,17 +2310,9 @@
    0.5067,
    1792188915.7972763
   ],
-  "55f376873e3cd0c2bb7cc9aa26e47235|totals|Over|55.5": [
-   0.5022,
-   1792170917.0986922
-  ],
   "55f376873e3cd0c2bb7cc9aa26e47235|totals|Under|54.5": [
    0.4933,
    1792188915.7972763
-  ],
-  "55f376873e3cd0c2bb7cc9aa26e47235|totals|Under|55.5": [
-   0.4978,
-   1792170917.0986922
   ],
   "56d8b3e4ae8cb9ce51d5ad6aedd5164e|h2h|Kent State Golden Flashes|None": [
    0.1113,
@@ -2462,17 +2446,9 @@
    0.4955,
    1792228515.691227
   ],
-  "5dd30262ad321dcff02c37d7619376e4|totals|Over|43.5": [
-   0.4892,
-   1792170917.0986922
-  ],
   "5dd30262ad321dcff02c37d7619376e4|totals|Under|43.0": [
    0.5045,
    1792228515.691227
-  ],
-  "5dd30262ad321dcff02c37d7619376e4|totals|Under|43.5": [
-   0.5108,
-   1792170917.0986922
   ],
   "685a8722f297502fa85e4cd8c7e54b1c|h2h|Indiana Hoosiers|None": [
    0.4145,
@@ -2486,17 +2462,9 @@
    0.5023,
    1792228515.691227
   ],
-  "685a8722f297502fa85e4cd8c7e54b1c|spreads|Indiana Hoosiers|3.5": [
-   0.5146,
-   1792170917.0986922
-  ],
   "685a8722f297502fa85e4cd8c7e54b1c|spreads|Ohio State Buckeyes|-3.0": [
    0.4977,
    1792228515.691227
-  ],
-  "685a8722f297502fa85e4cd8c7e54b1c|spreads|Ohio State Buckeyes|-3.5": [
-   0.4854,
-   1792170917.0986922
   ],
   "685a8722f297502fa85e4cd8c7e54b1c|totals|Over|50.5": [
    0.4933,
@@ -2686,29 +2654,13 @@
    0.3016,
    1792191622.8728406
   ],
-  "7c44228f4c2e89133b34a3c70bfb30c5|spreads|Anaheim Ducks|1.5": [
-   0.701,
-   1792170917.0986922
-  ],
-  "7c44228f4c2e89133b34a3c70bfb30c5|spreads|Boston Bruins|-1.5": [
-   0.299,
-   1792170917.0986922
-  ],
   "7c44228f4c2e89133b34a3c70bfb30c5|spreads|Boston Bruins|1.5": [
    0.6984,
    1792191622.8728406
   ],
-  "7c44228f4c2e89133b34a3c70bfb30c5|totals|Over|6.0": [
-   0.5193,
-   1792170917.0986922
-  ],
   "7c44228f4c2e89133b34a3c70bfb30c5|totals|Over|6.5": [
    0.4977,
    1792191622.8728406
-  ],
-  "7c44228f4c2e89133b34a3c70bfb30c5|totals|Under|6.0": [
-   0.4807,
-   1792170917.0986922
   ],
   "7c44228f4c2e89133b34a3c70bfb30c5|totals|Under|6.5": [
    0.5023,
@@ -3078,17 +3030,9 @@
    0.5045,
    1792228515.691227
   ],
-  "9e8578b415e664eea71185131401e537|spreads|Kansas Jayhawks|4.5": [
-   0.4977,
-   1792170917.0986922
-  ],
   "9e8578b415e664eea71185131401e537|spreads|Kansas State Wildcats|-3.5": [
    0.4955,
    1792228515.691227
-  ],
-  "9e8578b415e664eea71185131401e537|spreads|Kansas State Wildcats|-4.5": [
-   0.5023,
-   1792170917.0986922
   ],
   "9e8578b415e664eea71185131401e537|totals|Over|55.5": [
    0.4978,
@@ -3530,10 +3474,6 @@
    0.7544,
    1792267222.5194023
   ],
-  "d439d2aca5e246d9cd727f3b1e3fd443|spreads|Georgia Tech Yellow Jackets|10.0": [
-   0.491,
-   1792170917.0986922
-  ],
   "d439d2aca5e246d9cd727f3b1e3fd443|spreads|Georgia Tech Yellow Jackets|8.5": [
    0.5,
    1792228515.691227
@@ -3541,10 +3481,6 @@
   "d439d2aca5e246d9cd727f3b1e3fd443|spreads|Georgia Tech Yellow Jackets|9.5": [
    0.5,
    1792267222.5194023
-  ],
-  "d439d2aca5e246d9cd727f3b1e3fd443|spreads|Virginia Tech Hokies|-10.0": [
-   0.509,
-   1792170917.0986922
   ],
   "d439d2aca5e246d9cd727f3b1e3fd443|spreads|Virginia Tech Hokies|-8.5": [
    0.5,
@@ -3698,17 +3634,9 @@
    0.3379,
    1792228515.691227
   ],
-  "eb7db3ae999676aa80dd5cf7dfa32c1a|spreads|Maryland Terrapins|-5.0": [
-   0.509,
-   1792170917.0986922
-  ],
   "eb7db3ae999676aa80dd5cf7dfa32c1a|spreads|Maryland Terrapins|-5.5": [
    0.5,
    1792228515.691227
-  ],
-  "eb7db3ae999676aa80dd5cf7dfa32c1a|spreads|Rutgers Scarlet Knights|5.0": [
-   0.491,
-   1792170917.0986922
   ],
   "eb7db3ae999676aa80dd5cf7dfa32c1a|spreads|Rutgers Scarlet Knights|5.5": [
    0.5,
@@ -3878,10 +3806,6 @@
    0.4932,
    1792228515.691227
   ],
-  "f8b421c996286807b6e7b8e4d5631f80|spreads|Michigan Wolverines|-7.0": [
-   0.4809,
-   1792170917.0986922
-  ],
   "f8b421c996286807b6e7b8e4d5631f80|spreads|Penn State Nittany Lions|5.5": [
    0.4862,
    1792267222.5194023
@@ -3893,10 +3817,6 @@
   "f8b421c996286807b6e7b8e4d5631f80|spreads|Penn State Nittany Lions|6.5": [
    0.5068,
    1792228515.691227
-  ],
-  "f8b421c996286807b6e7b8e4d5631f80|spreads|Penn State Nittany Lions|7.0": [
-   0.5191,
-   1792170917.0986922
   ],
   "f8b421c996286807b6e7b8e4d5631f80|totals|Over|42.5": [
    0.4978,
@@ -4038,36 +3958,20 @@
    0.5138,
    1792188915.7972763
   ],
-  "fd8eda4d35be24559269f63ca7bbb06b|spreads|Purdue Boilermakers|-3.5": [
-   0.4931,
-   1792170917.0986922
-  ],
   "fd8eda4d35be24559269f63ca7bbb06b|spreads|Washington Huskies|3.0": [
    0.4862,
    1792188915.7972763
   ],
-  "fd8eda4d35be24559269f63ca7bbb06b|spreads|Washington Huskies|3.5": [
-   0.5069,
-   1792170917.0986922
-  ],
-  "fd8eda4d35be24559269f63ca7bbb06b|totals|Over|50.0": [
-   0.4962,
-   1792170917.0986922
-  ],
   "fd8eda4d35be24559269f63ca7bbb06b|totals|Over|50.5": [
    0.4933,
    1792188915.7972763
-  ],
-  "fd8eda4d35be24559269f63ca7bbb06b|totals|Under|50.0": [
-   0.5038,
-   1792170917.0986922
   ],
   "fd8eda4d35be24559269f63ca7bbb06b|totals|Under|50.5": [
    0.5067,
    1792188915.7972763
   ]
  },
- "last_run": 1792300515.3486557,
+ "last_run": 1792301420.2193363,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
@@ -4514,6 +4418,30 @@
   "icehockey_nhl": {
    "items": [
     {
+     "t": 1792299561.0,
+     "text": "Edmonton Oilers vs. Utah Mammoth: Game Highlights Edmonton Oilers vs. Utah Mammoth: Game Highlights"
+    },
+    {
+     "t": 1792299504.0,
+     "text": "Pittsburgh Penguins vs. Vegas Golden Knights: Game Highlights Pittsburgh Penguins vs. Vegas Golden Knights: Game Highlights"
+    },
+    {
+     "t": 1792299387.0,
+     "text": "McDavid has 2 goals and 3 assists in the Oilers' 6-2 romp over the Mammoth \u2014 Connor McDavid had two goals and three assists and the Edmonton Oilers beat the Utah Mammoth 6-2 on Saturday night to split a home-and-home series."
+    },
+    {
+     "t": 1792298977.0,
+     "text": "Golden Knights rout Penguins 6-2 as Mark Stone nets a goal and 2 assists \u2014 Mark Stone had a goal and two assists, and the Vegas Golden Knights extended their strong start by romping past the slumping Pittsburgh Penguins 6-2 on Saturday night."
+    },
+    {
+     "t": 1792298913.0,
+     "text": "Which player has the most career points in NHL history? Wayne Gretzky leads the list of NHL players with the most career points. Check out other top performers now."
+    },
+    {
+     "t": 1792298783.0,
+     "text": "Who has scored the most goals in NHL history? Alex Ovechkin holds the record for the most individual career goals in NHL history. Which other players are at the top of the list?"
+    },
+    {
      "t": 1792296769.0,
      "text": "Boston Bruins vs. Los Angeles Kings: Game Highlights Boston Bruins vs. Los Angeles Kings: Game Highlights"
     },
@@ -4610,10 +4538,6 @@
      "text": "Ryan Leonard scores highlight-reel goal, leads the Capitals over the Devils 4-2 \u2014 Ryan Leonard scored a highlight-reel goal and the Washington Capitals beat the New Jersey Devils 4-2 on Saturday afternoon."
     },
     {
-     "t": 1792266174.0,
-     "text": "Which player has the most career points in NHL history? Wayne Gretzky leads the list of NHL players with the most career points. Check out other top performers now."
-    },
-    {
      "t": 1792240259.0,
      "text": "NHL Tonight: Previews, storylines, betting info for all 14 games Here's what you need to know ahead of Saturday's monstrous slate."
     },
@@ -4692,29 +4616,9 @@
     {
      "t": 1792138411.0,
      "text": "Panthers host the Kraken after Tkachuk's hat trick Seattle Kraken (5-2-1, in the Pacific Division) vs. Florida Panthers (4-2-2, in the Atlantic Division)"
-    },
-    {
-     "t": 1792138410.0,
-     "text": "Stars in action against the Blackhawks following shootout victory Dallas Stars (3-3-1, in the Central Division) vs. Chicago Blackhawks (3-5, in the Central Division)"
-    },
-    {
-     "t": 1792138408.0,
-     "text": "Mammoth play the Oilers on 3-game winning streak Edmonton Oilers (5-1-1, in the Pacific Division) vs. Utah Mammoth (6-2, in the Central Division)"
-    },
-    {
-     "t": 1792138407.0,
-     "text": "San Jose visits Detroit after shootout victory San Jose Sharks (4-3, in the Pacific Division) vs. Detroit Red Wings (2-3-2, in the Atlantic Division)"
-    },
-    {
-     "t": 1792126715.0,
-     "text": "Calgary Flames vs. Vegas Golden Knights: Game Highlights Calgary Flames vs. Vegas Golden Knights: Game Highlights"
-    },
-    {
-     "t": 1792126597.0,
-     "text": "Stone has 3rd-period hat trick in the Golden Knights' 6-2 win over the Flames \u2014 Mark Stone had the fourth hat trick of his career and the Vegas Golden Knights beat the Calgary Flames 6-2 on Thursday night."
     }
    ],
-   "t": 1792298719.1737854
+   "t": 1792301422.014227
   }
  },
  "odds": {
