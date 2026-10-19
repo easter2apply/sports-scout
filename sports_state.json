@@ -401,9 +401,9 @@
  "credits": {
   "day": "2026-10-19",
   "month": null,
-  "remaining": 393,
-  "spent_today": 6,
-  "used": 107
+  "remaining": 390,
+  "spent_today": 9,
+  "used": 110
  },
  "errors": [
   {
@@ -1067,7 +1067,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792406717.297617
+   "t": 1792407625.2351632
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -2264,31 +2264,47 @@
    1792401318.241559
   ],
   "f122527f003276d3bca19efa48c902c1|h2h|San Francisco 49ers|None": [
-   0.7808,
-   1792401318.241559
+   0.7813,
+   1792407624.3399146
   ],
   "f122527f003276d3bca19efa48c902c1|h2h|Washington Commanders|None": [
-   0.2192,
-   1792401318.241559
+   0.2187,
+   1792407624.3399146
   ],
   "f122527f003276d3bca19efa48c902c1|spreads|San Francisco 49ers|-7.5": [
    0.4931,
-   1792401318.241559
+   1792407624.3399146
   ],
   "f122527f003276d3bca19efa48c902c1|spreads|Washington Commanders|7.5": [
    0.5069,
-   1792401318.241559
+   1792407624.3399146
+  ],
+  "f122527f003276d3bca19efa48c902c1|totals|Over|51.5": [
+   0.5022,
+   1792407624.3399146
+  ],
+  "f122527f003276d3bca19efa48c902c1|totals|Over|52.0": [
+   0.5065,
+   1792407624.3399146
   ],
   "f122527f003276d3bca19efa48c902c1|totals|Over|52.5": [
    0.4932,
    1792401318.241559
+  ],
+  "f122527f003276d3bca19efa48c902c1|totals|Under|51.5": [
+   0.4978,
+   1792407624.3399146
+  ],
+  "f122527f003276d3bca19efa48c902c1|totals|Under|52.0": [
+   0.4935,
+   1792407624.3399146
   ],
   "f122527f003276d3bca19efa48c902c1|totals|Under|52.5": [
    0.5068,
    1792401318.241559
   ]
  },
- "last_run": 1792406716.294066,
+ "last_run": 1792407624.3399146,
  "last_vote": {
   "approved": true,
   "label": "Las Vegas Raiders to win",
@@ -2530,6 +2546,22 @@
   "americanfootball_nfl": {
    "items": [
     {
+     "t": 1792404001.0,
+     "text": "Is Commanders coach Dan Quinn's job in jeopardy after tie with Giants? Questions swirl Washington following last Sunday's embarrassing tie with the Giants. Where will they go from here?"
+    },
+    {
+     "t": 1792404001.0,
+     "text": "2027 NFL draft order projections for Round 1, chances for top pick, more ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1."
+    },
+    {
+     "t": 1792404001.0,
+     "text": "How 49ers QB Brock Purdy mastered the art of layering passes over defenders Purdy is terrific at layering the football -- fitting it perfectly between the second and third levels of the defense. And it's a big reason why he's playing at an MVP level this season."
+    },
+    {
+     "t": 1792404000.0,
+     "text": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl."
+    },
+    {
      "t": 1792395312.0,
      "text": "Brian Schottenheimer: Cowboys offense 'a little bit one-sided,' needs balance A talent-rich offense that is completely healthy has scored only 29 points in the past two games, leaving the Cowboys searching for answers everywhere."
     },
@@ -2712,25 +2744,9 @@
     {
      "t": 1792360169.0,
      "text": "Michael Florio: Tyler Shough will be in play most weeks for fantasy Michael Florio: Tyler Shough will be in play most weeks for fantasy"
-    },
-    {
-     "t": 1792360366.0,
-     "text": "Why Carnell Tate is becoming a solid flex option in fantasy Why Carnell Tate is becoming a solid flex option in fantasy"
-    },
-    {
-     "t": 1792360096.0,
-     "text": "Can fantasy managers still start Cam Skattebo after disastrous Week 6? Can fantasy managers still start Cam Skattebo after disastrous Week 6?"
-    },
-    {
-     "t": 1792361110.0,
-     "text": "Michael Florio: Jalen Coker should be started moving forward Michael Florio: Jalen Coker should be started moving forward"
-    },
-    {
-     "t": 1792368307.0,
-     "text": "Chargers WR Ladd McConkey ruled out with concussion vs. Chiefs Chargers WR Ladd McConkey, in his first action since injuring his foot in Week 4, left Sunday's game early after suffering a concussion in the second quarter."
     }
    ],
-   "t": 1792400427.0030878
+   "t": 1792407626.147288
   },
   "icehockey_nhl": {
    "items": [
@@ -19719,18 +19735,18 @@
    ]
   },
   "americanfootball_nfl": {
-   "fetched": 1792391421.2997577,
+   "fetched": 1792407625.905996,
    "games": [
     {
      "away_team": "Washington Commanders",
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-19T06:29:59Z",
+       "last_update": "2026-10-19T10:59:18Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:29:58Z",
+         "last_update": "2026-10-19T10:59:18Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -19744,60 +19760,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:29:58Z",
-         "outcomes": [
-          {
-           "name": "San Francisco 49ers",
-           "point": -7.5,
-           "price": -110
-          },
-          {
-           "name": "Washington Commanders",
-           "point": 7.5,
-           "price": -110
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-19T06:29:58Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 52.5,
-           "price": -105
-          },
-          {
-           "name": "Under",
-           "point": 52.5,
-           "price": -115
-          }
-         ]
-        }
-       ],
-       "title": "DraftKings"
-      },
-      {
-       "key": "fanduel",
-       "last_update": "2026-10-19T06:30:18Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-19T06:30:17Z",
-         "outcomes": [
-          {
-           "name": "San Francisco 49ers",
-           "price": -420
-          },
-          {
-           "name": "Washington Commanders",
-           "price": 330
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-19T06:30:17Z",
+         "last_update": "2026-10-19T10:59:18Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -19813,7 +19776,60 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:30:17Z",
+         "last_update": "2026-10-19T10:59:18Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 51.5,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 51.5,
+           "price": -105
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-19T10:59:58Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-19T10:59:58Z",
+         "outcomes": [
+          {
+           "name": "San Francisco 49ers",
+           "price": -420
+          },
+          {
+           "name": "Washington Commanders",
+           "price": 330
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-19T10:59:58Z",
+         "outcomes": [
+          {
+           "name": "San Francisco 49ers",
+           "point": -7.5,
+           "price": -108
+          },
+          {
+           "name": "Washington Commanders",
+           "point": 7.5,
+           "price": -112
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-19T10:59:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -19832,25 +19848,25 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-19T06:30:19Z",
+       "last_update": "2026-10-19T11:00:18Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:30:18Z",
+         "last_update": "2026-10-19T11:00:18Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
-           "price": -420
+           "price": -430
           },
           {
            "name": "Washington Commanders",
-           "price": 330
+           "price": 337
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:30:18Z",
+         "last_update": "2026-10-19T11:00:18Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -19866,7 +19882,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:30:18Z",
+         "last_update": "2026-10-19T11:00:18Z",
          "outcomes": [
           {
            "name": "Over",
@@ -19885,25 +19901,25 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-19T06:29:24Z",
+       "last_update": "2026-10-19T11:00:19Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:29:24Z",
+         "last_update": "2026-10-19T11:00:19Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
-           "price": -420
+           "price": -430
           },
           {
            "name": "Washington Commanders",
-           "price": 330
+           "price": 337
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:29:24Z",
+         "last_update": "2026-10-19T11:00:19Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -19919,7 +19935,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:29:24Z",
+         "last_update": "2026-10-19T11:00:19Z",
          "outcomes": [
           {
            "name": "Over",
@@ -19938,11 +19954,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-19T06:29:59Z",
+       "last_update": "2026-10-19T10:59:39Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:29:59Z",
+         "last_update": "2026-10-19T10:59:39Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -19956,7 +19972,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:29:59Z",
+         "last_update": "2026-10-19T10:59:39Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -19972,7 +19988,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:29:59Z",
+         "last_update": "2026-10-19T10:59:39Z",
          "outcomes": [
           {
            "name": "Over",
@@ -19991,11 +20007,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-19T06:29:26Z",
+       "last_update": "2026-10-19T10:59:38Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:29:26Z",
+         "last_update": "2026-10-19T10:59:38Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20009,7 +20025,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:29:26Z",
+         "last_update": "2026-10-19T10:59:38Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20025,7 +20041,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:29:26Z",
+         "last_update": "2026-10-19T10:59:38Z",
          "outcomes": [
           {
            "name": "Over",
@@ -20035,7 +20051,7 @@
           {
            "name": "Under",
            "point": 52.0,
-           "price": -108
+           "price": -110
           }
          ]
         }
@@ -20044,25 +20060,25 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-19T06:30:16Z",
+       "last_update": "2026-10-19T10:59:58Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:30:16Z",
+         "last_update": "2026-10-19T10:59:58Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
-           "price": -425
+           "price": -427
           },
           {
            "name": "Washington Commanders",
-           "price": 340
+           "price": 341
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:30:16Z",
+         "last_update": "2026-10-19T10:59:58Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20078,17 +20094,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:30:16Z",
+         "last_update": "2026-10-19T10:59:58Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 52.5,
-           "price": -104
+           "price": 104
           },
           {
            "name": "Under",
            "point": 52.5,
-           "price": -110
+           "price": -119
           }
          ]
         }
@@ -20097,11 +20113,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-19T06:28:17Z",
+       "last_update": "2026-10-19T10:59:43Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:28:17Z",
+         "last_update": "2026-10-19T10:59:43Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20115,7 +20131,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:28:17Z",
+         "last_update": "2026-10-19T10:59:43Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20131,16 +20147,16 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:28:17Z",
+         "last_update": "2026-10-19T10:59:43Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 52.5,
+           "point": 52.0,
            "price": 100
           },
           {
            "name": "Under",
-           "point": 52.5,
+           "point": 52.0,
            "price": -120
           }
          ]
@@ -20150,11 +20166,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-19T06:29:24Z",
+       "last_update": "2026-10-19T11:00:20Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-19T06:29:24Z",
+         "last_update": "2026-10-19T11:00:20Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20168,7 +20184,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-19T06:29:24Z",
+         "last_update": "2026-10-19T11:00:20Z",
          "outcomes": [
           {
            "name": "San Francisco 49ers",
@@ -20184,17 +20200,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-19T06:29:24Z",
+         "last_update": "2026-10-19T11:00:20Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 52.5,
-           "price": -105
+           "point": 51.5,
+           "price": -110
           },
           {
            "name": "Under",
-           "point": 52.5,
-           "price": -115
+           "point": 51.5,
+           "price": -110
           }
          ]
         }
