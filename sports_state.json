@@ -1,5 +1,45 @@
 {
- "board": [],
+ "board": [
+  {
+   "bet": "South Alabama Jaguars to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "ev": 0.22256406287288044,
+   "fair": 0.562379468921525,
+   "matchup": "Jaguars @ Herd",
+   "odds": 44,
+   "ok": true,
+   "sport": "americanfootball_ncaaf",
+   "start": 1792539000.0,
+   "type": "straight",
+   "votes": {
+    "Line Watcher": [
+     true,
+     "fair chance moved -2.0% since last check"
+    ],
+    "The Clock": [
+     true,
+     "starts in 8.0h; odds 0 min old"
+    ],
+    "The Insider": [
+     true,
+     "no fresh injury news on our side"
+    ],
+    "The Sharp": [
+     true,
+     "fair -129 vs Kalshi 44\u00a2: +22.3% value"
+    ],
+    "The Shopper": [
+     true,
+     "9 books priced it; ours is the best price"
+    ],
+    "The Skeptic": [
+     true,
+     "edge holds vs the market average too"
+    ]
+   }
+  }
+ ],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -401,9 +441,9 @@
  "credits": {
   "day": "2026-10-20",
   "month": null,
-  "remaining": 366,
-  "spent_today": 15,
-  "used": 134
+  "remaining": 363,
+  "spent_today": 18,
+  "used": 137
  },
  "errors": [
   {
@@ -1067,7 +1107,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792509320.206724
+   "t": 1792510222.995821
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -1753,35 +1793,35 @@
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|h2h|Colorado Avalanche|None": [
    0.5069,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|h2h|New Jersey Devils|None": [
    0.4931,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|spreads|Colorado Avalanche|-1.5": [
    0.2966,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|spreads|Colorado Avalanche|1.5": [
    0.7015,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|spreads|New Jersey Devils|-1.5": [
    0.2985,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|spreads|New Jersey Devils|1.5": [
    0.7034,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|totals|Over|6.5": [
    0.4743,
-   1792509319.464948
+   1792510221.8827968
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|totals|Under|6.5": [
    0.5257,
-   1792509319.464948
+   1792510221.8827968
   ],
   "26b036ff107f3c658258eaf4a6f26228|h2h|Boston Celtics|None": [
    0.5208,
@@ -1849,51 +1889,51 @@
   ],
   "50c81d9967c2341f2117c57685000dee|h2h|St Louis Blues|None": [
    0.5687,
-   1792509319.464948
+   1792510221.8827968
   ],
   "50c81d9967c2341f2117c57685000dee|h2h|Winnipeg Jets|None": [
    0.4313,
-   1792509319.464948
+   1792510221.8827968
   ],
   "50c81d9967c2341f2117c57685000dee|spreads|St Louis Blues|-1.5": [
    0.3425,
-   1792509319.464948
+   1792510221.8827968
   ],
   "50c81d9967c2341f2117c57685000dee|spreads|Winnipeg Jets|1.5": [
    0.6575,
-   1792509319.464948
+   1792510221.8827968
   ],
   "50c81d9967c2341f2117c57685000dee|totals|Over|5.5": [
    0.531,
-   1792509319.464948
+   1792510221.8827968
   ],
   "50c81d9967c2341f2117c57685000dee|totals|Under|5.5": [
    0.469,
-   1792509319.464948
+   1792510221.8827968
   ],
   "60f76779653fc9a6106c6af48f51490f|h2h|Montr\u00e9al Canadiens|None": [
    0.6522,
-   1792509319.464948
+   1792510221.8827968
   ],
   "60f76779653fc9a6106c6af48f51490f|h2h|San Jose Sharks|None": [
    0.3478,
-   1792509319.464948
+   1792510221.8827968
   ],
   "60f76779653fc9a6106c6af48f51490f|spreads|Montr\u00e9al Canadiens|-1.5": [
    0.4394,
-   1792509319.464948
+   1792510221.8827968
   ],
   "60f76779653fc9a6106c6af48f51490f|spreads|San Jose Sharks|1.5": [
    0.5606,
-   1792509319.464948
+   1792510221.8827968
   ],
   "60f76779653fc9a6106c6af48f51490f|totals|Over|6.5": [
    0.5213,
-   1792509319.464948
+   1792510221.8827968
   ],
   "60f76779653fc9a6106c6af48f51490f|totals|Under|6.5": [
    0.4787,
-   1792509319.464948
+   1792510221.8827968
   ],
   "7ac756ef7eb5d5b1042e68d86d561147|h2h|San Jose Sharks|None": [
    0.4369,
@@ -1921,43 +1961,43 @@
   ],
   "84e20520cdbf52c71dfe697e7f789b86|h2h|Anaheim Ducks|None": [
    0.4147,
-   1792509319.464948
+   1792510221.8827968
   ],
   "84e20520cdbf52c71dfe697e7f789b86|h2h|New York Islanders|None": [
    0.5853,
-   1792509319.464948
+   1792510221.8827968
   ],
   "84e20520cdbf52c71dfe697e7f789b86|spreads|Anaheim Ducks|1.5": [
    0.6371,
-   1792509319.464948
+   1792510221.8827968
   ],
   "84e20520cdbf52c71dfe697e7f789b86|spreads|New York Islanders|-1.5": [
    0.3629,
-   1792509319.464948
+   1792510221.8827968
   ],
   "84e20520cdbf52c71dfe697e7f789b86|totals|Over|6.0": [
    0.491,
-   1792509319.464948
+   1792510221.8827968
   ],
   "84e20520cdbf52c71dfe697e7f789b86|totals|Under|6.0": [
    0.509,
-   1792509319.464948
+   1792510221.8827968
   ],
   "9839724bdc94a54158c53865e379c682|h2h|Tampa Bay Lightning|None": [
    0.4884,
-   1792509319.464948
+   1792510221.8827968
   ],
   "9839724bdc94a54158c53865e379c682|h2h|Vegas Golden Knights|None": [
    0.5116,
-   1792509319.464948
+   1792510221.8827968
   ],
   "9839724bdc94a54158c53865e379c682|spreads|Tampa Bay Lightning|1.5": [
    0.7002,
-   1792509319.464948
+   1792510221.8827968
   ],
   "9839724bdc94a54158c53865e379c682|spreads|Vegas Golden Knights|-1.5": [
    0.2998,
-   1792509319.464948
+   1792510221.8827968
   ],
   "9839724bdc94a54158c53865e379c682|totals|Over|6.0": [
    0.5267,
@@ -1965,7 +2005,7 @@
   ],
   "9839724bdc94a54158c53865e379c682|totals|Over|6.5": [
    0.4718,
-   1792509319.464948
+   1792510221.8827968
   ],
   "9839724bdc94a54158c53865e379c682|totals|Under|6.0": [
    0.4733,
@@ -1973,103 +2013,119 @@
   ],
   "9839724bdc94a54158c53865e379c682|totals|Under|6.5": [
    0.5282,
-   1792509319.464948
+   1792510221.8827968
   ],
   "99c9d6d714b90f72a5fd2a1c5011170d|h2h|Los Angeles Kings|None": [
    0.4166,
-   1792509319.464948
+   1792510221.8827968
   ],
   "99c9d6d714b90f72a5fd2a1c5011170d|h2h|Washington Capitals|None": [
    0.5834,
-   1792509319.464948
+   1792510221.8827968
   ],
   "99c9d6d714b90f72a5fd2a1c5011170d|spreads|Los Angeles Kings|1.5": [
    0.6418,
-   1792509319.464948
+   1792510221.8827968
   ],
   "99c9d6d714b90f72a5fd2a1c5011170d|spreads|Washington Capitals|-1.5": [
    0.3582,
-   1792509319.464948
+   1792510221.8827968
   ],
   "99c9d6d714b90f72a5fd2a1c5011170d|totals|Over|5.5": [
    0.5238,
-   1792509319.464948
+   1792510221.8827968
   ],
   "99c9d6d714b90f72a5fd2a1c5011170d|totals|Under|5.5": [
    0.4762,
-   1792509319.464948
+   1792510221.8827968
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|h2h|Marshall Thundering Herd|None": [
-   0.4178,
-   1792479624.1947362
+   0.4376,
+   1792510221.8827968
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|h2h|South Alabama Jaguars|None": [
-   0.5822,
-   1792479624.1947362
+   0.5624,
+   1792510221.8827968
+  ],
+  "a3ed14cd9d938b3c5bea48fb0c78805d|spreads|Marshall Thundering Herd|2.5": [
+   0.4852,
+   1792510221.8827968
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|spreads|Marshall Thundering Herd|3.0": [
    0.5067,
    1792479624.1947362
   ],
+  "a3ed14cd9d938b3c5bea48fb0c78805d|spreads|South Alabama Jaguars|-2.5": [
+   0.5148,
+   1792510221.8827968
+  ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|spreads|South Alabama Jaguars|-3.0": [
    0.4933,
    1792479624.1947362
   ],
+  "a3ed14cd9d938b3c5bea48fb0c78805d|totals|Over|64.5": [
+   0.5108,
+   1792510221.8827968
+  ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|totals|Over|65.5": [
-   0.4978,
-   1792479624.1947362
+   0.4957,
+   1792510221.8827968
+  ],
+  "a3ed14cd9d938b3c5bea48fb0c78805d|totals|Under|64.5": [
+   0.4892,
+   1792510221.8827968
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|totals|Under|65.5": [
-   0.5022,
-   1792479624.1947362
+   0.5043,
+   1792510221.8827968
   ],
   "adae998098aa843c9bb607b62ff47d5f|h2h|Carolina Hurricanes|None": [
    0.7283,
-   1792509319.464948
+   1792510221.8827968
   ],
   "adae998098aa843c9bb607b62ff47d5f|h2h|Vancouver Canucks|None": [
    0.2717,
-   1792509319.464948
+   1792510221.8827968
   ],
   "adae998098aa843c9bb607b62ff47d5f|spreads|Carolina Hurricanes|-1.5": [
    0.5161,
-   1792509319.464948
+   1792510221.8827968
   ],
   "adae998098aa843c9bb607b62ff47d5f|spreads|Vancouver Canucks|1.5": [
    0.4839,
-   1792509319.464948
+   1792510221.8827968
   ],
   "adae998098aa843c9bb607b62ff47d5f|totals|Over|6.5": [
    0.4977,
-   1792509319.464948
+   1792510221.8827968
   ],
   "adae998098aa843c9bb607b62ff47d5f|totals|Under|6.5": [
    0.5023,
-   1792509319.464948
+   1792510221.8827968
   ],
   "b1c2bb946e4f5824800dab22ae585454|h2h|Detroit Red Wings|None": [
    0.4954,
-   1792509319.464948
+   1792510221.8827968
   ],
   "b1c2bb946e4f5824800dab22ae585454|h2h|Seattle Kraken|None": [
    0.5046,
-   1792509319.464948
+   1792510221.8827968
   ],
   "b1c2bb946e4f5824800dab22ae585454|spreads|Detroit Red Wings|1.5": [
    0.6984,
-   1792509319.464948
+   1792510221.8827968
   ],
   "b1c2bb946e4f5824800dab22ae585454|spreads|Seattle Kraken|-1.5": [
    0.3016,
-   1792509319.464948
+   1792510221.8827968
   ],
   "b1c2bb946e4f5824800dab22ae585454|totals|Over|6.5": [
    0.4908,
-   1792509319.464948
+   1792510221.8827968
   ],
   "b1c2bb946e4f5824800dab22ae585454|totals|Under|6.5": [
    0.5092,
-   1792509319.464948
+   1792510221.8827968
   ],
   "bccd283de56915e29af1788beb0abfc9|h2h|Oklahoma City Thunder|None": [
    0.476,
@@ -2113,51 +2169,59 @@
   ],
   "c3e7d800670fc3945c5b89ec09709eae|h2h|Edmonton Oilers|None": [
    0.5548,
-   1792509319.464948
+   1792510221.8827968
   ],
   "c3e7d800670fc3945c5b89ec09709eae|h2h|Minnesota Wild|None": [
    0.4452,
-   1792509319.464948
+   1792510221.8827968
   ],
   "c3e7d800670fc3945c5b89ec09709eae|spreads|Edmonton Oilers|-1.5": [
    0.3333,
-   1792509319.464948
+   1792510221.8827968
   ],
   "c3e7d800670fc3945c5b89ec09709eae|spreads|Minnesota Wild|1.5": [
    0.6667,
-   1792509319.464948
+   1792510221.8827968
   ],
   "c3e7d800670fc3945c5b89ec09709eae|totals|Over|6.5": [
    0.4746,
-   1792509319.464948
+   1792510221.8827968
   ],
   "c3e7d800670fc3945c5b89ec09709eae|totals|Under|6.5": [
    0.5254,
-   1792509319.464948
+   1792510221.8827968
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|h2h|Florida International Panthers|None": [
-   0.7718,
-   1792479624.1947362
+   0.7749,
+   1792510221.8827968
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|h2h|Middle Tennessee Blue Raiders|None": [
-   0.2282,
-   1792479624.1947362
+   0.2251,
+   1792510221.8827968
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|spreads|Florida International Panthers|-10.0": [
-   0.507,
-   1792479624.1947362
+   0.5046,
+   1792510221.8827968
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|spreads|Middle Tennessee Blue Raiders|10.0": [
-   0.493,
-   1792479624.1947362
+   0.4954,
+   1792510221.8827968
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|totals|Over|45.5": [
    0.4929,
    1792479624.1947362
   ],
+  "c85512046e05e5ed845e60dd5d6d5e1e|totals|Over|46.5": [
+   0.4989,
+   1792510221.8827968
+  ],
   "c85512046e05e5ed845e60dd5d6d5e1e|totals|Under|45.5": [
    0.5071,
    1792479624.1947362
+  ],
+  "c85512046e05e5ed845e60dd5d6d5e1e|totals|Under|46.5": [
+   0.5011,
+   1792510221.8827968
   ],
   "c8d71abe9d49ca6ea219b84923b9a48c|h2h|Colorado Avalanche|None": [
    0.6771,
@@ -2193,51 +2257,67 @@
   ],
   "db38d272a56e929eac7005ab619af117|h2h|Boston Bruins|None": [
    0.3931,
-   1792509319.464948
+   1792510221.8827968
   ],
   "db38d272a56e929eac7005ab619af117|h2h|Dallas Stars|None": [
    0.6069,
-   1792509319.464948
+   1792510221.8827968
   ],
   "db38d272a56e929eac7005ab619af117|spreads|Boston Bruins|1.5": [
    0.6239,
-   1792509319.464948
+   1792510221.8827968
   ],
   "db38d272a56e929eac7005ab619af117|spreads|Dallas Stars|-1.5": [
    0.3761,
-   1792509319.464948
+   1792510221.8827968
   ],
   "db38d272a56e929eac7005ab619af117|totals|Over|5.5": [
    0.5193,
-   1792509319.464948
+   1792510221.8827968
   ],
   "db38d272a56e929eac7005ab619af117|totals|Under|5.5": [
    0.4807,
-   1792509319.464948
+   1792510221.8827968
   ],
   "dc65142bf9a0e7652a252b2074037efa|h2h|Delaware Blue Hens|None": [
-   0.591,
-   1792479624.1947362
+   0.5605,
+   1792510221.8827968
   ],
   "dc65142bf9a0e7652a252b2074037efa|h2h|Missouri State Bears|None": [
-   0.409,
-   1792479624.1947362
+   0.4395,
+   1792510221.8827968
+  ],
+  "dc65142bf9a0e7652a252b2074037efa|spreads|Delaware Blue Hens|-2.5": [
+   0.5148,
+   1792510221.8827968
   ],
   "dc65142bf9a0e7652a252b2074037efa|spreads|Delaware Blue Hens|-3.0": [
    0.5089,
    1792479624.1947362
+  ],
+  "dc65142bf9a0e7652a252b2074037efa|spreads|Missouri State Bears|2.5": [
+   0.4852,
+   1792510221.8827968
   ],
   "dc65142bf9a0e7652a252b2074037efa|spreads|Missouri State Bears|3.0": [
    0.4911,
    1792479624.1947362
   ],
   "dc65142bf9a0e7652a252b2074037efa|totals|Over|52.5": [
-   0.5065,
-   1792479624.1947362
+   0.5011,
+   1792510221.8827968
+  ],
+  "dc65142bf9a0e7652a252b2074037efa|totals|Over|53.0": [
+   0.4933,
+   1792510221.8827968
   ],
   "dc65142bf9a0e7652a252b2074037efa|totals|Under|52.5": [
-   0.4935,
-   1792479624.1947362
+   0.4989,
+   1792510221.8827968
+  ],
+  "dc65142bf9a0e7652a252b2074037efa|totals|Under|53.0": [
+   0.5067,
+   1792510221.8827968
   ],
   "ea54f93ba7f80a041cb134ca262d7bc0|h2h|Anaheim Ducks|None": [
    0.4425,
@@ -2313,42 +2393,42 @@
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|h2h|Columbus Blue Jackets|None": [
    0.5813,
-   1792509319.464948
+   1792510221.8827968
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|h2h|Toronto Maple Leafs|None": [
    0.4187,
-   1792509319.464948
+   1792510221.8827968
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|spreads|Columbus Blue Jackets|-1.5": [
    0.3699,
-   1792509319.464948
+   1792510221.8827968
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|spreads|Toronto Maple Leafs|1.5": [
    0.6301,
-   1792509319.464948
+   1792510221.8827968
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|totals|Over|6.5": [
    0.4955,
-   1792509319.464948
+   1792510221.8827968
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|totals|Under|6.5": [
    0.5045,
-   1792509319.464948
+   1792510221.8827968
   ]
  },
- "last_run": 1792509319.464948,
+ "last_run": 1792510221.8827968,
  "last_vote": {
   "approved": true,
-  "label": "Vancouver Canucks +1.5",
-  "sub": "Hurricanes @ Canucks \u00b7 FanDuel +106",
+  "label": "South Alabama Jaguars to win",
+  "sub": "Jaguars @ Herd \u00b7 Kalshi 44\u00a2",
   "votes": {
    "Line Watcher": [
     true,
-    "fair chance moved +0.0% since last check"
+    "fair chance moved -2.0% since last check"
    ],
    "The Clock": [
-    false,
-    "starts in 19.4h; odds 165 min old (stale: prices may have moved)"
+    true,
+    "starts in 8.0h; odds 0 min old"
    ],
    "The Insider": [
     true,
@@ -2356,7 +2436,7 @@
    ],
    "The Sharp": [
     true,
-    "fair +100 vs FanDuel 106: +3.0% value"
+    "fair -129 vs Kalshi 44\u00a2: +22.3% value"
    ],
    "The Shopper": [
     true,
@@ -2367,14 +2447,34 @@
     "edge holds vs the market average too"
    ]
   },
-  "when": 1792478716.031286
+  "when": 1792510221.8827968
  },
  "news": {
   "americanfootball_ncaaf": {
    "items": [
     {
-     "t": 1792471639.0,
-     "text": "Sources: Auburn dismisses star linebacker Xavier Atkins Xavier Atkins was suspended for Auburn's win over then-No. 1 Georgia on Saturday, and his status had been uncertain."
+     "t": 1792492431.0,
+     "text": "Halfway Heisman Jeremiah Smith and other midseason award winners We recognize college football's top players, transfers and coaches at the midpoint of the season."
+    },
+    {
+     "t": 1792509156.0,
+     "text": "College Football Playoff Bubble Watch after Week 7 A conference-by-conference look at who is contending for the playoff, who's close and who's out."
+    },
+    {
+     "t": 1792498876.0,
+     "text": "How a long-snapper who loves anonymity became a viral sensation Andrew Kallas never wanted the attention, but his tackles as a long-snapper have made waves in college football."
+    },
+    {
+     "t": 1792505216.0,
+     "text": "Looking at the Heisman and CFP odds: What's real and what's a mirage after Week 7? Let's break down the odds boards for the CFP and Heisman races after a chaotic Week 7."
+    },
+    {
+     "t": 1792491508.0,
+     "text": "BYU won't 'demand respect' but after beating Notre Dame, the Cougars have it The Cougars' win launched them to No. 2. Now BYU will be clearly in the playoff picture."
+    },
+    {
+     "t": 1792504395.0,
+     "text": "Sources: Auburn dismisses star linebacker Xavier Atkins Auburn dismissed star linebacker Xavier Atkins, sources told ESPN on Monday night."
     },
     {
      "t": 1792462503.0,
@@ -2433,7 +2533,7 @@
      "text": "Top 25 betting lines: Texas favored vs. Ole Miss, Utah the fave vs. Houston This week's odds and FPI predictions for Texas-Ole Miss, Utah-Houston and every top 25 matchup."
     },
     {
-     "t": 1792431251.0,
+     "t": 1792506378.0,
      "text": "Sources: Texas to give QB KJ Lacey Jr. increased first-team reps Texas is expected to give an uptick in first-team quarterback reps to redshirt freshman KJ Lacey Jr. this week in practice, per ESPN sources."
     },
     {
@@ -2551,29 +2651,9 @@
     {
      "t": 1792352727.0,
      "text": "AAC matchup features Florida Atlantic against Rice Rice (1-6) at Florida Atlantic (4-2), Oct. 24 at 12 p.m. EDT."
-    },
-    {
-     "t": 1792352706.0,
-     "text": "MAC matchup features Kent State squaring off against Akron Akron (1-6) at Kent State (2-5), Oct. 24 at 1 p.m. EDT."
-    },
-    {
-     "t": 1792352705.0,
-     "text": "New Mexico and North Dakota State meet in MWC action North Dakota State (6-1) at New Mexico (5-1), Oct. 24 at 10 p.m. EDT."
-    },
-    {
-     "t": 1792352696.0,
-     "text": "Clemson squares off against Virginia Tech in ACC action Virginia Tech (5-2) at Clemson (4-2), Oct. 24 at 7 p.m. EDT."
-    },
-    {
-     "t": 1792352695.0,
-     "text": "No. 23 SMU and Cal meet in ACC play Cal (3-4) at No. 23 SMU (5-1), Oct. 24 at 12 p.m. EDT."
-    },
-    {
-     "t": 1792352693.0,
-     "text": "UTSA visits Tulane in AAC play UTSA (6-1) at Tulane (3-3), Oct. 24 at 8 p.m. EDT."
     }
    ],
-   "t": 1792479626.124689
+   "t": 1792510224.1465273
   },
   "americanfootball_nfl": {
    "items": [
@@ -3188,53 +3268,53 @@
      "text": "Forsberg scores first of the season as the Predators beat the Blues 5-2 \u2014 Filip Forsberg scored a goal and added an assist to lead the Nashville Predators to a 5-2 victory over the St. Louis Blues on Saturday night."
     }
    ],
-   "t": 1792508415.744661
+   "t": 1792510224.3188453
   }
  },
  "odds": {
   "americanfootball_ncaaf": {
-   "fetched": 1792469719.528577,
+   "fetched": 1792510223.7362113,
    "games": [
     {
      "away_team": "Missouri State Bears",
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-20T04:15:07Z",
+       "last_update": "2026-10-20T15:29:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -152
+           "price": -144
           },
           {
            "name": "Missouri State Bears",
-           "price": 126
+           "price": 120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
            "point": -2.5,
-           "price": -122
+           "price": -118
           },
           {
            "name": "Missouri State Bears",
            "point": 2.5,
-           "price": 100
+           "price": -104
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Over",
@@ -3253,41 +3333,41 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-20T04:14:07Z",
+       "last_update": "2026-10-20T15:29:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -155
+           "price": -142
           },
           {
            "name": "Missouri State Bears",
-           "price": 130
+           "price": 120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -3.0,
-           "price": -108
+           "point": -2.5,
+           "price": -118
           },
           {
            "name": "Missouri State Bears",
-           "point": 3.0,
-           "price": -112
+           "point": 2.5,
+           "price": -102
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
@@ -3306,51 +3386,51 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-20T04:15:13Z",
+       "last_update": "2026-10-20T15:29:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -167
+           "price": -148
           },
           {
            "name": "Missouri State Bears",
-           "price": 135
+           "price": 118
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -3.0,
-           "price": -115
+           "point": -2.5,
+           "price": -118
           },
           {
            "name": "Missouri State Bears",
-           "point": 3.0,
-           "price": -107
+           "point": 2.5,
+           "price": -106
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 52.5,
-           "price": -109
+           "price": -108
           },
           {
            "name": "Under",
            "point": 52.5,
-           "price": -114
+           "price": -115
           }
          ]
         }
@@ -3359,51 +3439,51 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-20T04:14:28Z",
+       "last_update": "2026-10-20T15:29:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -150
+           "price": -140
           },
           {
            "name": "Missouri State Bears",
-           "price": 130
+           "price": 120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -3.0,
-           "price": -110
+           "point": -2.5,
+           "price": -115
           },
           {
            "name": "Missouri State Bears",
-           "point": 3.0,
-           "price": -110
+           "point": 2.5,
+           "price": -105
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 52.5,
-           "price": -115
+           "point": 53.0,
+           "price": -110
           },
           {
            "name": "Under",
-           "point": 52.5,
-           "price": -105
+           "point": 53.0,
+           "price": -110
           }
          ]
         }
@@ -3412,51 +3492,51 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-20T04:14:47Z",
+       "last_update": "2026-10-20T15:29:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:46Z",
+         "last_update": "2026-10-20T15:29:34Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -150
+           "price": -140
           },
           {
            "name": "Missouri State Bears",
-           "price": 130
+           "price": 120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:46Z",
+         "last_update": "2026-10-20T15:29:34Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -3.0,
-           "price": -106
+           "point": -2.5,
+           "price": -113
           },
           {
            "name": "Missouri State Bears",
-           "point": 3.0,
-           "price": -106
+           "point": 2.5,
+           "price": 101
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:46Z",
+         "last_update": "2026-10-20T15:29:34Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 52.5,
-           "price": -114
+           "point": 53.0,
+           "price": -108
           },
           {
            "name": "Under",
-           "point": 52.5,
-           "price": -103
+           "point": 53.0,
+           "price": -108
           }
          ]
         }
@@ -3465,41 +3545,41 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-20T04:14:47Z",
+       "last_update": "2026-10-20T15:29:35Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:47Z",
+         "last_update": "2026-10-20T15:29:35Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -155
+           "price": -145
           },
           {
            "name": "Missouri State Bears",
-           "price": 130
+           "price": 120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:47Z",
+         "last_update": "2026-10-20T15:29:35Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
            "point": -3.0,
-           "price": -108
+           "price": -105
           },
           {
            "name": "Missouri State Bears",
            "point": 3.0,
-           "price": -110
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:47Z",
+         "last_update": "2026-10-20T15:29:35Z",
          "outcomes": [
           {
            "name": "Over",
@@ -3518,51 +3598,51 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-20T04:15:07Z",
+       "last_update": "2026-10-20T15:30:00Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:30:00Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -158
+           "price": -135
           },
           {
            "name": "Missouri State Bears",
-           "price": 136
+           "price": 122
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:30:00Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -3.0,
-           "price": -112
+           "point": -2.5,
+           "price": -113
           },
           {
            "name": "Missouri State Bears",
-           "point": 3.0,
-           "price": -104
+           "point": 2.5,
+           "price": 100
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:30:00Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 53.0,
-           "price": -106
+           "price": -105
           },
           {
            "name": "Under",
            "point": 53.0,
-           "price": -112
+           "price": -111
           }
          ]
         }
@@ -3571,41 +3651,41 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-20T04:11:18Z",
+       "last_update": "2026-10-20T15:30:03Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -160
+           "price": -140
           },
           {
            "name": "Missouri State Bears",
-           "price": 135
+           "price": 120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -3.0,
+           "point": -2.5,
            "price": -115
           },
           {
            "name": "Missouri State Bears",
-           "point": 3.0,
+           "point": 2.5,
            "price": -105
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Over",
@@ -3634,11 +3714,11 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-20T04:15:07Z",
+       "last_update": "2026-10-20T15:29:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
@@ -3652,33 +3732,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
-           "point": -9.5,
-           "price": -120
+           "point": -10.5,
+           "price": -102
           },
           {
            "name": "Middle Tennessee Blue Raiders",
-           "point": 9.5,
-           "price": -102
+           "point": 10.5,
+           "price": -120
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 45.5,
-           "price": -110
+           "price": -115
           },
           {
            "name": "Under",
            "point": 45.5,
-           "price": -110
+           "price": -105
           }
          ]
         }
@@ -3687,11 +3767,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-20T04:14:07Z",
+       "last_update": "2026-10-20T15:29:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
@@ -3705,7 +3785,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
@@ -3721,16 +3801,16 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 45.5,
+           "point": 46.5,
            "price": -105
           },
           {
            "name": "Under",
-           "point": 45.5,
+           "point": 46.5,
            "price": -115
           }
          ]
@@ -3740,25 +3820,25 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-20T04:14:27Z",
+       "last_update": "2026-10-20T15:29:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
-           "price": -380
+           "price": -425
           },
           {
            "name": "Middle Tennessee Blue Raiders",
-           "price": 290
+           "price": 320
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
@@ -3774,17 +3854,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 45.5,
-           "price": -105
+           "price": -110
           },
           {
            "name": "Under",
            "point": 45.5,
-           "price": -115
+           "price": -110
           }
          ]
         }
@@ -3793,227 +3873,15 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-20T04:15:13Z",
+       "last_update": "2026-10-20T15:29:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
-           "price": -420
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "price": 310
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-20T04:15:13Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "point": -10.0,
-           "price": -113
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "point": 10.0,
-           "price": -110
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-20T04:15:13Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 45.5,
-           "price": -108
-          },
-          {
-           "name": "Under",
-           "point": 45.5,
-           "price": -114
-          }
-         ]
-        }
-       ],
-       "title": "BetRivers"
-      },
-      {
-       "key": "betonlineag",
-       "last_update": "2026-10-20T04:14:28Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-20T04:14:27Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "price": -400
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "price": 316
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-20T04:14:27Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "point": -10.0,
-           "price": -115
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "point": 10.0,
-           "price": -105
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-20T04:14:27Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 45.0,
-           "price": -110
-          },
-          {
-           "name": "Under",
-           "point": 45.0,
-           "price": -110
-          }
-         ]
-        }
-       ],
-       "title": "BetOnline.ag"
-      },
-      {
-       "key": "lowvig",
-       "last_update": "2026-10-20T04:14:47Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-20T04:14:46Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "price": -400
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "price": 316
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-20T04:14:46Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "point": -10.0,
-           "price": -111
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "point": 10.0,
-           "price": -101
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-20T04:14:46Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 45.0,
-           "price": -108
-          },
-          {
-           "name": "Under",
-           "point": 45.0,
-           "price": -108
-          }
-         ]
-        }
-       ],
-       "title": "LowVig.ag"
-      },
-      {
-       "key": "betmgm",
-       "last_update": "2026-10-20T04:14:47Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-20T04:14:47Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "price": -400
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "price": 310
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-20T04:14:47Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "point": -10.0,
-           "price": -110
-          },
-          {
-           "name": "Middle Tennessee Blue Raiders",
-           "point": 10.0,
-           "price": -108
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-20T04:14:47Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 45.5,
-           "price": -105
-          },
-          {
-           "name": "Under",
-           "point": 45.5,
-           "price": -112
-          }
-         ]
-        }
-       ],
-       "title": "BetMGM"
-      },
-      {
-       "key": "pinnacle",
-       "last_update": "2026-10-20T04:15:07Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-20T04:15:07Z",
-         "outcomes": [
-          {
-           "name": "Florida International Panthers",
-           "price": -413
+           "price": -435
           },
           {
            "name": "Middle Tennessee Blue Raiders",
@@ -4023,33 +3891,245 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
            "point": -10.5,
-           "price": -102
+           "price": -108
           },
           {
            "name": "Middle Tennessee Blue Raiders",
            "point": 10.5,
-           "price": -114
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:29:57Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 45.5,
+           "price": -107
+          },
+          {
+           "name": "Under",
+           "point": 45.5,
+           "price": -117
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-20T15:29:33Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-20T15:29:33Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "price": -410
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "price": 324
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-20T15:29:33Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "point": -10.0,
+           "price": -113
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "point": 10.0,
+           "price": -107
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-20T15:29:33Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-20T15:29:34Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-20T15:29:34Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "price": -410
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "price": 324
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-20T15:29:34Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "point": -10.0,
+           "price": -109
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "point": 10.0,
+           "price": -103
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-20T15:29:34Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-20T15:29:35Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-20T15:29:35Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "price": -375
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "price": 310
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-20T15:29:35Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "point": -10.0,
+           "price": -108
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "point": 10.0,
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-20T15:29:35Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-20T15:30:00Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-20T15:29:59Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "price": -397
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "price": 331
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-20T15:29:59Z",
+         "outcomes": [
+          {
+           "name": "Florida International Panthers",
+           "point": -10.0,
+           "price": -108
+          },
+          {
+           "name": "Middle Tennessee Blue Raiders",
+           "point": 10.0,
+           "price": -104
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-20T15:29:59Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 46.0,
-           "price": -102
+           "price": -105
           },
           {
            "name": "Under",
            "point": 46.0,
-           "price": -116
+           "price": -111
           }
          ]
         }
@@ -4058,11 +4138,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-20T04:11:18Z",
+       "last_update": "2026-10-20T15:30:03Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
@@ -4076,33 +4156,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Florida International Panthers",
            "point": -10.0,
-           "price": -115
+           "price": -110
           },
           {
            "name": "Middle Tennessee Blue Raiders",
            "point": 10.0,
-           "price": -105
+           "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 45.5,
-           "price": -110
+           "point": 46.0,
+           "price": -105
           },
           {
            "name": "Under",
-           "point": 45.5,
-           "price": -110
+           "point": 46.0,
+           "price": -115
           }
          ]
         }
@@ -4121,51 +4201,51 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-20T04:15:07Z",
+       "last_update": "2026-10-20T15:29:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 126
+           "price": 116
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -152
+           "price": -140
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.5,
-           "price": -124
+           "point": 2.5,
+           "price": -108
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.5,
-           "price": 102
+           "point": -2.5,
+           "price": -112
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:06Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 64.5,
-           "price": -110
+           "point": 65.5,
+           "price": -106
           },
           {
            "name": "Under",
-           "point": 64.5,
-           "price": -110
+           "point": 65.5,
+           "price": -114
           }
          ]
         }
@@ -4174,51 +4254,51 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-20T04:14:07Z",
+       "last_update": "2026-10-20T15:29:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 136
+           "price": 120
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -162
+           "price": -142
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.0,
-           "price": -108
+           "point": 2.5,
+           "price": -105
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.0,
-           "price": -112
+           "point": -2.5,
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:07Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 65.5,
-           "price": -108
+           "point": 64.5,
+           "price": -115
           },
           {
            "name": "Under",
-           "point": 65.5,
-           "price": -112
+           "point": 64.5,
+           "price": -105
           }
          ]
         }
@@ -4227,41 +4307,41 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-20T04:14:27Z",
+       "last_update": "2026-10-20T15:29:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 130
+           "price": 125
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -150
+           "price": -145
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.5,
-           "price": -120
+           "point": 2.5,
+           "price": 100
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.5,
-           "price": 100
+           "point": -2.5,
+           "price": -120
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
@@ -4280,25 +4360,25 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-20T04:15:13Z",
+       "last_update": "2026-10-20T15:29:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 128
+           "price": 125
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -159
+           "price": -155
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
@@ -4314,17 +4394,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:13Z",
+         "last_update": "2026-10-20T15:29:57Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 64.5,
-           "price": -114
+           "price": -115
           },
           {
            "name": "Under",
            "point": 64.5,
-           "price": -109
+           "price": -108
           }
          ]
         }
@@ -4333,50 +4413,50 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-20T04:14:28Z",
+       "last_update": "2026-10-20T15:29:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 135
+           "price": 123
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -155
+           "price": -143
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.0,
-           "price": -110
+           "point": 2.5,
+           "price": -101
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.0,
-           "price": -110
+           "point": -2.5,
+           "price": -119
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:27Z",
+         "last_update": "2026-10-20T15:29:33Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 65.5,
+           "point": 64.5,
            "price": -115
           },
           {
            "name": "Under",
-           "point": 65.5,
+           "point": 64.5,
            "price": -105
           }
          ]
@@ -4386,50 +4466,50 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-20T04:14:47Z",
+       "last_update": "2026-10-20T15:29:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:46Z",
+         "last_update": "2026-10-20T15:29:34Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 135
+           "price": 123
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -155
+           "price": -143
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:46Z",
+         "last_update": "2026-10-20T15:29:34Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.0,
-           "price": -106
+           "point": 2.5,
+           "price": 101
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.0,
-           "price": -106
+           "point": -2.5,
+           "price": -113
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:46Z",
+         "last_update": "2026-10-20T15:29:34Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 65.5,
+           "point": 64.5,
            "price": -114
           },
           {
            "name": "Under",
-           "point": 65.5,
+           "point": 64.5,
            "price": -103
           }
          ]
@@ -4439,51 +4519,51 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-20T04:14:47Z",
+       "last_update": "2026-10-20T15:29:35Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:14:47Z",
+         "last_update": "2026-10-20T15:29:35Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 130
+           "price": 120
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -155
+           "price": -145
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:14:47Z",
+         "last_update": "2026-10-20T15:29:35Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.0,
-           "price": -108
+           "point": 2.5,
+           "price": -105
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.0,
-           "price": -110
+           "point": -2.5,
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:14:47Z",
+         "last_update": "2026-10-20T15:29:35Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 65.5,
-           "price": -105
+           "price": -108
           },
           {
            "name": "Under",
            "point": 65.5,
-           "price": -112
+           "price": -120
           }
          ]
         }
@@ -4492,51 +4572,51 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-20T04:15:07Z",
+       "last_update": "2026-10-20T15:30:00Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:30:00Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 131
+           "price": 123
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -152
+           "price": -136
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:30:00Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.0,
-           "price": -111
+           "point": 2.5,
+           "price": 100
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.0,
-           "price": -105
+           "point": -2.5,
+           "price": -113
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:15:07Z",
+         "last_update": "2026-10-20T15:30:00Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 65.0,
-           "price": -113
+           "price": -108
           },
           {
            "name": "Under",
            "point": 65.0,
-           "price": -105
+           "price": -108
           }
          ]
         }
@@ -4545,51 +4625,51 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-20T04:11:18Z",
+       "last_update": "2026-10-20T15:30:03Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "price": 130
+           "price": 120
           },
           {
            "name": "South Alabama Jaguars",
-           "price": -150
+           "price": -140
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Marshall Thundering Herd",
-           "point": 3.0,
-           "price": -115
+           "point": 2.5,
+           "price": -105
           },
           {
            "name": "South Alabama Jaguars",
-           "point": -3.0,
-           "price": -105
+           "point": -2.5,
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-20T04:11:18Z",
+         "last_update": "2026-10-20T15:30:03Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 65.5,
-           "price": -105
+           "price": -110
           },
           {
            "name": "Under",
            "point": 65.5,
-           "price": -115
+           "price": -110
           }
          ]
         }
@@ -11986,6 +12066,39 @@
    "url": null,
    "votes": {
     "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
+  },
+  {
+   "away": "South Alabama Jaguars",
+   "bet": "South Alabama Jaguars to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 2.1739130434782608,
+   "ev": 0.22256406287288044,
+   "fair": 0.562379468921525,
+   "game_id": "a3ed14cd9d938b3c5bea48fb0c78805d",
+   "home": "Marshall Thundering Herd",
+   "id": "a3ed14cd9d938b3c5bea48fb0c78805d-h2h-South Alabama Jaguars--1792510221",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Jaguars @ Herd",
+   "odds": 44,
+   "outcome": "South Alabama Jaguars",
+   "placed": 1792510221.8827968,
+   "player": null,
+   "point": null,
+   "sport": "americanfootball_ncaaf",
+   "stake": 3.25,
+   "start": 1792539000.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct31alstaamu",
+   "votes": {
+    "Line Watcher": true,
     "The Clock": true,
     "The Insider": true,
     "The Sharp": true,
