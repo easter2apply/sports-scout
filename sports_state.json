@@ -1,45 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Vancouver Canucks +1.5",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.030000000000000027,
-   "fair": 0.5,
-   "matchup": "Hurricanes @ Canucks",
-   "odds": 106,
-   "ok": true,
-   "sport": "icehockey_nhl",
-   "start": 1792548600.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 19.4h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +100 vs FanDuel 106: +3.0% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     true,
-     "edge holds vs the market average too"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -1107,7 +1067,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792478716.8378398
+   "t": 1792479625.412776
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -1767,38 +1727,6 @@
   }
  },
  "fair_hist": {
-  "0922c474e6588f94af491684dbae6cdb|h2h|Calgary Flames|None": [
-   0.336,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|h2h|Carolina Hurricanes|None": [
-   0.664,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|spreads|Calgary Flames|1.5": [
-   0.5536,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|spreads|Carolina Hurricanes|-1.5": [
-   0.4464,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|totals|Over|6.0": [
-   0.5216,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|totals|Over|6.5": [
-   0.4568,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|totals|Under|6.0": [
-   0.4784,
-   1792350023.5687869
-  ],
-  "0922c474e6588f94af491684dbae6cdb|totals|Under|6.5": [
-   0.5432,
-   1792350023.5687869
-  ],
   "0e2b3099b25e9827dc4a6abd7fabfa51|h2h|Pittsburgh Penguins|None": [
    0.3789,
    1792421118.415692
@@ -1894,30 +1822,6 @@
   "2b042ddad3d3c6c6fe5b7005dc26c775|totals|Under|232.0": [
    0.4955,
    1792478716.031286
-  ],
-  "3af4496cf626dc3538fb93001aa2fba0|h2h|Columbus Blue Jackets|None": [
-   0.3707,
-   1792350023.5687869
-  ],
-  "3af4496cf626dc3538fb93001aa2fba0|h2h|Minnesota Wild|None": [
-   0.6293,
-   1792350023.5687869
-  ],
-  "3af4496cf626dc3538fb93001aa2fba0|spreads|Columbus Blue Jackets|1.5": [
-   0.5919,
-   1792350023.5687869
-  ],
-  "3af4496cf626dc3538fb93001aa2fba0|spreads|Minnesota Wild|-1.5": [
-   0.4081,
-   1792350023.5687869
-  ],
-  "3af4496cf626dc3538fb93001aa2fba0|totals|Over|6.5": [
-   0.4829,
-   1792350023.5687869
-  ],
-  "3af4496cf626dc3538fb93001aa2fba0|totals|Under|6.5": [
-   0.5171,
-   1792350023.5687869
   ],
   "50c81d9967c2341f2117c57685000dee|h2h|St Louis Blues|None": [
    0.5719,
@@ -2089,27 +1993,27 @@
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|h2h|Marshall Thundering Herd|None": [
    0.4178,
-   1792478716.031286
+   1792479624.1947362
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|h2h|South Alabama Jaguars|None": [
    0.5822,
-   1792478716.031286
+   1792479624.1947362
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|spreads|Marshall Thundering Herd|3.0": [
    0.5067,
-   1792478716.031286
+   1792479624.1947362
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|spreads|South Alabama Jaguars|-3.0": [
    0.4933,
-   1792478716.031286
+   1792479624.1947362
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|totals|Over|65.5": [
    0.4978,
-   1792478716.031286
+   1792479624.1947362
   ],
   "a3ed14cd9d938b3c5bea48fb0c78805d|totals|Under|65.5": [
    0.5022,
-   1792478716.031286
+   1792479624.1947362
   ],
   "adae998098aa843c9bb607b62ff47d5f|h2h|Carolina Hurricanes|None": [
    0.7135,
@@ -2209,27 +2113,27 @@
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|h2h|Florida International Panthers|None": [
    0.7718,
-   1792478716.031286
+   1792479624.1947362
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|h2h|Middle Tennessee Blue Raiders|None": [
    0.2282,
-   1792478716.031286
+   1792479624.1947362
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|spreads|Florida International Panthers|-10.0": [
    0.507,
-   1792478716.031286
+   1792479624.1947362
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|spreads|Middle Tennessee Blue Raiders|10.0": [
    0.493,
-   1792478716.031286
+   1792479624.1947362
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|totals|Over|45.5": [
    0.4929,
-   1792478716.031286
+   1792479624.1947362
   ],
   "c85512046e05e5ed845e60dd5d6d5e1e|totals|Under|45.5": [
    0.5071,
-   1792478716.031286
+   1792479624.1947362
   ],
   "c8d71abe9d49ca6ea219b84923b9a48c|h2h|Colorado Avalanche|None": [
    0.6771,
@@ -2289,27 +2193,27 @@
   ],
   "dc65142bf9a0e7652a252b2074037efa|h2h|Delaware Blue Hens|None": [
    0.591,
-   1792478716.031286
+   1792479624.1947362
   ],
   "dc65142bf9a0e7652a252b2074037efa|h2h|Missouri State Bears|None": [
    0.409,
-   1792478716.031286
+   1792479624.1947362
   ],
   "dc65142bf9a0e7652a252b2074037efa|spreads|Delaware Blue Hens|-3.0": [
    0.5089,
-   1792478716.031286
+   1792479624.1947362
   ],
   "dc65142bf9a0e7652a252b2074037efa|spreads|Missouri State Bears|3.0": [
    0.4911,
-   1792478716.031286
+   1792479624.1947362
   ],
   "dc65142bf9a0e7652a252b2074037efa|totals|Over|52.5": [
    0.5065,
-   1792478716.031286
+   1792479624.1947362
   ],
   "dc65142bf9a0e7652a252b2074037efa|totals|Under|52.5": [
    0.4935,
-   1792478716.031286
+   1792479624.1947362
   ],
   "ea54f93ba7f80a041cb134ca262d7bc0|h2h|Anaheim Ducks|None": [
    0.4425,
@@ -2408,7 +2312,7 @@
    1792478716.031286
   ]
  },
- "last_run": 1792478716.031286,
+ "last_run": 1792479624.1947362,
  "last_vote": {
   "approved": true,
   "label": "Vancouver Canucks +1.5",
@@ -2645,7 +2549,7 @@
      "text": "UTSA visits Tulane in AAC play UTSA (6-1) at Tulane (3-3), Oct. 24 at 8 p.m. EDT."
     }
    ],
-   "t": 1792476920.2350292
+   "t": 1792479626.124689
   },
   "americanfootball_nfl": {
    "items": [
