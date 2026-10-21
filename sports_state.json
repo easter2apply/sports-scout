@@ -432,6 +432,42 @@
     "The Shopper": true,
     "The Skeptic": true
    }
+  },
+  {
+   "away": "Carolina Hurricanes",
+   "bet": "Vancouver Canucks +1.5",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 2.06,
+   "ev": 0.030000000000000027,
+   "fair": 0.5,
+   "game_id": "adae998098aa843c9bb607b62ff47d5f",
+   "graded": 1792557916.7521167,
+   "home": "Vancouver Canucks",
+   "id": "adae998098aa843c9bb607b62ff47d5f-spreads-Vancouver Canucks--1792468821",
+   "kind": "spread",
+   "market": "spreads",
+   "matchup": "Hurricanes @ Canucks",
+   "odds": 106,
+   "outcome": "Vancouver Canucks",
+   "pl": -1.0,
+   "placed": 1792468821.7594883,
+   "player": null,
+   "point": 1.5,
+   "result": "loss",
+   "sport": "icehockey_nhl",
+   "stake": 1.0,
+   "start": 1792548600.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -1103,7 +1139,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792557021.5216188
+   "t": 1792557916.8978865
   },
   "americanfootball_ncaaf|2026-10-20": {
    "games": [
@@ -1801,56 +1837,193 @@
     }
    ],
    "t": 1792287916.3898022
+  },
+  "icehockey_nhl|2026-10-20": {
+   "games": [
+    {
+     "away": {
+      "name": "San Jose Sharks",
+      "score": 4.0
+     },
+     "done": true,
+     "home": {
+      "name": "Montreal Canadiens",
+      "score": 3.0
+     },
+     "id": "401892539"
+    },
+    {
+     "away": {
+      "name": "Colorado Avalanche",
+      "score": 3.0
+     },
+     "done": true,
+     "home": {
+      "name": "New Jersey Devils",
+      "score": 4.0
+     },
+     "id": "401892540"
+    },
+    {
+     "away": {
+      "name": "Anaheim Ducks",
+      "score": 2.0
+     },
+     "done": true,
+     "home": {
+      "name": "New York Islanders",
+      "score": 3.0
+     },
+     "id": "401892541"
+    },
+    {
+     "away": {
+      "name": "Los Angeles Kings",
+      "score": 5.0
+     },
+     "done": true,
+     "home": {
+      "name": "Washington Capitals",
+      "score": 2.0
+     },
+     "id": "401892542"
+    },
+    {
+     "away": {
+      "name": "Toronto Maple Leafs",
+      "score": 6.0
+     },
+     "done": true,
+     "home": {
+      "name": "Columbus Blue Jackets",
+      "score": 2.0
+     },
+     "id": "401892543"
+    },
+    {
+     "away": {
+      "name": "Winnipeg Jets",
+      "score": 1.0
+     },
+     "done": true,
+     "home": {
+      "name": "St. Louis Blues",
+      "score": 2.0
+     },
+     "id": "401892544"
+    },
+    {
+     "away": {
+      "name": "Boston Bruins",
+      "score": 2.0
+     },
+     "done": true,
+     "home": {
+      "name": "Dallas Stars",
+      "score": 3.0
+     },
+     "id": "401892545"
+    },
+    {
+     "away": {
+      "name": "Minnesota Wild",
+      "score": 3.0
+     },
+     "done": true,
+     "home": {
+      "name": "Edmonton Oilers",
+      "score": 4.0
+     },
+     "id": "401892546"
+    },
+    {
+     "away": {
+      "name": "Detroit Red Wings",
+      "score": 3.0
+     },
+     "done": true,
+     "home": {
+      "name": "Seattle Kraken",
+      "score": 4.0
+     },
+     "id": "401892547"
+    },
+    {
+     "away": {
+      "name": "Carolina Hurricanes",
+      "score": 6.0
+     },
+     "done": true,
+     "home": {
+      "name": "Vancouver Canucks",
+      "score": 3.0
+     },
+     "id": "401892548"
+    },
+    {
+     "away": {
+      "name": "Tampa Bay Lightning",
+      "score": 5.0
+     },
+     "done": false,
+     "home": {
+      "name": "Vegas Golden Knights",
+      "score": 2.0
+     },
+     "id": "401892549"
+    }
+   ],
+   "t": 1792557916.9554691
   }
  },
  "fair_hist": {
   "0b4bab4d663e04a571655ec7477eb10a|h2h|Buffalo Sabres|None": [
    0.6239,
-   1792557020.861386
+   1792557915.9872406
   ],
   "0b4bab4d663e04a571655ec7477eb10a|h2h|Philadelphia Flyers|None": [
    0.3761,
-   1792557020.861386
+   1792557915.9872406
   ],
   "0b4bab4d663e04a571655ec7477eb10a|spreads|Buffalo Sabres|-1.5": [
    0.3979,
-   1792557020.861386
+   1792557915.9872406
   ],
   "0b4bab4d663e04a571655ec7477eb10a|spreads|Philadelphia Flyers|1.5": [
    0.6021,
-   1792557020.861386
+   1792557915.9872406
   ],
   "0b4bab4d663e04a571655ec7477eb10a|totals|Over|6.0": [
    0.4955,
-   1792557020.861386
+   1792557915.9872406
   ],
   "0b4bab4d663e04a571655ec7477eb10a|totals|Under|6.0": [
    0.5045,
-   1792557020.861386
+   1792557915.9872406
   ],
   "164cc0396837d5ff433215ffd3279283|h2h|Milwaukee Bucks|None": [
    0.3748,
-   1792557020.861386
+   1792557915.9872406
   ],
   "164cc0396837d5ff433215ffd3279283|h2h|Washington Wizards|None": [
    0.6252,
-   1792557020.861386
+   1792557915.9872406
   ],
   "164cc0396837d5ff433215ffd3279283|spreads|Milwaukee Bucks|4.5": [
    0.4885,
-   1792557020.861386
+   1792557915.9872406
   ],
   "164cc0396837d5ff433215ffd3279283|spreads|Washington Wizards|-4.5": [
    0.5115,
-   1792557020.861386
+   1792557915.9872406
   ],
   "164cc0396837d5ff433215ffd3279283|totals|Over|239.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "164cc0396837d5ff433215ffd3279283|totals|Under|239.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "1ee9e671dfe8ad2d9c73f910baa56e1b|h2h|Colorado Avalanche|None": [
    0.5069,
@@ -1942,27 +2115,27 @@
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|h2h|Brooklyn Nets|None": [
    0.559,
-   1792557020.861386
+   1792557915.9872406
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|h2h|Charlotte Hornets|None": [
    0.441,
-   1792557020.861386
+   1792557915.9872406
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|spreads|Brooklyn Nets|-2.5": [
    0.5108,
-   1792557020.861386
+   1792557915.9872406
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|spreads|Charlotte Hornets|2.5": [
    0.4892,
-   1792557020.861386
+   1792557915.9872406
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|totals|Over|218.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|totals|Under|218.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "50c81d9967c2341f2117c57685000dee|h2h|St Louis Blues|None": [
    0.5687,
@@ -1990,59 +2163,59 @@
   ],
   "5736c2282f978bfdf849f4b10876080e|h2h|Florida Panthers|None": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|h2h|Ottawa Senators|None": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|spreads|Florida Panthers|1.5": [
    0.7108,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|spreads|Ottawa Senators|-1.5": [
    0.2892,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Over|5.5": [
    0.5315,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Over|6.0": [
    0.4721,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Under|5.5": [
    0.4685,
-   1792557020.861386
+   1792557915.9872406
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Under|6.0": [
    0.5279,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60431a347feac3f1c7ed925b8b769ec5|h2h|Chicago Bulls|None": [
    0.2205,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60431a347feac3f1c7ed925b8b769ec5|h2h|Toronto Raptors|None": [
    0.7795,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60431a347feac3f1c7ed925b8b769ec5|spreads|Chicago Bulls|9.5": [
    0.4908,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60431a347feac3f1c7ed925b8b769ec5|spreads|Toronto Raptors|-9.5": [
    0.5092,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60431a347feac3f1c7ed925b8b769ec5|totals|Over|236.5": [
    0.509,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60431a347feac3f1c7ed925b8b769ec5|totals|Under|236.5": [
    0.491,
-   1792557020.861386
+   1792557915.9872406
   ],
   "60f76779653fc9a6106c6af48f51490f|h2h|Montr\u00e9al Canadiens|None": [
    0.6522,
@@ -2070,51 +2243,51 @@
   ],
   "6fff70f4bf196dba25060a5775a03b54|h2h|Golden State Warriors|None": [
    0.341,
-   1792557020.861386
+   1792557915.9872406
   ],
   "6fff70f4bf196dba25060a5775a03b54|h2h|Los Angeles Lakers|None": [
    0.659,
-   1792557020.861386
+   1792557915.9872406
   ],
   "6fff70f4bf196dba25060a5775a03b54|spreads|Golden State Warriors|6.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "6fff70f4bf196dba25060a5775a03b54|spreads|Los Angeles Lakers|-6.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "6fff70f4bf196dba25060a5775a03b54|totals|Over|234.0": [
    0.5045,
-   1792557020.861386
+   1792557915.9872406
   ],
   "6fff70f4bf196dba25060a5775a03b54|totals|Under|234.0": [
    0.4955,
-   1792557020.861386
+   1792557915.9872406
   ],
   "71e24359951927c356bd8c852fb867dd|h2h|Phoenix Suns|None": [
    0.431,
-   1792557020.861386
+   1792557915.9872406
   ],
   "71e24359951927c356bd8c852fb867dd|h2h|Portland Trail Blazers|None": [
    0.569,
-   1792557020.861386
+   1792557915.9872406
   ],
   "71e24359951927c356bd8c852fb867dd|spreads|Phoenix Suns|2.5": [
    0.4908,
-   1792557020.861386
+   1792557915.9872406
   ],
   "71e24359951927c356bd8c852fb867dd|spreads|Portland Trail Blazers|-2.5": [
    0.5092,
-   1792557020.861386
+   1792557915.9872406
   ],
   "71e24359951927c356bd8c852fb867dd|totals|Over|231.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "71e24359951927c356bd8c852fb867dd|totals|Under|231.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "84e20520cdbf52c71dfe697e7f789b86|h2h|Anaheim Ducks|None": [
    0.4147,
@@ -2142,51 +2315,51 @@
   ],
   "85e6e4e2404ef7268659739997758da1|h2h|Atlanta Hawks|None": [
    0.4281,
-   1792557020.861386
+   1792557915.9872406
   ],
   "85e6e4e2404ef7268659739997758da1|h2h|Orlando Magic|None": [
    0.5719,
-   1792557020.861386
+   1792557915.9872406
   ],
   "85e6e4e2404ef7268659739997758da1|spreads|Atlanta Hawks|3.5": [
    0.5092,
-   1792557020.861386
+   1792557915.9872406
   ],
   "85e6e4e2404ef7268659739997758da1|spreads|Orlando Magic|-3.5": [
    0.4908,
-   1792557020.861386
+   1792557915.9872406
   ],
   "85e6e4e2404ef7268659739997758da1|totals|Over|235.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "85e6e4e2404ef7268659739997758da1|totals|Under|235.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|h2h|Miami Heat|None": [
    0.5216,
-   1792557020.861386
+   1792557915.9872406
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|h2h|Minnesota Timberwolves|None": [
    0.4784,
-   1792557020.861386
+   1792557915.9872406
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|spreads|Miami Heat|-1.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|spreads|Minnesota Timberwolves|1.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|totals|Over|242.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|totals|Under|242.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "9839724bdc94a54158c53865e379c682|h2h|Tampa Bay Lightning|None": [
    0.4884,
@@ -2310,51 +2483,51 @@
   ],
   "af2f084075391e55ba2a596e7846bb40|h2h|Dallas Mavericks|None": [
    0.2479,
-   1792557020.861386
+   1792557915.9872406
   ],
   "af2f084075391e55ba2a596e7846bb40|h2h|Houston Rockets|None": [
    0.7521,
-   1792557020.861386
+   1792557915.9872406
   ],
   "af2f084075391e55ba2a596e7846bb40|spreads|Dallas Mavericks|8.5": [
    0.4892,
-   1792557020.861386
+   1792557915.9872406
   ],
   "af2f084075391e55ba2a596e7846bb40|spreads|Houston Rockets|-8.5": [
    0.5108,
-   1792557020.861386
+   1792557915.9872406
   ],
   "af2f084075391e55ba2a596e7846bb40|totals|Over|230.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "af2f084075391e55ba2a596e7846bb40|totals|Under|230.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b04425f83695783f343344ca6d33261c|h2h|New Mexico State Aggies|None": [
    0.5522,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b04425f83695783f343344ca6d33261c|h2h|Sam Houston State Bearkats|None": [
    0.4478,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b04425f83695783f343344ca6d33261c|spreads|New Mexico State Aggies|-2.5": [
    0.5067,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b04425f83695783f343344ca6d33261c|spreads|Sam Houston State Bearkats|2.5": [
    0.4933,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b04425f83695783f343344ca6d33261c|totals|Over|45.0": [
    0.4967,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b04425f83695783f343344ca6d33261c|totals|Under|45.0": [
    0.5033,
-   1792557020.861386
+   1792557915.9872406
   ],
   "b1c2bb946e4f5824800dab22ae585454|h2h|Detroit Red Wings|None": [
    0.4954,
@@ -2542,75 +2715,75 @@
   ],
   "e6769c813dd625b622df94c14a562ce2|h2h|Memphis Grizzlies|None": [
    0.5115,
-   1792557020.861386
+   1792557915.9872406
   ],
   "e6769c813dd625b622df94c14a562ce2|h2h|Utah Jazz|None": [
    0.4885,
-   1792557020.861386
+   1792557915.9872406
   ],
   "e6769c813dd625b622df94c14a562ce2|spreads|Memphis Grizzlies|-1.0": [
    0.5023,
-   1792557020.861386
+   1792557915.9872406
   ],
   "e6769c813dd625b622df94c14a562ce2|spreads|Memphis Grizzlies|-1.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "e6769c813dd625b622df94c14a562ce2|spreads|Utah Jazz|1.0": [
    0.4977,
-   1792557020.861386
+   1792557915.9872406
   ],
   "e6769c813dd625b622df94c14a562ce2|spreads|Utah Jazz|1.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|h2h|Los Angeles Clippers|None": [
    0.6432,
-   1792557020.861386
+   1792557915.9872406
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|h2h|Sacramento Kings|None": [
    0.3568,
-   1792557020.861386
+   1792557915.9872406
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|spreads|Los Angeles Clippers|-5.5": [
    0.4955,
-   1792557020.861386
+   1792557915.9872406
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|spreads|Sacramento Kings|5.5": [
    0.5045,
-   1792557020.861386
+   1792557915.9872406
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|totals|Over|228.5": [
    0.5023,
-   1792557020.861386
+   1792557915.9872406
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|totals|Under|228.5": [
    0.4977,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd33c09c84ab4c2fe6955d59f8dc5dd2|h2h|Indiana Pacers|None": [
    0.5941,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd33c09c84ab4c2fe6955d59f8dc5dd2|h2h|New Orleans Pelicans|None": [
    0.4059,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd33c09c84ab4c2fe6955d59f8dc5dd2|spreads|Indiana Pacers|-3.5": [
    0.5069,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd33c09c84ab4c2fe6955d59f8dc5dd2|spreads|New Orleans Pelicans|3.5": [
    0.4931,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd33c09c84ab4c2fe6955d59f8dc5dd2|totals|Over|239.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd33c09c84ab4c2fe6955d59f8dc5dd2|totals|Under|239.5": [
    0.5,
-   1792557020.861386
+   1792557915.9872406
   ],
   "fd470e8ca75f778cf8dfdfcb340e2fa7|h2h|Columbus Blue Jackets|None": [
    0.5813,
@@ -2637,7 +2810,7 @@
    1792510221.8827968
   ]
  },
- "last_run": 1792557020.861386,
+ "last_run": 1792557915.9872406,
  "last_vote": {
   "approved": true,
   "label": "Los Angeles Lakers to win",
@@ -3289,6 +3462,18 @@
   "icehockey_nhl": {
    "items": [
     {
+     "t": 1792557541.0,
+     "text": "Kings secure long-awaited first win, lose Quinton Byfield to upper-body injury The NHL's sole winless team entering Tuesday's action, the Los Angeles Kings broke out offensively, authoring a 5-2 win over the Washington Capitals to improve to 1-6-2, though they lost center Quinton Byfield in the first period to an upper-body injury."
+    },
+    {
+     "t": 1792556757.0,
+     "text": "Minnesota Wild vs. Edmonton Oilers: Game Highlights Minnesota Wild vs. Edmonton Oilers: Game Highlights"
+    },
+    {
+     "t": 1792556709.0,
+     "text": "Bouchard scores in OT to lift the Oilers past the Wild, 4-3 \u2014 Evan Bouchard scored on a power play at 3:32 of overtime to give the Edmonton Oilers a 4-3 victory over the Minnesota Wild on Tuesday night."
+    },
+    {
      "t": 1792552224.0,
      "text": "Mikko Rantanen's overtime hat trick gives the Stars a 3-2 win over the Bruins \u2014 Mikko Rantanen scored in overtime to complete a hat trick, and the Dallas Stars beat Boston 3-2 on Tuesday night to snap the Bruins' five-game winning streak."
     },
@@ -3475,21 +3660,9 @@
     {
      "t": 1792397487.0,
      "text": "Golden Knights bring win streak into home matchup against the Lightning Tampa Bay Lightning (6-2, in the Atlantic Division) vs. Vegas Golden Knights (8-2, in the Pacific Division)"
-    },
-    {
-     "t": 1792379253.0,
-     "text": "Sharangovich breaks late tie as the Flames end the Hurricanes' 7-game winning streak \u2014 Yegor Sharangovich scored the go-ahead goal with 4:28 left and the Calgary Flames ended Carolina's seven-game winning streak, beating the defending champion Hurricanes 3-2 on Saturday night for their second victory of the season."
-    },
-    {
-     "t": 1792378028.0,
-     "text": "Carolina Hurricanes vs. Calgary Flames: Game Highlights Carolina Hurricanes vs. Calgary Flames: Game Highlights"
-    },
-    {
-     "t": 1792370266.0,
-     "text": "Columbus Blue Jackets vs. Minnesota Wild: Game Highlights Columbus Blue Jackets vs. Minnesota Wild: Game Highlights"
     }
    ],
-   "t": 1792555223.8485308
+   "t": 1792557917.6075435
   }
  },
  "odds": {
@@ -10838,39 +11011,6 @@
    }
   },
   {
-   "away": "Carolina Hurricanes",
-   "bet": "Vancouver Canucks +1.5",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 2.06,
-   "ev": 0.030000000000000027,
-   "fair": 0.5,
-   "game_id": "adae998098aa843c9bb607b62ff47d5f",
-   "home": "Vancouver Canucks",
-   "id": "adae998098aa843c9bb607b62ff47d5f-spreads-Vancouver Canucks--1792468821",
-   "kind": "spread",
-   "market": "spreads",
-   "matchup": "Hurricanes @ Canucks",
-   "odds": 106,
-   "outcome": "Vancouver Canucks",
-   "placed": 1792468821.7594883,
-   "player": null,
-   "point": 1.5,
-   "sport": "icehockey_nhl",
-   "stake": 1.0,
-   "start": 1792548600.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  },
-  {
    "away": "Golden State Warriors",
    "bet": "Los Angeles Lakers to win",
    "book": "kalshi",
@@ -10951,10 +11091,10 @@
   }
  ],
  "record": {
-  "losses": 10,
-  "pl": 5.11,
+  "losses": 11,
+  "pl": 4.11,
   "pushes": 0,
-  "staked": 16.59,
+  "staked": 17.59,
   "wins": 2
  },
  "schedule": {
