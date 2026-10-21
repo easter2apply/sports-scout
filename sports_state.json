@@ -473,9 +473,9 @@
  "credits": {
   "day": "2026-10-21",
   "month": null,
-  "remaining": 351,
-  "spent_today": 9,
-  "used": 149
+  "remaining": 348,
+  "spent_today": 12,
+  "used": 152
  },
  "errors": [
   {
@@ -1139,7 +1139,7 @@
      "id": "401858492"
     }
    ],
-   "t": 1792579520.2968566
+   "t": 1792580426.3621635
   },
   "americanfootball_ncaaf|2026-10-20": {
    "games": [
@@ -1979,27 +1979,35 @@
  "fair_hist": {
   "0b4bab4d663e04a571655ec7477eb10a|h2h|Buffalo Sabres|None": [
    0.6239,
-   1792565116.920125
+   1792580425.1795907
   ],
   "0b4bab4d663e04a571655ec7477eb10a|h2h|Philadelphia Flyers|None": [
    0.3761,
-   1792565116.920125
+   1792580425.1795907
   ],
   "0b4bab4d663e04a571655ec7477eb10a|spreads|Buffalo Sabres|-1.5": [
-   0.3979,
-   1792565116.920125
+   0.3974,
+   1792580425.1795907
   ],
   "0b4bab4d663e04a571655ec7477eb10a|spreads|Philadelphia Flyers|1.5": [
-   0.6021,
-   1792565116.920125
+   0.6026,
+   1792580425.1795907
+  ],
+  "0b4bab4d663e04a571655ec7477eb10a|totals|Over|5.5": [
+   0.5514,
+   1792580425.1795907
   ],
   "0b4bab4d663e04a571655ec7477eb10a|totals|Over|6.0": [
-   0.4955,
-   1792565116.920125
+   0.5068,
+   1792580425.1795907
+  ],
+  "0b4bab4d663e04a571655ec7477eb10a|totals|Under|5.5": [
+   0.4486,
+   1792580425.1795907
   ],
   "0b4bab4d663e04a571655ec7477eb10a|totals|Under|6.0": [
-   0.5045,
-   1792565116.920125
+   0.4932,
+   1792580425.1795907
   ],
   "164cc0396837d5ff433215ffd3279283|h2h|Milwaukee Bucks|None": [
    0.3757,
@@ -2170,12 +2178,16 @@
    1792510221.8827968
   ],
   "5736c2282f978bfdf849f4b10876080e|h2h|Florida Panthers|None": [
-   0.5,
-   1792565116.920125
+   0.5046,
+   1792580425.1795907
   ],
   "5736c2282f978bfdf849f4b10876080e|h2h|Ottawa Senators|None": [
-   0.5,
-   1792565116.920125
+   0.4954,
+   1792580425.1795907
+  ],
+  "5736c2282f978bfdf849f4b10876080e|spreads|Florida Panthers|-1.5": [
+   0.2928,
+   1792580425.1795907
   ],
   "5736c2282f978bfdf849f4b10876080e|spreads|Florida Panthers|1.5": [
    0.7108,
@@ -2185,17 +2197,21 @@
    0.2892,
    1792565116.920125
   ],
+  "5736c2282f978bfdf849f4b10876080e|spreads|Ottawa Senators|1.5": [
+   0.7072,
+   1792580425.1795907
+  ],
   "5736c2282f978bfdf849f4b10876080e|totals|Over|5.5": [
-   0.5315,
-   1792565116.920125
+   0.5226,
+   1792580425.1795907
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Over|6.0": [
    0.4721,
    1792565116.920125
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Under|5.5": [
-   0.4685,
-   1792565116.920125
+   0.4774,
+   1792580425.1795907
   ],
   "5736c2282f978bfdf849f4b10876080e|totals|Under|6.0": [
    0.5279,
@@ -2834,7 +2850,7 @@
    1792510221.8827968
   ]
  },
- "last_run": 1792579518.9721167,
+ "last_run": 1792580425.1795907,
  "last_vote": {
   "approved": true,
   "label": "Los Angeles Lakers to win",
@@ -3486,6 +3502,46 @@
   "icehockey_nhl": {
    "items": [
     {
+     "t": 1792570279.0,
+     "text": "Carolina visits Edmonton after Deslauriers' 2-goal game Carolina Hurricanes (8-2-1, in the Metropolitan Division) vs. Edmonton Oilers (7-1-1, in the Pacific Division)"
+    },
+    {
+     "t": 1792570278.0,
+     "text": "Golden Knights visit the Blues in Western Conference play Vegas Golden Knights (8-3, in the Pacific Division) vs. St. Louis Blues (4-4-1, in the Central Division)"
+    },
+    {
+     "t": 1792570276.0,
+     "text": "New York visits Toronto after Bjorkstrand's 2-goal game New York Rangers (7-3-1, in the Metropolitan Division) vs. Toronto Maple Leafs (5-4-2, in the Atlantic Division)"
+    },
+    {
+     "t": 1792570275.0,
+     "text": "Kraken host the Mammoth after shootout win Utah Mammoth (7-3, in the Central Division) vs. Seattle Kraken (6-3-1, in the Pacific Division)"
+    },
+    {
+     "t": 1792570274.0,
+     "text": "Kings visit the Islanders after Kempe's 2-goal game Los Angeles Kings (1-4-2, in the Pacific Division) vs. New York Islanders (5-3-1, in the Metropolitan Division)"
+    },
+    {
+     "t": 1792570273.0,
+     "text": "Anaheim brings losing streak into matchup with New Jersey Anaheim Ducks (4-5, in the Pacific Division) vs. New Jersey Devils (5-4, in the Metropolitan Division)"
+    },
+    {
+     "t": 1792570272.0,
+     "text": "Boston and Nashville face off in non-conference matchup Nashville Predators (3-2-3, in the Central Division) vs. Boston Bruins (7-2-1, in the Atlantic Division)"
+    },
+    {
+     "t": 1792570271.0,
+     "text": "Jets take losing streak into game against the Stars Winnipeg Jets (4-3-2, in the Central Division) vs. Dallas Stars (5-3-1, in the Central Division)"
+    },
+    {
+     "t": 1792570269.0,
+     "text": "Canucks bring losing streak into game against the Red Wings Detroit Red Wings (3-3-3, in the Atlantic Division) vs. Vancouver Canucks (2-8-1, in the Pacific Division)"
+    },
+    {
+     "t": 1792570268.0,
+     "text": "Flames host the Wild in Western Conference play Minnesota Wild (6-2-2, in the Central Division) vs. Calgary Flames (2-6, in the Pacific Division)"
+    },
+    {
      "t": 1792562057.0,
      "text": "Lightning beat Golden Knights 6-2 as Kucherov ties franchise points record \u2014 Anthony Cirelli scored twice, Nikita Kucherov had three points to tie Tampa Bay's career scoring record, and the Lightning extended their strong start by beating the Vegas Golden Knights 6-2 on Tuesday night."
     },
@@ -3594,7 +3650,7 @@
      "text": "Fantasy hockey warning signs: D-men with hot starts to consider trading away Sean dives into the defensemen trends to find warning signs for hot starters and what managers should do."
     },
     {
-     "t": 1792519212.0,
+     "t": 1792578215.0,
      "text": "Panthers' Brady Tkachuk to donate Senators jerseys thrown in protest Brady Tkachuk, who was traded from Ottawa to Florida in June, says he'll donate any Senators jerseys thrown in protest of his return to the Boys and Girls Club of Ottawa."
     },
     {
@@ -3644,49 +3700,9 @@
     {
      "t": 1792463886.0,
      "text": "San Jose Sharks vs. Toronto Maple Leafs: Game Highlights San Jose Sharks vs. Toronto Maple Leafs: Game Highlights"
-    },
-    {
-     "t": 1792462268.0,
-     "text": "Matvei Michkov scores 2 goals and Flyers beat Avalanche 3-2 for 2nd straight win \u2014 Matvei Michkov scored two goals and the Philadelphia Flyers beat the Colorado Avalanche 3-2 on Monday night for their second straight victory after opening the season with nine consecutive losses."
-    },
-    {
-     "t": 1792461434.0,
-     "text": "Colorado Avalanche vs. Philadelphia Flyers: Game Highlights Colorado Avalanche vs. Philadelphia Flyers: Game Highlights"
-    },
-    {
-     "t": 1792461377.0,
-     "text": "Anaheim Ducks vs. New York Rangers: Game Highlights Anaheim Ducks vs. New York Rangers: Game Highlights"
-    },
-    {
-     "t": 1792460949.0,
-     "text": "Rangers beat the Ducks 5-2 to improve to 6-0-0 at home to start the season \u2014 Sean Durzi scored 78 seconds in, Dylan Garand made 29 saves and the New York Rangers defeated "
-    },
-    {
-     "t": 1792472938.0,
-     "text": "Cole Knuble, son of Mike, makes NHL debut with Flyers he grew up rooting for On Monday night, Cole Knuble made his NHL debut for the Flyers team he grew up rooting for, with his parents in attendance."
-    },
-    {
-     "t": 1792447844.0,
-     "text": "Sources: At least 3 teams in mix for Jets goalie Connor Hellebuyck Several teams remain interested in goalie Connor Hellebuyck, sources told ESPN, but there's no guarantee the Winnipeg Jets will deal him before his suspension ends."
-    },
-    {
-     "t": 1792435813.0,
-     "text": "Fantasy hockey weekly pickups: Add these available forwards on productive lines Begin your fantasy hockey week with forwards, defensemen, goalies and streamers to add to your lineup."
-    },
-    {
-     "t": 1792414209.0,
-     "text": "Dylan Garand is living an NHL goalie's dream ... but will it last? The 24-year-old has stepped into the spotlight due to injuries to Igor Shesterkin and Joonas Korpisalo. How long will his success last?"
-    },
-    {
-     "t": 1792415414.0,
-     "text": "NHL Tonight: Previews, stats and betting info for Monday Here's what you need to know for the four games on the schedule."
-    },
-    {
-     "t": 1792397553.0,
-     "text": "Canucks bring losing streak into home matchup against the Hurricanes Carolina Hurricanes (7-2-1, in the Metropolitan Division) vs. Vancouver Canucks (2-7-1, in the Pacific Division)"
     }
    ],
-   "t": 1792565118.3992107
+   "t": 1792580427.460737
   }
  },
  "odds": {
@@ -10021,18 +10037,18 @@
    ]
   },
   "icehockey_nhl": {
-   "fetched": 1792555223.60816,
+   "fetched": 1792580427.2253664,
    "games": [
     {
      "away_team": "Philadelphia Flyers",
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-21T04:00:16Z",
+       "last_update": "2026-10-21T11:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10046,7 +10062,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10062,7 +10078,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10081,41 +10097,41 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-21T03:59:48Z",
+       "last_update": "2026-10-21T10:59:42Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:48Z",
+         "last_update": "2026-10-21T10:59:42Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
-           "price": -176
+           "price": -179
           },
           {
            "name": "Philadelphia Flyers",
-           "price": 154
+           "price": 157
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:48Z",
+         "last_update": "2026-10-21T10:59:42Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
            "point": -1.5,
-           "price": 149
+           "price": 147
           },
           {
            "name": "Philadelphia Flyers",
            "point": 1.5,
-           "price": -170
+           "price": -167
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:48Z",
+         "last_update": "2026-10-21T10:59:42Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10134,41 +10150,41 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-21T03:59:49Z",
+       "last_update": "2026-10-21T10:59:06Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:49Z",
+         "last_update": "2026-10-21T10:59:06Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
-           "price": -176
+           "price": -179
           },
           {
            "name": "Philadelphia Flyers",
-           "price": 154
+           "price": 157
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:49Z",
+         "last_update": "2026-10-21T10:59:06Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
            "point": -1.5,
-           "price": 149
+           "price": 147
           },
           {
            "name": "Philadelphia Flyers",
            "point": 1.5,
-           "price": -170
+           "price": -167
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:49Z",
+         "last_update": "2026-10-21T10:59:06Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10187,11 +10203,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-21T04:00:16Z",
+       "last_update": "2026-10-21T11:00:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:07Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10205,33 +10221,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:07Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
            "point": -1.5,
-           "price": 138
+           "price": 135
           },
           {
            "name": "Philadelphia Flyers",
            "point": 1.5,
-           "price": -175
+           "price": -167
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:07Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.5,
-           "price": 112
+           "point": 5.5,
+           "price": -137
           },
           {
            "name": "Under",
-           "point": 6.5,
-           "price": -137
+           "point": 5.5,
+           "price": 110
           }
          ]
         }
@@ -10240,11 +10256,11 @@
       },
       {
        "key": "fanduel",
-       "last_update": "2026-10-21T03:59:50Z",
+       "last_update": "2026-10-21T11:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:50Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10258,7 +10274,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:50Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10274,7 +10290,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:50Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10293,41 +10309,41 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-21T04:00:17Z",
+       "last_update": "2026-10-21T10:59:24Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T10:59:24Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
-           "price": -185
+           "price": -190
           },
           {
            "name": "Philadelphia Flyers",
-           "price": 150
+           "price": 154
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T10:59:24Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
            "point": -1.5,
-           "price": 135
+           "price": 125
           },
           {
            "name": "Philadelphia Flyers",
            "point": 1.5,
-           "price": -160
+           "price": -155
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T10:59:24Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10346,11 +10362,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-21T04:00:17Z",
+       "last_update": "2026-10-21T11:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10364,7 +10380,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10380,17 +10396,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 5.5,
-           "price": -135
+           "price": -145
           },
           {
            "name": "Under",
            "point": 5.5,
-           "price": 115
+           "price": 120
           }
          ]
         }
@@ -10399,11 +10415,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-21T03:59:27Z",
+       "last_update": "2026-10-21T10:58:22Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:27Z",
+         "last_update": "2026-10-21T10:58:22Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10417,7 +10433,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:27Z",
+         "last_update": "2026-10-21T10:58:22Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10433,7 +10449,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:27Z",
+         "last_update": "2026-10-21T10:58:22Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10452,11 +10468,11 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-21T04:00:16Z",
+       "last_update": "2026-10-21T11:00:03Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:03Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10470,7 +10486,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:03Z",
          "outcomes": [
           {
            "name": "Buffalo Sabres",
@@ -10480,23 +10496,23 @@
           {
            "name": "Philadelphia Flyers",
            "point": 1.5,
-           "price": -165
+           "price": -166
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:03Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.0,
-           "price": -105
+           "price": -110
           },
           {
            "name": "Under",
            "point": 6.0,
-           "price": -109
+           "price": -104
           }
          ]
         }
@@ -10515,11 +10531,11 @@
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-21T04:00:16Z",
+       "last_update": "2026-10-21T11:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10533,23 +10549,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "point": 1.5,
-           "price": -278
+           "point": -1.5,
+           "price": 230
           },
           {
            "name": "Ottawa Senators",
-           "point": -1.5,
-           "price": 225
+           "point": 1.5,
+           "price": -285
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10568,11 +10584,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-21T03:59:49Z",
+       "last_update": "2026-10-21T10:59:06Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:49Z",
+         "last_update": "2026-10-21T10:59:06Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10586,7 +10602,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:49Z",
+         "last_update": "2026-10-21T10:59:06Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10602,7 +10618,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:49Z",
+         "last_update": "2026-10-21T10:59:06Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10621,11 +10637,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-21T03:59:48Z",
+       "last_update": "2026-10-21T10:59:42Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:48Z",
+         "last_update": "2026-10-21T10:59:42Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10639,7 +10655,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:48Z",
+         "last_update": "2026-10-21T10:59:42Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10655,7 +10671,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:48Z",
+         "last_update": "2026-10-21T10:59:42Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10674,51 +10690,51 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-21T04:00:16Z",
+       "last_update": "2026-10-21T11:00:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:07Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "price": -110
+           "price": -113
           },
           {
            "name": "Ottawa Senators",
-           "price": -108
+           "price": -105
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:07Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "point": 1.5,
-           "price": -315
+           "point": -1.5,
+           "price": 230
           },
           {
            "name": "Ottawa Senators",
-           "point": -1.5,
-           "price": 240
+           "point": 1.5,
+           "price": -295
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:07Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 5.5,
-           "price": -127
+           "price": -120
           },
           {
            "name": "Under",
            "point": 5.5,
-           "price": 102
+           "price": -105
           }
          ]
         }
@@ -10727,11 +10743,11 @@
       },
       {
        "key": "fanduel",
-       "last_update": "2026-10-21T03:59:50Z",
+       "last_update": "2026-10-21T11:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:50Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10745,7 +10761,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:50Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10761,7 +10777,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:50Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10780,11 +10796,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-21T04:00:17Z",
+       "last_update": "2026-10-21T10:59:24Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T10:59:24Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10798,23 +10814,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T10:59:24Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
            "point": 1.5,
-           "price": -275
+           "price": -285
           },
           {
            "name": "Ottawa Senators",
            "point": -1.5,
-           "price": 220
+           "price": 210
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T10:59:24Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10833,11 +10849,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-21T04:00:17Z",
+       "last_update": "2026-10-21T11:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10851,7 +10867,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
@@ -10867,7 +10883,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:17Z",
+         "last_update": "2026-10-21T11:00:05Z",
          "outcomes": [
           {
            "name": "Over",
@@ -10886,51 +10902,51 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-21T03:59:27Z",
+       "last_update": "2026-10-21T10:58:22Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T03:59:27Z",
+         "last_update": "2026-10-21T10:58:22Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "price": -110
+           "price": -112
           },
           {
            "name": "Ottawa Senators",
-           "price": -110
+           "price": -108
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T03:59:27Z",
+         "last_update": "2026-10-21T10:58:22Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "point": 1.5,
-           "price": -285
+           "point": -1.5,
+           "price": 230
           },
           {
            "name": "Ottawa Senators",
-           "point": -1.5,
-           "price": 235
+           "point": 1.5,
+           "price": -280
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T03:59:27Z",
+         "last_update": "2026-10-21T10:58:22Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": 105
+           "point": 5.5,
+           "price": -122
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": -125
+           "point": 5.5,
+           "price": 102
           }
          ]
         }
@@ -10939,51 +10955,51 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-21T04:00:16Z",
+       "last_update": "2026-10-21T11:00:03Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:03Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "price": -106
+           "price": -108
           },
           {
            "name": "Ottawa Senators",
-           "price": -106
+           "price": -104
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:03Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "point": 1.5,
-           "price": -282
+           "point": -1.5,
+           "price": 229
           },
           {
            "name": "Ottawa Senators",
-           "point": -1.5,
-           "price": 233
+           "point": 1.5,
+           "price": -276
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T04:00:16Z",
+         "last_update": "2026-10-21T11:00:03Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": 105
+           "point": 5.5,
+           "price": -117
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": -120
+           "point": 5.5,
+           "price": 103
           }
          ]
         }
