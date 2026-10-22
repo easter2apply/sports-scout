@@ -1,5 +1,45 @@
 {
- "board": [],
+ "board": [
+  {
+   "bet": "Los Angeles Kings to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "ev": 0.06469498729608425,
+   "fair": 0.4897596941561988,
+   "matchup": "Kings @ Islanders",
+   "odds": 44,
+   "ok": true,
+   "sport": "icehockey_nhl",
+   "start": 1792712400.0,
+   "type": "straight",
+   "votes": {
+    "Line Watcher": [
+     null,
+     "first look at this line"
+    ],
+    "The Clock": [
+     true,
+     "starts in 19.2h; odds 0 min old"
+    ],
+    "The Insider": [
+     true,
+     "no fresh injury news on our side"
+    ],
+    "The Sharp": [
+     true,
+     "fair +104 vs Kalshi 44\u00a2: +6.5% value"
+    ],
+    "The Shopper": [
+     true,
+     "9 books priced it; ours is the best price"
+    ],
+    "The Skeptic": [
+     true,
+     "edge holds vs the market average too"
+    ]
+   }
+  }
+ ],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -505,11 +545,11 @@
   }
  ],
  "credits": {
-  "day": "2026-10-21",
+  "day": "2026-10-22",
   "month": null,
-  "remaining": 339,
-  "spent_today": 21,
-  "used": 161
+  "remaining": 336,
+  "spent_today": 3,
+  "used": 164
  },
  "errors": [
   {
@@ -1365,6 +1405,143 @@
    ],
    "t": 1792367116.7212129
   },
+  "basketball_nba|2026-10-21": {
+   "games": [
+    {
+     "away": {
+      "name": "Atlanta Hawks",
+      "score": 132.0
+     },
+     "done": true,
+     "home": {
+      "name": "Orlando Magic",
+      "score": 125.0
+     },
+     "id": "401909834"
+    },
+    {
+     "away": {
+      "name": "Milwaukee Bucks",
+      "score": 116.0
+     },
+     "done": true,
+     "home": {
+      "name": "Washington Wizards",
+      "score": 128.0
+     },
+     "id": "401909835"
+    },
+    {
+     "away": {
+      "name": "Minnesota Timberwolves",
+      "score": 131.0
+     },
+     "done": true,
+     "home": {
+      "name": "Miami Heat",
+      "score": 106.0
+     },
+     "id": "401909091"
+    },
+    {
+     "away": {
+      "name": "Charlotte Hornets",
+      "score": 110.0
+     },
+     "done": true,
+     "home": {
+      "name": "Brooklyn Nets",
+      "score": 103.0
+     },
+     "id": "401909836"
+    },
+    {
+     "away": {
+      "name": "Chicago Bulls",
+      "score": 92.0
+     },
+     "done": true,
+     "home": {
+      "name": "Toronto Raptors",
+      "score": 135.0
+     },
+     "id": "401909837"
+    },
+    {
+     "away": {
+      "name": "Utah Jazz",
+      "score": 103.0
+     },
+     "done": true,
+     "home": {
+      "name": "Memphis Grizzlies",
+      "score": 123.0
+     },
+     "id": "401909838"
+    },
+    {
+     "away": {
+      "name": "Indiana Pacers",
+      "score": 123.0
+     },
+     "done": true,
+     "home": {
+      "name": "New Orleans Pelicans",
+      "score": 120.0
+     },
+     "id": "401909839"
+    },
+    {
+     "away": {
+      "name": "Dallas Mavericks",
+      "score": 110.0
+     },
+     "done": true,
+     "home": {
+      "name": "Houston Rockets",
+      "score": 128.0
+     },
+     "id": "401909840"
+    },
+    {
+     "away": {
+      "name": "Golden State Warriors",
+      "score": 89.0
+     },
+     "done": false,
+     "home": {
+      "name": "Los Angeles Lakers",
+      "score": 118.0
+     },
+     "id": "401909092"
+    },
+    {
+     "away": {
+      "name": "Phoenix Suns",
+      "score": 83.0
+     },
+     "done": true,
+     "home": {
+      "name": "Portland Trail Blazers",
+      "score": 124.0
+     },
+     "id": "401909841"
+    },
+    {
+     "away": {
+      "name": "Sacramento Kings",
+      "score": 70.0
+     },
+     "done": false,
+     "home": {
+      "name": "LA Clippers",
+      "score": 93.0
+     },
+     "id": "401909842"
+    }
+   ],
+   "t": 1792643420.5121496
+  },
   "icehockey_nhl|2026-10-13": {
    "games": [
     {
@@ -2045,27 +2222,27 @@
   ],
   "110e33c79c5ec8c0377702aff685f83b|h2h|Cleveland Cavaliers|None": [
    0.426,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "110e33c79c5ec8c0377702aff685f83b|h2h|Philadelphia 76ers|None": [
    0.574,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "110e33c79c5ec8c0377702aff685f83b|spreads|Cleveland Cavaliers|3.5": [
    0.5108,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "110e33c79c5ec8c0377702aff685f83b|spreads|Philadelphia 76ers|-3.5": [
    0.4892,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "110e33c79c5ec8c0377702aff685f83b|totals|Over|235.5": [
    0.5045,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "110e33c79c5ec8c0377702aff685f83b|totals|Under|235.5": [
    0.4955,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "164cc0396837d5ff433215ffd3279283|h2h|Milwaukee Bucks|None": [
    0.3757,
@@ -2093,27 +2270,51 @@
   ],
   "223b2883b9b05a67329ef246384b85f1|h2h|Denver Nuggets|None": [
    0.2744,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "223b2883b9b05a67329ef246384b85f1|h2h|Oklahoma City Thunder|None": [
    0.7256,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "223b2883b9b05a67329ef246384b85f1|spreads|Denver Nuggets|7.5": [
    0.4892,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "223b2883b9b05a67329ef246384b85f1|spreads|Oklahoma City Thunder|-7.5": [
    0.5108,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "223b2883b9b05a67329ef246384b85f1|totals|Over|235.5": [
    0.4955,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "223b2883b9b05a67329ef246384b85f1|totals|Under|235.5": [
    0.5045,
-   1792642517.0190487
+   1792643419.7484143
+  ],
+  "2d1a2e330020589eb147fe4736ccfd1e|h2h|Detroit Red Wings|None": [
+   0.601,
+   1792643419.7484143
+  ],
+  "2d1a2e330020589eb147fe4736ccfd1e|h2h|Vancouver Canucks|None": [
+   0.399,
+   1792643419.7484143
+  ],
+  "2d1a2e330020589eb147fe4736ccfd1e|spreads|Detroit Red Wings|-1.5": [
+   0.3817,
+   1792643419.7484143
+  ],
+  "2d1a2e330020589eb147fe4736ccfd1e|spreads|Vancouver Canucks|1.5": [
+   0.6183,
+   1792643419.7484143
+  ],
+  "2d1a2e330020589eb147fe4736ccfd1e|totals|Over|6.5": [
+   0.4899,
+   1792643419.7484143
+  ],
+  "2d1a2e330020589eb147fe4736ccfd1e|totals|Under|6.5": [
+   0.5101,
+   1792643419.7484143
   ],
   "47cc511bb5ce50f715e3625ce5ef77ee|h2h|Brooklyn Nets|None": [
    0.5303,
@@ -2187,6 +2388,54 @@
    0.5279,
    1792565116.920125
   ],
+  "58afd2b5779b2e4f163314436900d379|h2h|St Louis Blues|None": [
+   0.474,
+   1792643419.7484143
+  ],
+  "58afd2b5779b2e4f163314436900d379|h2h|Vegas Golden Knights|None": [
+   0.526,
+   1792643419.7484143
+  ],
+  "58afd2b5779b2e4f163314436900d379|spreads|St Louis Blues|1.5": [
+   0.6861,
+   1792643419.7484143
+  ],
+  "58afd2b5779b2e4f163314436900d379|spreads|Vegas Golden Knights|-1.5": [
+   0.3139,
+   1792643419.7484143
+  ],
+  "58afd2b5779b2e4f163314436900d379|totals|Over|6.0": [
+   0.5023,
+   1792643419.7484143
+  ],
+  "58afd2b5779b2e4f163314436900d379|totals|Under|6.0": [
+   0.4977,
+   1792643419.7484143
+  ],
+  "5ae32c2722f3ff4fa178c253f864b384|h2h|New York Rangers|None": [
+   0.5092,
+   1792643419.7484143
+  ],
+  "5ae32c2722f3ff4fa178c253f864b384|h2h|Toronto Maple Leafs|None": [
+   0.4908,
+   1792643419.7484143
+  ],
+  "5ae32c2722f3ff4fa178c253f864b384|spreads|New York Rangers|-1.5": [
+   0.3031,
+   1792643419.7484143
+  ],
+  "5ae32c2722f3ff4fa178c253f864b384|spreads|Toronto Maple Leafs|1.5": [
+   0.6969,
+   1792643419.7484143
+  ],
+  "5ae32c2722f3ff4fa178c253f864b384|totals|Over|6.5": [
+   0.491,
+   1792643419.7484143
+  ],
+  "5ae32c2722f3ff4fa178c253f864b384|totals|Under|6.5": [
+   0.509,
+   1792643419.7484143
+  ],
   "60431a347feac3f1c7ed925b8b769ec5|h2h|Chicago Bulls|None": [
    0.2146,
    1792579518.9721167
@@ -2210,6 +2459,62 @@
   "60431a347feac3f1c7ed925b8b769ec5|totals|Under|236.5": [
    0.5068,
    1792579518.9721167
+  ],
+  "62fca8dce49c8fa3988f75322311b896|h2h|Boston Bruins|None": [
+   0.5802,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|h2h|Nashville Predators|None": [
+   0.4198,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|spreads|Boston Bruins|-1.5": [
+   0.36,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|spreads|Nashville Predators|1.5": [
+   0.64,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|totals|Over|5.5": [
+   0.5427,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|totals|Over|6.0": [
+   0.4809,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|totals|Under|5.5": [
+   0.4573,
+   1792643419.7484143
+  ],
+  "62fca8dce49c8fa3988f75322311b896|totals|Under|6.0": [
+   0.5191,
+   1792643419.7484143
+  ],
+  "64c943b2b0c51d39a312874b925590f7|h2h|Dallas Stars|None": [
+   0.6514,
+   1792643419.7484143
+  ],
+  "64c943b2b0c51d39a312874b925590f7|h2h|Winnipeg Jets|None": [
+   0.3486,
+   1792643419.7484143
+  ],
+  "64c943b2b0c51d39a312874b925590f7|spreads|Dallas Stars|-1.5": [
+   0.4202,
+   1792643419.7484143
+  ],
+  "64c943b2b0c51d39a312874b925590f7|spreads|Winnipeg Jets|1.5": [
+   0.5798,
+   1792643419.7484143
+  ],
+  "64c943b2b0c51d39a312874b925590f7|totals|Over|5.5": [
+   0.5181,
+   1792643419.7484143
+  ],
+  "64c943b2b0c51d39a312874b925590f7|totals|Under|5.5": [
+   0.4819,
+   1792643419.7484143
   ],
   "6fff70f4bf196dba25060a5775a03b54|h2h|Golden State Warriors|None": [
    0.341,
@@ -2237,11 +2542,11 @@
   ],
   "71e24359951927c356bd8c852fb867dd|h2h|Phoenix Suns|None": [
    0.4086,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "71e24359951927c356bd8c852fb867dd|h2h|Portland Trail Blazers|None": [
    0.5914,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "71e24359951927c356bd8c852fb867dd|spreads|Phoenix Suns|2.5": [
    0.4862,
@@ -2249,7 +2554,7 @@
   ],
   "71e24359951927c356bd8c852fb867dd|spreads|Phoenix Suns|3.5": [
    0.4977,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "71e24359951927c356bd8c852fb867dd|spreads|Portland Trail Blazers|-2.5": [
    0.5138,
@@ -2257,7 +2562,7 @@
   ],
   "71e24359951927c356bd8c852fb867dd|spreads|Portland Trail Blazers|-3.5": [
    0.5023,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "71e24359951927c356bd8c852fb867dd|totals|Over|231.5": [
    0.5,
@@ -2265,7 +2570,7 @@
   ],
   "71e24359951927c356bd8c852fb867dd|totals|Over|232.5": [
    0.5,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "71e24359951927c356bd8c852fb867dd|totals|Under|231.5": [
    0.5,
@@ -2273,7 +2578,39 @@
   ],
   "71e24359951927c356bd8c852fb867dd|totals|Under|232.5": [
    0.5,
-   1792642517.0190487
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|h2h|Calgary Flames|None": [
+   0.3566,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|h2h|Minnesota Wild|None": [
+   0.6434,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|spreads|Calgary Flames|1.5": [
+   0.5832,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|spreads|Minnesota Wild|-1.5": [
+   0.4168,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|totals|Over|5.5": [
+   0.5424,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|totals|Over|6.0": [
+   0.4831,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|totals|Under|5.5": [
+   0.4576,
+   1792643419.7484143
+  ],
+  "7e4df53f515e77bc6555279eb5d6946a|totals|Under|6.0": [
+   0.5169,
+   1792643419.7484143
   ],
   "85e6e4e2404ef7268659739997758da1|h2h|Atlanta Hawks|None": [
    0.4281,
@@ -2298,6 +2635,54 @@
   "85e6e4e2404ef7268659739997758da1|totals|Under|235.5": [
    0.5,
    1792579518.9721167
+  ],
+  "8a951cc95f91e5df49f7aad4219c40e0|h2h|Carolina Hurricanes|None": [
+   0.5282,
+   1792643419.7484143
+  ],
+  "8a951cc95f91e5df49f7aad4219c40e0|h2h|Edmonton Oilers|None": [
+   0.4718,
+   1792643419.7484143
+  ],
+  "8a951cc95f91e5df49f7aad4219c40e0|spreads|Carolina Hurricanes|-1.5": [
+   0.3152,
+   1792643419.7484143
+  ],
+  "8a951cc95f91e5df49f7aad4219c40e0|spreads|Edmonton Oilers|1.5": [
+   0.6848,
+   1792643419.7484143
+  ],
+  "8a951cc95f91e5df49f7aad4219c40e0|totals|Over|6.5": [
+   0.5023,
+   1792643419.7484143
+  ],
+  "8a951cc95f91e5df49f7aad4219c40e0|totals|Under|6.5": [
+   0.4977,
+   1792643419.7484143
+  ],
+  "921ae4814ca448a3040aa6de5b0fb9e9|h2h|Anaheim Ducks|None": [
+   0.3616,
+   1792643419.7484143
+  ],
+  "921ae4814ca448a3040aa6de5b0fb9e9|h2h|New Jersey Devils|None": [
+   0.6384,
+   1792643419.7484143
+  ],
+  "921ae4814ca448a3040aa6de5b0fb9e9|spreads|Anaheim Ducks|1.5": [
+   0.5839,
+   1792643419.7484143
+  ],
+  "921ae4814ca448a3040aa6de5b0fb9e9|spreads|New Jersey Devils|-1.5": [
+   0.4161,
+   1792643419.7484143
+  ],
+  "921ae4814ca448a3040aa6de5b0fb9e9|totals|Over|6.5": [
+   0.4977,
+   1792643419.7484143
+  ],
+  "921ae4814ca448a3040aa6de5b0fb9e9|totals|Under|6.5": [
+   0.5023,
+   1792643419.7484143
   ],
   "93cdd8e4ade5697cfccf42ee42c4d207|h2h|Miami Heat|None": [
    0.526,
@@ -2419,6 +2804,30 @@
    0.5093,
    1792595717.6217566
   ],
+  "bfe0cd1ca4d32c4946e6ee28e21f0619|h2h|Los Angeles Kings|None": [
+   0.4898,
+   1792643419.7484143
+  ],
+  "bfe0cd1ca4d32c4946e6ee28e21f0619|h2h|New York Islanders|None": [
+   0.5102,
+   1792643419.7484143
+  ],
+  "bfe0cd1ca4d32c4946e6ee28e21f0619|spreads|Los Angeles Kings|1.5": [
+   0.7072,
+   1792643419.7484143
+  ],
+  "bfe0cd1ca4d32c4946e6ee28e21f0619|spreads|New York Islanders|-1.5": [
+   0.2928,
+   1792643419.7484143
+  ],
+  "bfe0cd1ca4d32c4946e6ee28e21f0619|totals|Over|5.5": [
+   0.4887,
+   1792643419.7484143
+  ],
+  "bfe0cd1ca4d32c4946e6ee28e21f0619|totals|Under|5.5": [
+   0.5113,
+   1792643419.7484143
+  ],
   "c85512046e05e5ed845e60dd5d6d5e1e|h2h|Florida International Panthers|None": [
    0.7749,
    1792520117.4137092
@@ -2442,6 +2851,54 @@
   "c85512046e05e5ed845e60dd5d6d5e1e|totals|Under|46.5": [
    0.5011,
    1792520117.4137092
+  ],
+  "c8d6c1c9324cfd008466f555073828d2|h2h|Ottawa Senators|None": [
+   0.5486,
+   1792643419.7484143
+  ],
+  "c8d6c1c9324cfd008466f555073828d2|h2h|San Jose Sharks|None": [
+   0.4514,
+   1792643419.7484143
+  ],
+  "c8d6c1c9324cfd008466f555073828d2|spreads|Ottawa Senators|-1.5": [
+   0.3339,
+   1792643419.7484143
+  ],
+  "c8d6c1c9324cfd008466f555073828d2|spreads|San Jose Sharks|1.5": [
+   0.6661,
+   1792643419.7484143
+  ],
+  "c8d6c1c9324cfd008466f555073828d2|totals|Over|6.5": [
+   0.4854,
+   1792643419.7484143
+  ],
+  "c8d6c1c9324cfd008466f555073828d2|totals|Under|6.5": [
+   0.5146,
+   1792643419.7484143
+  ],
+  "d57c3873ab3f113b8b77614edff4cf8f|h2h|Florida Panthers|None": [
+   0.4931,
+   1792643419.7484143
+  ],
+  "d57c3873ab3f113b8b77614edff4cf8f|h2h|Pittsburgh Penguins|None": [
+   0.5069,
+   1792643419.7484143
+  ],
+  "d57c3873ab3f113b8b77614edff4cf8f|spreads|Florida Panthers|1.5": [
+   0.6879,
+   1792643419.7484143
+  ],
+  "d57c3873ab3f113b8b77614edff4cf8f|spreads|Pittsburgh Penguins|-1.5": [
+   0.3121,
+   1792643419.7484143
+  ],
+  "d57c3873ab3f113b8b77614edff4cf8f|totals|Over|6.5": [
+   0.5632,
+   1792643419.7484143
+  ],
+  "d57c3873ab3f113b8b77614edff4cf8f|totals|Under|6.5": [
+   0.4368,
+   1792643419.7484143
   ],
   "dc65142bf9a0e7652a252b2074037efa|h2h|Delaware Blue Hens|None": [
    0.5605,
@@ -2507,17 +2964,41 @@
    0.5,
    1792579518.9721167
   ],
+  "ec5f71ec810aef5fc417a879c49750f1|h2h|Seattle Kraken|None": [
+   0.4027,
+   1792643419.7484143
+  ],
+  "ec5f71ec810aef5fc417a879c49750f1|h2h|Utah Mammoth|None": [
+   0.5973,
+   1792643419.7484143
+  ],
+  "ec5f71ec810aef5fc417a879c49750f1|spreads|Seattle Kraken|1.5": [
+   0.6211,
+   1792643419.7484143
+  ],
+  "ec5f71ec810aef5fc417a879c49750f1|spreads|Utah Mammoth|-1.5": [
+   0.3789,
+   1792643419.7484143
+  ],
+  "ec5f71ec810aef5fc417a879c49750f1|totals|Over|6.5": [
+   0.491,
+   1792643419.7484143
+  ],
+  "ec5f71ec810aef5fc417a879c49750f1|totals|Under|6.5": [
+   0.509,
+   1792643419.7484143
+  ],
   "f6be3e587d43c3821d8f059c3a1f1967|h2h|Los Angeles Clippers|None": [
    0.6319,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|h2h|Sacramento Kings|None": [
    0.3681,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|spreads|Los Angeles Clippers|-5.0": [
    0.4954,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|spreads|Los Angeles Clippers|-5.5": [
    0.4977,
@@ -2525,7 +3006,7 @@
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|spreads|Sacramento Kings|5.0": [
    0.5046,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|spreads|Sacramento Kings|5.5": [
    0.5023,
@@ -2533,7 +3014,7 @@
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|totals|Over|226.5": [
    0.5,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|totals|Over|228.5": [
    0.5023,
@@ -2541,7 +3022,7 @@
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|totals|Under|226.5": [
    0.5,
-   1792642517.0190487
+   1792643419.7484143
   ],
   "f6be3e587d43c3821d8f059c3a1f1967|totals|Under|228.5": [
    0.4977,
@@ -2596,11 +3077,11 @@
    1792617318.2544365
   ]
  },
- "last_run": 1792642517.0190487,
+ "last_run": 1792643419.7484143,
  "last_vote": {
   "approved": true,
-  "label": "Los Angeles Clippers to win",
-  "sub": "Kings @ Clippers \u00b7 Kalshi 27\u00a2",
+  "label": "Los Angeles Kings to win",
+  "sub": "Kings @ Islanders \u00b7 Kalshi 44\u00a2",
   "votes": {
    "Line Watcher": [
     null,
@@ -2608,7 +3089,7 @@
    ],
    "The Clock": [
     true,
-    "starts in 1.2h; odds 0 min old"
+    "starts in 19.2h; odds 0 min old"
    ],
    "The Insider": [
     true,
@@ -2616,7 +3097,7 @@
    ],
    "The Sharp": [
     true,
-    "fair -172 vs Kalshi 27\u00a2: +117.9% value"
+    "fair +104 vs Kalshi 44\u00a2: +6.5% value"
    ],
    "The Shopper": [
     true,
@@ -2627,7 +3108,7 @@
     "edge holds vs the market average too"
    ]
   },
-  "when": 1792632621.0897403
+  "when": 1792643419.7484143
  },
  "news": {
   "americanfootball_ncaaf": {
@@ -3248,6 +3729,38 @@
   "icehockey_nhl": {
    "items": [
     {
+     "t": 1792641095.0,
+     "text": "Florida Panthers vs. Ottawa Senators: Game Highlights Florida Panthers vs. Ottawa Senators: Game Highlights"
+    },
+    {
+     "t": 1792642748.0,
+     "text": "Senators beat Panthers 5-1 as Brady Tkachuk scores in return to Ottawa but gets hostile reception \u2014 With fans chanting \u201cWe don\u2019t need you!,\u201d the Ottawa Senators defeated Brady Tkachuk and his Florida Panthers 5-1 on Wednesday night."
+    },
+    {
+     "t": 1792637996.0,
+     "text": "Rookie Cole Knuble scores first two goals for Flyers Rookie forward Cole Knuble scored twice to help the Philadelphia Flyers beat the Buffalo Sabres 3-1 on Wednesday night."
+    },
+    {
+     "t": 1792636149.0,
+     "text": "Flyers rookie Cole Knuble scores first 2 career goals in 3-1 victory over Sabres \u2014 Rookie forward Cole Knuble scored twice to help the Philadelphia Flyers beat the Buffalo Sabres 3-1 on Wednesday night."
+    },
+    {
+     "t": 1792635968.0,
+     "text": "Philadelphia Flyers vs. Buffalo Sabres: Game Highlights Philadelphia Flyers vs. Buffalo Sabres: Game Highlights"
+    },
+    {
+     "t": 1792642514.0,
+     "text": "Brady Tkachuk embraces boos, scores in acrimonious return to Ottawa Brady Tkachuk embraced the overwhelming antagonism he faced in his first game back in Ottawa as fans welcomed back the former captain with constant boos."
+    },
+    {
+     "t": 1792628055.0,
+     "text": "Senators fans booing Tkachuk reminiscent of previous unpleasant sports returns Brady Tkachuk isn't the first notable sports figure to be met with jeers by fans of his prior team."
+    },
+    {
+     "t": 1792605438.0,
+     "text": "Brady Tkachuk returns to Ottawa for first time since trade Brady Tkachuk is playing in Ottawa for the first time asking for and getting a trade from the Senators."
+    },
+    {
      "t": 1792576483.0,
      "text": "How Brady Tkachuk (and the Senators) are preparing for his Ottawa return After a summer blockbuster, the former Senators captain will be playing his first game against his old team (and its vocal fans)."
     },
@@ -3392,7 +3905,7 @@
      "text": "Source: Red Wings' Dylan Larkin stretches list of trade options to 10 teams Dylan Larkin, whose trade request was made public last June, told the Red Wings he'd be willing to move to at least seven additional teams, bringing his list of options to 10, a source confirmed to ESPN."
     },
     {
-     "t": 1792550683.0,
+     "t": 1792592446.0,
      "text": "NFLPA calls for 'full investigation' into medical care provided to Eagles' Hurts After NFL chief medical officer Allen Sills staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue Tuesday, the NFLPA issued a statement calling for a \"full investigation\" into his medical care."
     },
     {
@@ -3414,41 +3927,9 @@
     {
      "t": 1792483874.0,
      "text": "Canadiens host the Sharks after Caufield's 2-goal game San Jose Sharks (4-4-1, in the Pacific Division) vs. Montreal Canadiens (4-3-1, in the Atlantic Division)"
-    },
-    {
-     "t": 1792483873.0,
-     "text": "Ducks bring losing streak into game against the Islanders Anaheim Ducks (4-4, in the Pacific Division) vs. New York Islanders (4-3-1, in the Metropolitan Division)"
-    },
-    {
-     "t": 1792483872.0,
-     "text": "Devils host the Avalanche in a non-conference matchup Colorado Avalanche (5-3-1, in the Central Division) vs. New Jersey Devils (4-4, in the Metropolitan Division)"
-    },
-    {
-     "t": 1792483871.0,
-     "text": "Blue Jackets host the Maple Leafs in Eastern Conference play Toronto Maple Leafs (4-4-2, in the Atlantic Division) vs. Columbus Blue Jackets (3-4, in the Metropolitan Division)"
-    },
-    {
-     "t": 1792483870.0,
-     "text": "Flyers visit the Sabres after Michkov's 2-goal game Philadelphia Flyers (2-6-3, in the Metropolitan Division) vs. Buffalo Sabres (4-3-2, in the Atlantic Division)"
-    },
-    {
-     "t": 1792483869.0,
-     "text": "Panthers bring win streak into game against the Senators Florida Panthers (5-2-2, in the Atlantic Division) vs. Ottawa Senators (6-3, in the Atlantic Division)"
-    },
-    {
-     "t": 1792469371.0,
-     "text": "Pittsburgh Penguins vs. Utah Mammoth: Game Highlights Pittsburgh Penguins vs. Utah Mammoth: Game Highlights"
-    },
-    {
-     "t": 1792468868.0,
-     "text": "Mammoth hold off late charge from Penguins for 5-4 win \u2014 Clayton Keller, Kevin Stenlund, Nate Schmidt and Nick Schmaltz all tallied a goal and an assist to help the Utah Mammoth beat the Pittsburgh Penguins 5-4 on Monday night."
-    },
-    {
-     "t": 1792468577.0,
-     "text": "Fueled by 'electric' MSG crowd, resurgent Rangers improve to 6-0-0 on home ice With a 5-2 victory over the Anaheim Ducks on Monday night at Madison Square Garden, the New York Rangers improved to 6-0-0 in their first six home games, matching the second-longest season-opening home winning streak in franchise history."
     }
    ],
-   "t": 1792590183.7040887
+   "t": 1792643420.9526434
   }
  },
  "odds": {
@@ -6318,58 +6799,58 @@
    ]
   },
   "icehockey_nhl": {
-   "fetched": 1792580427.2253664,
+   "fetched": 1792643420.8588006,
    "games": [
     {
-     "away_team": "Philadelphia Flyers",
+     "away_team": "Anaheim Ducks",
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-21T11:00:05Z",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -185
+           "name": "Anaheim Ducks",
+           "price": 164
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 154
+           "name": "New Jersey Devils",
+           "price": -198
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 136
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -148
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -162
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 124
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 5.5,
-           "price": -135
+           "point": 6.5,
+           "price": -110
           },
           {
            "name": "Under",
-           "point": 5.5,
-           "price": 114
+           "point": 6.5,
+           "price": -110
           }
          ]
         }
@@ -6378,51 +6859,51 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-21T10:59:42Z",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:59:42Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -179
+           "name": "Anaheim Ducks",
+           "price": 166
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 157
+           "name": "New Jersey Devils",
+           "price": -190
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:59:42Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 147
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -152
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -167
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 132
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:59:42Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": -106
+           "point": 6.5,
+           "price": -108
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": -110
+           "point": 6.5,
+           "price": -108
           }
          ]
         }
@@ -6431,51 +6912,51 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-21T10:59:06Z",
+       "last_update": "2026-10-22T04:30:08Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:59:06Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -179
+           "name": "Anaheim Ducks",
+           "price": 166
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 157
+           "name": "New Jersey Devils",
+           "price": -190
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:59:06Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 147
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -152
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -167
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 132
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:59:06Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": -106
+           "point": 6.5,
+           "price": -108
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": -110
+           "point": 6.5,
+           "price": -108
           }
          ]
         }
@@ -6483,105 +6964,52 @@
        "title": "LowVig.ag"
       },
       {
-       "key": "betrivers",
-       "last_update": "2026-10-21T11:00:07Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-21T11:00:07Z",
-         "outcomes": [
-          {
-           "name": "Buffalo Sabres",
-           "price": -190
-          },
-          {
-           "name": "Philadelphia Flyers",
-           "price": 155
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-21T11:00:07Z",
-         "outcomes": [
-          {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 135
-          },
-          {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -167
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-21T11:00:07Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 5.5,
-           "price": -137
-          },
-          {
-           "name": "Under",
-           "point": 5.5,
-           "price": 110
-          }
-         ]
-        }
-       ],
-       "title": "BetRivers"
-      },
-      {
        "key": "fanduel",
-       "last_update": "2026-10-21T11:00:05Z",
+       "last_update": "2026-10-22T04:30:08Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -182
+           "name": "Anaheim Ducks",
+           "price": 162
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 150
+           "name": "New Jersey Devils",
+           "price": -196
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 132
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -144
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -162
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 118
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 5.5,
-           "price": -138
+           "point": 6.5,
+           "price": -108
           },
           {
            "name": "Under",
-           "point": 5.5,
-           "price": 112
+           "point": 6.5,
+           "price": -112
           }
          ]
         }
@@ -6590,50 +7018,50 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-21T10:59:24Z",
+       "last_update": "2026-10-22T04:29:04Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:59:24Z",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -190
+           "name": "Anaheim Ducks",
+           "price": 165
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 154
+           "name": "New Jersey Devils",
+           "price": -200
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:59:24Z",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 125
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -145
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -155
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 118
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:59:24Z",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
+           "point": 6.5,
            "price": -110
           },
           {
            "name": "Under",
-           "point": 6.0,
+           "point": 6.5,
            "price": -110
           }
          ]
@@ -6643,51 +7071,51 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-21T11:00:05Z",
+       "last_update": "2026-10-22T04:29:45Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:29:45Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -175
+           "name": "Anaheim Ducks",
+           "price": 160
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 150
+           "name": "New Jersey Devils",
+           "price": -190
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:29:45Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 140
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -150
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -165
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 125
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:29:45Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 5.5,
-           "price": -145
+           "point": 6.5,
+           "price": -105
           },
           {
            "name": "Under",
-           "point": 5.5,
-           "price": 120
+           "point": 6.5,
+           "price": -115
           }
          ]
         }
@@ -6695,115 +7123,655 @@
        "title": "theScore Bet"
       },
       {
-       "key": "bovada",
-       "last_update": "2026-10-21T10:58:22Z",
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:58:22Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -183
+           "name": "Anaheim Ducks",
+           "price": 170
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 158
+           "name": "New Jersey Devils",
+           "price": -205
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:58:22Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "point": -1.5,
-           "price": 142
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -150
           },
           {
-           "name": "Philadelphia Flyers",
-           "point": 1.5,
-           "price": -168
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 120
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:58:22Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
+           "point": 6.5,
+           "price": -107
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -117
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Anaheim Ducks",
+           "price": 168
+          },
+          {
+           "name": "New Jersey Devils",
+           "price": -193
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -153
+          },
+          {
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 132
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -106
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Anaheim Ducks",
+           "price": 165
+          },
+          {
+           "name": "New Jersey Devils",
+           "price": -195
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Anaheim Ducks",
+           "point": 1.5,
+           "price": -150
+          },
+          {
+           "name": "New Jersey Devils",
+           "point": -1.5,
+           "price": 130
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
            "price": -108
           },
           {
            "name": "Under",
-           "point": 6.0,
+           "point": 6.5,
            "price": -112
           }
          ]
         }
        ],
        "title": "Bovada"
-      },
+      }
+     ],
+     "commence_time": "2026-10-22T23:10:00Z",
+     "home_team": "New Jersey Devils",
+     "id": "921ae4814ca448a3040aa6de5b0fb9e9",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Nashville Predators",
+     "bookmakers": [
       {
-       "key": "pinnacle",
-       "last_update": "2026-10-21T11:00:03Z",
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:03Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
-           "price": -180
+           "name": "Boston Bruins",
+           "price": -155
           },
           {
-           "name": "Philadelphia Flyers",
-           "price": 158
+           "name": "Nashville Predators",
+           "price": 130
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:03Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Buffalo Sabres",
+           "name": "Boston Bruins",
            "point": -1.5,
-           "price": 143
+           "price": 160
           },
           {
-           "name": "Philadelphia Flyers",
+           "name": "Nashville Predators",
            "point": 1.5,
-           "price": -166
+           "price": -192
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:03Z",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -130
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 110
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -153
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 135
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 161
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -185
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.0,
-           "price": -110
+           "price": -101
           },
           {
            "name": "Under",
            "point": 6.0,
-           "price": -104
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -153
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 135
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 161
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -185
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -162
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 134
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 154
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -192
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -128
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 104
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -160
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 135
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 150
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -185
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -102
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -118
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -150
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 130
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 160
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -190
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -130
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 110
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -162
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 135
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 155
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -200
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -134
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 108
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -149
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 131
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 168
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -197
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": 101
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -116
           }
          ]
         }
        ],
        "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "price": -150
+          },
+          {
+           "name": "Nashville Predators",
+           "price": 130
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Boston Bruins",
+           "point": -1.5,
+           "price": 163
+          },
+          {
+           "name": "Nashville Predators",
+           "point": 1.5,
+           "price": -190
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -117
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
       }
      ],
-     "commence_time": "2026-10-21T23:40:00Z",
-     "home_team": "Buffalo Sabres",
-     "id": "0b4bab4d663e04a571655ec7477eb10a",
+     "commence_time": "2026-10-22T23:10:00Z",
+     "home_team": "Boston Bruins",
+     "id": "62fca8dce49c8fa3988f75322311b896",
      "sport_key": "icehockey_nhl",
      "sport_title": "NHL"
     },
@@ -6812,51 +7780,51 @@
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-21T11:00:05Z",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "price": -112
+           "price": -105
           },
           {
-           "name": "Ottawa Senators",
-           "price": -108
+           "name": "Pittsburgh Penguins",
+           "price": -115
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "point": -1.5,
-           "price": 230
+           "point": 1.5,
+           "price": -250
           },
           {
-           "name": "Ottawa Senators",
-           "point": 1.5,
-           "price": -285
+           "name": "Pittsburgh Penguins",
+           "point": -1.5,
+           "price": 205
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 5.5,
-           "price": -125
+           "point": 6.5,
+           "price": -142
           },
           {
            "name": "Under",
-           "point": 5.5,
-           "price": 105
+           "point": 6.5,
+           "price": 120
           }
          ]
         }
@@ -6864,105 +7832,317 @@
        "title": "DraftKings"
       },
       {
-       "key": "lowvig",
-       "last_update": "2026-10-21T10:59:06Z",
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:59:06Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "price": -108
+           "price": -105
           },
           {
-           "name": "Ottawa Senators",
-           "price": -106
+           "name": "Pittsburgh Penguins",
+           "price": -115
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:59:06Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
            "point": 1.5,
-           "price": -285
+           "price": -240
           },
           {
-           "name": "Ottawa Senators",
+           "name": "Pittsburgh Penguins",
            "point": -1.5,
-           "price": 234
+           "price": 190
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:59:06Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": 104
+           "point": 6.5,
+           "price": -140
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": -120
+           "point": 6.5,
+           "price": 114
           }
          ]
         }
        ],
-       "title": "LowVig.ag"
+       "title": "FanDuel"
       },
       {
-       "key": "betonlineag",
-       "last_update": "2026-10-21T10:59:42Z",
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:59:42Z",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "price": -105
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "point": -1.5,
+           "price": 185
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -145
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": 120
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "price": -105
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "price": -114
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "point": 1.5,
+           "price": -275
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "point": -1.5,
+           "price": 210
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -129
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": 104
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "price": -105
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "point": -1.5,
+           "price": 220
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "point": 1.5,
+           "price": -275
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -145
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": 118
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
            "price": -108
           },
           {
-           "name": "Ottawa Senators",
-           "price": -106
+           "name": "Pittsburgh Penguins",
+           "price": -112
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:59:42Z",
+         "last_update": "2026-10-22T04:28:27Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
            "point": 1.5,
-           "price": -285
+           "price": -250
           },
           {
-           "name": "Ottawa Senators",
+           "name": "Pittsburgh Penguins",
            "point": -1.5,
-           "price": 234
+           "price": 210
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:59:42Z",
+         "last_update": "2026-10-22T04:28:27Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": 104
+           "point": 7.0,
+           "price": 115
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": -120
+           "point": 7.0,
+           "price": -135
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "price": -103
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "price": -111
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "point": -1.5,
+           "price": 207
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -140
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": 121
           }
          ]
         }
@@ -6970,34 +8150,1495 @@
        "title": "BetOnline.ag"
       },
       {
-       "key": "betrivers",
-       "last_update": "2026-10-21T11:00:07Z",
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:07Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
-           "price": -113
+           "price": -103
           },
           {
-           "name": "Ottawa Senators",
-           "price": -105
+           "name": "Pittsburgh Penguins",
+           "price": -111
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:07Z",
+         "last_update": "2026-10-22T04:30:08Z",
          "outcomes": [
           {
            "name": "Florida Panthers",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "point": -1.5,
+           "price": 207
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -140
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": 121
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "price": -103
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "price": -109
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Florida Panthers",
+           "point": 1.5,
+           "price": -249
+          },
+          {
+           "name": "Pittsburgh Penguins",
+           "point": -1.5,
+           "price": 209
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 7.0,
+           "price": 117
+          },
+          {
+           "name": "Under",
+           "point": 7.0,
+           "price": -135
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      }
+     ],
+     "commence_time": "2026-10-22T23:10:00Z",
+     "home_team": "Pittsburgh Penguins",
+     "id": "d57c3873ab3f113b8b77614edff4cf8f",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "New York Rangers",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -112
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -108
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 220
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -270
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -107
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -107
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 215
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -260
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -104
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -112
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -107
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -107
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 215
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -260
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -104
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -112
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -108
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -111
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": -1.5,
+           "price": 198
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -106
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -114
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -110
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": 1.5,
+           "price": -275
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": -1.5,
+           "price": 220
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -135
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": 110
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -108
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 220
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -286
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -110
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 200
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -275
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -110
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -102
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 218
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -261
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -111
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "price": -112
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "price": -108
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "New York Rangers",
+           "point": -1.5,
+           "price": 220
+          },
+          {
+           "name": "Toronto Maple Leafs",
+           "point": 1.5,
+           "price": -270
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-22T23:10:00Z",
+     "home_team": "Toronto Maple Leafs",
+     "id": "5ae32c2722f3ff4fa178c253f864b384",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "San Jose Sharks",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -135
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 114
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 180
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -218
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -128
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 106
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 180
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -225
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -135
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 110
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 170
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -210
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -130
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 110
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 175
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -225
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -125
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 106
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 200
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -265
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": 100
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -124
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -133
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 112
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 185
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -225
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -117
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -129
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 114
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 186
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -220
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -129
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 114
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 186
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -220
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "price": -130
+          },
+          {
+           "name": "San Jose Sharks",
+           "price": 115
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Ottawa Senators",
+           "point": -1.5,
+           "price": 189
+          },
+          {
+           "name": "San Jose Sharks",
+           "point": 1.5,
+           "price": -223
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -114
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      }
+     ],
+     "commence_time": "2026-10-22T23:10:00Z",
+     "home_team": "Ottawa Senators",
+     "id": "c8d6c1c9324cfd008466f555073828d2",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Los Angeles Kings",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -105
+          },
+          {
+           "name": "New York Islanders",
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -285
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 230
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -101
+          },
+          {
+           "name": "New York Islanders",
+           "price": -113
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -280
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 230
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -101
+          },
+          {
+           "name": "New York Islanders",
+           "price": -113
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -280
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 230
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": 100
+          },
+          {
+           "name": "New York Islanders",
+           "price": -120
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -280
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 210
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -106
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -114
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -105
+          },
+          {
+           "name": "New York Islanders",
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -300
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 210
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -105
+          },
+          {
+           "name": "New York Islanders",
+           "price": -114
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -295
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 230
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -104
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -121
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -102
+          },
+          {
+           "name": "New York Islanders",
+           "price": -111
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -276
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 229
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -102
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -112
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": -102
+          },
+          {
+           "name": "New York Islanders",
+           "price": -118
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
            "point": -1.5,
            "price": 230
           },
           {
-           "name": "Ottawa Senators",
+           "name": "New York Islanders",
            "point": 1.5,
            "price": -295
           }
@@ -7005,7 +9646,441 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:07Z",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "price": 100
+          },
+          {
+           "name": "New York Islanders",
+           "price": -120
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Los Angeles Kings",
+           "point": 1.5,
+           "price": -285
+          },
+          {
+           "name": "New York Islanders",
+           "point": -1.5,
+           "price": 235
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -117
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-22T23:40:00Z",
+     "home_team": "New York Islanders",
+     "id": "bfe0cd1ca4d32c4946e6ee28e21f0619",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Winnipeg Jets",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -205
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 170
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 130
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -155
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -122
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 102
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -190
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 166
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 132
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -152
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -118
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 102
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -190
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 166
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 132
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -152
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -118
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 102
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -210
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 172
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 112
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -138
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -120
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": -102
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -195
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 165
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 130
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -155
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -120
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 100
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -205
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 178
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 130
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -150
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 101
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -215
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 175
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 125
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -155
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7023,47 +10098,100 @@
        "title": "BetRivers"
       },
       {
-       "key": "fanduel",
-       "last_update": "2026-10-21T11:00:05Z",
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
-           "price": -111
+           "name": "Dallas Stars",
+           "price": -210
           },
           {
-           "name": "Ottawa Senators",
-           "price": -108
+           "name": "Winnipeg Jets",
+           "price": 170
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
+           "name": "Dallas Stars",
            "point": -1.5,
-           "price": 210
+           "price": 115
           },
           {
-           "name": "Ottawa Senators",
+           "name": "Winnipeg Jets",
            "point": 1.5,
-           "price": -265
+           "price": -140
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 5.5,
-           "price": -124
+           "price": -120
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 100
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "price": -200
+          },
+          {
+           "name": "Winnipeg Jets",
+           "price": 170
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Dallas Stars",
+           "point": -1.5,
+           "price": 133
+          },
+          {
+           "name": "Winnipeg Jets",
+           "point": 1.5,
+           "price": -155
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -122
           },
           {
            "name": "Under",
@@ -7073,37 +10201,47 @@
          ]
         }
        ],
-       "title": "FanDuel"
-      },
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-23T00:10:00Z",
+     "home_team": "Dallas Stars",
+     "id": "64c943b2b0c51d39a312874b925590f7",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Vegas Golden Knights",
+     "bookmakers": [
       {
-       "key": "betmgm",
-       "last_update": "2026-10-21T10:59:24Z",
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:59:24Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
-           "price": -110
+           "name": "St Louis Blues",
+           "price": 100
           },
           {
-           "name": "Ottawa Senators",
-           "price": -110
+           "name": "Vegas Golden Knights",
+           "price": -120
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T10:59:24Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
+           "name": "St Louis Blues",
            "point": 1.5,
-           "price": -285
+           "price": -258
           },
           {
-           "name": "Ottawa Senators",
+           "name": "Vegas Golden Knights",
            "point": -1.5,
            "price": 210
           }
@@ -7111,7 +10249,865 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T10:59:24Z",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": 114
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -135
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 107
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -121
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -248
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 205
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -112
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -104
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 107
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -121
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -248
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 205
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -112
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -104
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 106
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -128
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -225
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 180
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -140
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 114
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 105
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -125
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 185
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": 120
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -145
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 105
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -118
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -247
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 207
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -106
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 106
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -125
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 200
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -137
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 112
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 105
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -125
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -225
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 185
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -105
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "price": 102
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "price": -122
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "St Louis Blues",
+           "point": 1.5,
+           "price": -250
+          },
+          {
+           "name": "Vegas Golden Knights",
+           "point": -1.5,
+           "price": 210
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -105
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-23T00:10:00Z",
+     "home_team": "St Louis Blues",
+     "id": "58afd2b5779b2e4f163314436900d379",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Minnesota Wild",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 170
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -205
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -155
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 130
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -130
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 110
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 171
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -196
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -155
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 135
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": 102
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -118
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 171
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -196
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -155
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 135
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": 102
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -118
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 176
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -215
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -142
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 116
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -132
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 108
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 165
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -195
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -150
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 125
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -130
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 110
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 165
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -200
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -159
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 128
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 5.5,
+           "price": -132
+          },
+          {
+           "name": "Under",
+           "point": 5.5,
+           "price": 106
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 172
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -197
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -152
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 132
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": 100
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "price": 170
+          },
+          {
+           "name": "Minnesota Wild",
+           "price": -210
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -140
+          },
+          {
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 115
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7129,52 +11125,327 @@
        "title": "BetMGM"
       },
       {
-       "key": "espnbet",
-       "last_update": "2026-10-21T11:00:05Z",
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:28:27Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
-           "price": -110
+           "name": "Calgary Flames",
+           "price": 170
           },
           {
-           "name": "Ottawa Senators",
-           "price": -110
+           "name": "Minnesota Wild",
+           "price": -200
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:28:27Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
-           "point": -1.5,
-           "price": 210
+           "name": "Calgary Flames",
+           "point": 1.5,
+           "price": -155
           },
           {
-           "name": "Ottawa Senators",
-           "point": 1.5,
-           "price": -300
+           "name": "Minnesota Wild",
+           "point": -1.5,
+           "price": 133
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:05Z",
+         "last_update": "2026-10-22T04:28:27Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 5.5,
-           "price": -125
+           "point": 6.0,
+           "price": 100
           },
           {
            "name": "Under",
-           "point": 5.5,
-           "price": 105
+           "point": 6.0,
+           "price": -120
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-23T01:10:00Z",
+     "home_team": "Calgary Flames",
+     "id": "7e4df53f515e77bc6555279eb5d6946a",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Carolina Hurricanes",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -118
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": -102
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 205
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -250
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -117
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": 103
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 207
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -250
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -117
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": 103
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 207
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -250
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -115
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": -104
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 198
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -250
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -114
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -106
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -120
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": 100
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 190
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -265
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -110
           }
          ]
         }
@@ -7182,115 +11453,1195 @@
        "title": "theScore Bet"
       },
       {
-       "key": "bovada",
-       "last_update": "2026-10-21T10:58:22Z",
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-21T10:58:22Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
-           "price": -112
+           "name": "Carolina Hurricanes",
+           "price": -114
           },
           {
-           "name": "Ottawa Senators",
-           "price": -108
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-21T10:58:22Z",
-         "outcomes": [
-          {
-           "name": "Florida Panthers",
-           "point": -1.5,
-           "price": 230
-          },
-          {
-           "name": "Ottawa Senators",
-           "point": 1.5,
-           "price": -280
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-21T10:58:22Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 5.5,
-           "price": -122
-          },
-          {
-           "name": "Under",
-           "point": 5.5,
-           "price": 102
-          }
-         ]
-        }
-       ],
-       "title": "Bovada"
-      },
-      {
-       "key": "pinnacle",
-       "last_update": "2026-10-21T11:00:03Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-21T11:00:03Z",
-         "outcomes": [
-          {
-           "name": "Florida Panthers",
-           "price": -108
-          },
-          {
-           "name": "Ottawa Senators",
+           "name": "Edmonton Oilers",
            "price": -104
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-21T11:00:03Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
-           "name": "Florida Panthers",
+           "name": "Carolina Hurricanes",
            "point": -1.5,
-           "price": 229
+           "price": 215
           },
           {
-           "name": "Ottawa Senators",
+           "name": "Edmonton Oilers",
            "point": 1.5,
-           "price": -276
+           "price": -278
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-21T11:00:03Z",
+         "last_update": "2026-10-22T04:30:07Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 5.5,
-           "price": -117
+           "point": 6.5,
+           "price": -113
           },
           {
            "name": "Under",
-           "point": 5.5,
-           "price": 103
+           "point": 6.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -118
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": -102
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 195
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -235
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -119
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": 106
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 206
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -245
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -106
           }
          ]
         }
        ],
        "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "price": -122
+          },
+          {
+           "name": "Edmonton Oilers",
+           "price": 102
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Carolina Hurricanes",
+           "point": -1.5,
+           "price": 205
+          },
+          {
+           "name": "Edmonton Oilers",
+           "point": 1.5,
+           "price": -245
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
       }
      ],
-     "commence_time": "2026-10-21T23:40:00Z",
-     "home_team": "Ottawa Senators",
-     "id": "5736c2282f978bfdf849f4b10876080e",
+     "commence_time": "2026-10-23T01:10:00Z",
+     "home_team": "Edmonton Oilers",
+     "id": "8a951cc95f91e5df49f7aad4219c40e0",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Detroit Red Wings",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -170
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 142
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 145
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -175
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -165
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 145
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 153
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -175
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -165
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 145
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 153
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -175
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -176
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 146
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 130
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -160
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -102
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -120
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -170
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 145
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 145
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -175
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": 100
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -120
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -177
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 148
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 138
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -175
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -109
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -114
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -170
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 140
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 140
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -170
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.0,
+           "price": -130
+          },
+          {
+           "name": "Under",
+           "point": 6.0,
+           "price": 105
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -163
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 143
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 153
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -178
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -112
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "price": -168
+          },
+          {
+           "name": "Vancouver Canucks",
+           "price": 142
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Detroit Red Wings",
+           "point": -1.5,
+           "price": 153
+          },
+          {
+           "name": "Vancouver Canucks",
+           "point": 1.5,
+           "price": -177
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-23T02:10:00Z",
+     "home_team": "Vancouver Canucks",
+     "id": "2d1a2e330020589eb147fe4736ccfd1e",
+     "sport_key": "icehockey_nhl",
+     "sport_title": "NHL"
+    },
+    {
+     "away_team": "Utah Mammoth",
+     "bookmakers": [
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 136
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -162
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -180
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 150
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 144
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -164
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -175
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 153
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 144
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -164
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -175
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 153
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -101
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-22T04:30:08Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 146
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -176
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -162
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 130
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:08Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -104
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -118
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-22T04:29:45Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 145
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -170
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -165
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 140
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": 100
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -120
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 138
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -165
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -186
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 148
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -106
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -118
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-22T04:29:04Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 140
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -170
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -170
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 140
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:29:04Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-22T04:30:07Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 141
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -160
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -180
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 155
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:30:07Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -111
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-22T04:28:27Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "price": 137
+          },
+          {
+           "name": "Utah Mammoth",
+           "price": -163
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Seattle Kraken",
+           "point": 1.5,
+           "price": -180
+          },
+          {
+           "name": "Utah Mammoth",
+           "point": -1.5,
+           "price": 155
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-22T04:28:27Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": -103
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -117
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-23T02:10:00Z",
+     "home_team": "Seattle Kraken",
+     "id": "ec5f71ec810aef5fc417a879c49750f1",
      "sport_key": "icehockey_nhl",
      "sport_title": "NHL"
     }
@@ -7355,6 +12706,39 @@
    "start": 1792636800.0,
    "type": "straight",
    "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct23laclal",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
+  },
+  {
+   "away": "Los Angeles Kings",
+   "bet": "Los Angeles Kings to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 2.1739130434782608,
+   "ev": 0.06469498729608425,
+   "fair": 0.4897596941561988,
+   "game_id": "bfe0cd1ca4d32c4946e6ee28e21f0619",
+   "home": "New York Islanders",
+   "id": "bfe0cd1ca4d32c4946e6ee28e21f0619-h2h-Los Angeles Kings--1792643419",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Kings @ Islanders",
+   "odds": 44,
+   "outcome": "Los Angeles Kings",
+   "placed": 1792643419.7484143,
+   "player": null,
+   "point": null,
+   "sport": "icehockey_nhl",
+   "stake": 1.43,
+   "start": 1792712400.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26oct26lanyr",
    "votes": {
     "Line Watcher": null,
     "The Clock": true,
