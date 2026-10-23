@@ -579,9 +579,9 @@
  "credits": {
   "day": "2026-10-23",
   "month": null,
-  "remaining": 306,
-  "spent_today": 9,
-  "used": 194
+  "remaining": 303,
+  "spent_today": 12,
+  "used": 197
  },
  "errors": [
   {
@@ -3074,28 +3074,28 @@
    1792712716.3974502
   ],
   "b7e4d8193096703065db318c2813168f|h2h|Colorado Avalanche|None": [
-   0.5396,
-   1792748719.324221
+   0.5348,
+   1792761639.4205244
   ],
   "b7e4d8193096703065db318c2813168f|h2h|Tampa Bay Lightning|None": [
-   0.4604,
-   1792748719.324221
+   0.4652,
+   1792761639.4205244
   ],
   "b7e4d8193096703065db318c2813168f|spreads|Colorado Avalanche|-1.5": [
-   0.3216,
-   1792748719.324221
+   0.3187,
+   1792761639.4205244
   ],
   "b7e4d8193096703065db318c2813168f|spreads|Tampa Bay Lightning|1.5": [
-   0.6784,
-   1792748719.324221
+   0.6813,
+   1792761639.4205244
   ],
   "b7e4d8193096703065db318c2813168f|totals|Over|6.5": [
-   0.4854,
-   1792748719.324221
+   0.4862,
+   1792761639.4205244
   ],
   "b7e4d8193096703065db318c2813168f|totals|Under|6.5": [
-   0.5146,
-   1792748719.324221
+   0.5138,
+   1792761639.4205244
   ],
   "bfe0cd1ca4d32c4946e6ee28e21f0619|h2h|Los Angeles Kings|None": [
    0.5116,
@@ -3346,28 +3346,28 @@
    1792732515.968278
   ],
   "db9d82d62d8f222bfd835100662c6ac6|h2h|Chicago Blackhawks|None": [
-   0.4164,
-   1792748719.324221
+   0.4207,
+   1792761639.4205244
   ],
   "db9d82d62d8f222bfd835100662c6ac6|h2h|Montr\u00e9al Canadiens|None": [
-   0.5836,
-   1792748719.324221
+   0.5793,
+   1792761639.4205244
   ],
   "db9d82d62d8f222bfd835100662c6ac6|spreads|Chicago Blackhawks|1.5": [
-   0.6345,
-   1792748719.324221
+   0.6358,
+   1792761639.4205244
   ],
   "db9d82d62d8f222bfd835100662c6ac6|spreads|Montr\u00e9al Canadiens|-1.5": [
-   0.3655,
-   1792748719.324221
+   0.3642,
+   1792761639.4205244
   ],
   "db9d82d62d8f222bfd835100662c6ac6|totals|Over|6.5": [
-   0.4737,
-   1792748719.324221
+   0.4794,
+   1792761639.4205244
   ],
   "db9d82d62d8f222bfd835100662c6ac6|totals|Under|6.5": [
-   0.5263,
-   1792748719.324221
+   0.5206,
+   1792761639.4205244
   ],
   "ec5f71ec810aef5fc417a879c49750f1|h2h|Seattle Kraken|None": [
    0.3871,
@@ -3474,7 +3474,7 @@
    1792701916.5295236
   ]
  },
- "last_run": 1792761317.7169788,
+ "last_run": 1792761639.4205244,
  "last_vote": {
   "approved": true,
   "label": "Los Angeles Kings to win",
@@ -4126,6 +4126,14 @@
   "icehockey_nhl": {
    "items": [
     {
+     "t": 1792748620.0,
+     "text": "NHL Power Rankings: Fantasy hockey pickups for all 32 teams The Hurricanes hang on to the No. 1 spot, with some major jumbles in the poll thereafter."
+    },
+    {
+     "t": 1792758891.0,
+     "text": "NHL Tonight: Previewing Canadiens-Blackhawks, Lightning-Avalanche A pair of interconference games on the schedule -- including a legitimate Stanley Cup Final preview."
+    },
+    {
      "t": 1792743139.0,
      "text": "Wild take road losing streak into game against the Kraken Minnesota Wild (6-3-2, in the Central Division) vs. Seattle Kraken (7-3-1, in the Pacific Division)"
     },
@@ -4316,17 +4324,9 @@
     {
      "t": 1792642748.0,
      "text": "Senators beat Panthers 5-1 as Brady Tkachuk scores in return to Ottawa but gets hostile reception \u2014 With fans chanting \u201cWe don\u2019t need you!,\u201d the Ottawa Senators defeated Brady Tkachuk and his Florida Panthers 5-1 on Wednesday night."
-    },
-    {
-     "t": 1792637996.0,
-     "text": "Rookie Cole Knuble scores first two goals for Flyers Rookie forward Cole Knuble scored twice to help the Philadelphia Flyers beat the Buffalo Sabres 3-1 on Wednesday night."
-    },
-    {
-     "t": 1792636149.0,
-     "text": "Flyers rookie Cole Knuble scores first 2 career goals in 3-1 victory over Sabres \u2014 Rookie forward Cole Knuble scored twice to help the Philadelphia Flyers beat the Buffalo Sabres 3-1 on Wednesday night."
     }
    ],
-   "t": 1792748721.1979828
+   "t": 1792761641.1903186
   }
  },
  "odds": {
@@ -13056,18 +13056,18 @@
    ]
   },
   "icehockey_nhl": {
-   "fetched": 1792738824.6380935,
+   "fetched": 1792761640.84164,
    "games": [
     {
      "away_team": "Montr\u00e9al Canadiens",
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-23T06:57:16Z",
+       "last_update": "2026-10-23T13:19:46Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:57:16Z",
+         "last_update": "2026-10-23T13:19:46Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13081,23 +13081,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:57:16Z",
+         "last_update": "2026-10-23T13:19:46Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
            "point": 1.5,
-           "price": -205
+           "price": -198
           },
           {
            "name": "Montr\u00e9al Canadiens",
            "point": -1.5,
-           "price": 170
+           "price": 164
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:57:16Z",
+         "last_update": "2026-10-23T13:19:46Z",
          "outcomes": [
           {
            "name": "Over",
@@ -13116,51 +13116,51 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-23T06:59:25Z",
+       "last_update": "2026-10-23T13:20:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:34Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
-           "price": 127
+           "price": 133
           },
           {
            "name": "Montr\u00e9al Canadiens",
-           "price": -144
+           "price": -151
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:34Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
            "point": 1.5,
-           "price": -206
+           "price": -190
           },
           {
            "name": "Montr\u00e9al Canadiens",
            "point": -1.5,
-           "price": 178
+           "price": 165
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:34Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": 104
+           "price": 102
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -120
+           "price": -118
           }
          ]
         }
@@ -13169,51 +13169,51 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-23T06:59:49Z",
+       "last_update": "2026-10-23T13:20:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:49Z",
+         "last_update": "2026-10-23T13:20:10Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
-           "price": 127
+           "price": 133
           },
           {
            "name": "Montr\u00e9al Canadiens",
-           "price": -144
+           "price": -151
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:49Z",
+         "last_update": "2026-10-23T13:20:10Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
            "point": 1.5,
-           "price": -206
+           "price": -190
           },
           {
            "name": "Montr\u00e9al Canadiens",
            "point": -1.5,
-           "price": 178
+           "price": 165
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:49Z",
+         "last_update": "2026-10-23T13:20:10Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": 104
+           "price": 102
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -120
+           "price": -118
           }
          ]
         }
@@ -13222,11 +13222,11 @@
       },
       {
        "key": "fanduel",
-       "last_update": "2026-10-23T06:59:25Z",
+       "last_update": "2026-10-23T13:20:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13240,33 +13240,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
            "point": 1.5,
-           "price": -188
+           "price": -194
           },
           {
            "name": "Montr\u00e9al Canadiens",
            "point": -1.5,
-           "price": 152
+           "price": 156
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": 100
+           "price": 102
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -122
+           "price": -124
           }
          ]
         }
@@ -13275,11 +13275,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-23T07:00:10Z",
+       "last_update": "2026-10-23T13:19:45Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T07:00:10Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13293,7 +13293,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T07:00:10Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13309,60 +13309,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T07:00:10Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 6.0,
-           "price": -125
-          },
-          {
-           "name": "Under",
-           "point": 6.0,
-           "price": 105
-          }
-         ]
-        }
-       ],
-       "title": "BetMGM"
-      },
-      {
-       "key": "betrivers",
-       "last_update": "2026-10-23T06:59:46Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-23T06:59:46Z",
-         "outcomes": [
-          {
-           "name": "Chicago Blackhawks",
-           "price": 120
-          },
-          {
-           "name": "Montr\u00e9al Canadiens",
-           "price": -143
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-23T06:59:46Z",
-         "outcomes": [
-          {
-           "name": "Chicago Blackhawks",
-           "point": 1.5,
-           "price": -220
-          },
-          {
-           "name": "Montr\u00e9al Canadiens",
-           "point": -1.5,
-           "price": 170
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-23T06:59:46Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Over",
@@ -13372,7 +13319,60 @@
           {
            "name": "Under",
            "point": 6.5,
-           "price": -125
+           "price": -120
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-23T13:20:33Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-23T13:20:33Z",
+         "outcomes": [
+          {
+           "name": "Chicago Blackhawks",
+           "price": 123
+          },
+          {
+           "name": "Montr\u00e9al Canadiens",
+           "price": -143
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-23T13:20:33Z",
+         "outcomes": [
+          {
+           "name": "Chicago Blackhawks",
+           "point": 1.5,
+           "price": -210
+          },
+          {
+           "name": "Montr\u00e9al Canadiens",
+           "point": -1.5,
+           "price": 165
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-23T13:20:33Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 6.5,
+           "price": 102
+          },
+          {
+           "name": "Under",
+           "point": 6.5,
+           "price": -129
           }
          ]
         }
@@ -13381,51 +13381,51 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-23T07:00:09Z",
+       "last_update": "2026-10-23T13:20:31Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T07:00:09Z",
+         "last_update": "2026-10-23T13:20:31Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
-           "price": 133
+           "price": 132
           },
           {
            "name": "Montr\u00e9al Canadiens",
-           "price": -151
+           "price": -146
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T07:00:09Z",
+         "last_update": "2026-10-23T13:20:31Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
            "point": 1.5,
-           "price": -192
+           "price": -191
           },
           {
            "name": "Montr\u00e9al Canadiens",
            "point": -1.5,
-           "price": 164
+           "price": 166
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T07:00:09Z",
+         "last_update": "2026-10-23T13:20:31Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": -120
+           "point": 6.5,
+           "price": 103
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": 105
+           "point": 6.5,
+           "price": -115
           }
          ]
         }
@@ -13434,25 +13434,25 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-23T06:59:03Z",
+       "last_update": "2026-10-23T13:20:11Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:03Z",
+         "last_update": "2026-10-23T13:20:11Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
-           "price": 133
+           "price": 130
           },
           {
            "name": "Montr\u00e9al Canadiens",
-           "price": -155
+           "price": -150
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:03Z",
+         "last_update": "2026-10-23T13:20:11Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13468,7 +13468,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:03Z",
+         "last_update": "2026-10-23T13:20:11Z",
          "outcomes": [
           {
            "name": "Over",
@@ -13487,11 +13487,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-23T06:59:29Z",
+       "last_update": "2026-10-23T13:19:45Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:29Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13505,7 +13505,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:29Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Chicago Blackhawks",
@@ -13521,17 +13521,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:29Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": 105
+           "price": 100
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -125
+           "price": -120
           }
          ]
         }
@@ -13550,11 +13550,11 @@
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-23T06:57:16Z",
+       "last_update": "2026-10-23T13:19:46Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:57:16Z",
+         "last_update": "2026-10-23T13:19:46Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -13568,7 +13568,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:57:16Z",
+         "last_update": "2026-10-23T13:19:46Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -13584,7 +13584,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:57:16Z",
+         "last_update": "2026-10-23T13:19:46Z",
          "outcomes": [
           {
            "name": "Over",
@@ -13603,51 +13603,51 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-23T06:59:49Z",
+       "last_update": "2026-10-23T13:20:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:49Z",
+         "last_update": "2026-10-23T13:20:10Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -123
+           "price": -125
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 109
+           "price": 110
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:49Z",
+         "last_update": "2026-10-23T13:20:10Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
            "point": -1.5,
-           "price": 203
+           "price": 200
           },
           {
            "name": "Tampa Bay Lightning",
            "point": 1.5,
-           "price": -245
+           "price": -240
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:49Z",
+         "last_update": "2026-10-23T13:20:10Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": 104
+           "price": 102
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -120
+           "price": -118
           }
          ]
         }
@@ -13656,51 +13656,51 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-23T06:59:25Z",
+       "last_update": "2026-10-23T13:20:34Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:34Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -123
+           "price": -125
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 109
+           "price": 110
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:34Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
            "point": -1.5,
-           "price": 203
+           "price": 200
           },
           {
            "name": "Tampa Bay Lightning",
            "point": 1.5,
-           "price": -245
+           "price": -240
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:34Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": 104
+           "price": 102
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -120
+           "price": -118
           }
          ]
         }
@@ -13709,11 +13709,11 @@
       },
       {
        "key": "fanduel",
-       "last_update": "2026-10-23T06:59:25Z",
+       "last_update": "2026-10-23T13:20:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -13727,7 +13727,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -13743,7 +13743,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:25Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Over",
@@ -13762,51 +13762,51 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-23T07:00:10Z",
+       "last_update": "2026-10-23T13:19:45Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T07:00:10Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -135
+           "price": -130
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 110
+           "price": 105
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T07:00:10Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
            "point": -1.5,
-           "price": 170
+           "price": 180
           },
           {
            "name": "Tampa Bay Lightning",
            "point": 1.5,
-           "price": -210
+           "price": -220
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T07:00:10Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 6.0,
-           "price": -125
+           "point": 6.5,
+           "price": 100
           },
           {
            "name": "Under",
-           "point": 6.0,
-           "price": 105
+           "point": 6.5,
+           "price": -120
           }
          ]
         }
@@ -13815,25 +13815,25 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-23T06:59:46Z",
+       "last_update": "2026-10-23T13:20:33Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:46Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -130
+           "price": -127
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 110
+           "price": 107
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:46Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -13849,17 +13849,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:46Z",
+         "last_update": "2026-10-23T13:20:33Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": -104
+           "price": -103
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -121
+           "price": -122
           }
          ]
         }
@@ -13868,30 +13868,30 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-23T07:00:09Z",
+       "last_update": "2026-10-23T13:20:31Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T07:00:09Z",
+         "last_update": "2026-10-23T13:20:31Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -125
+           "price": -121
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 111
+           "price": 110
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T07:00:09Z",
+         "last_update": "2026-10-23T13:20:31Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
            "point": -1.5,
-           "price": 200
+           "price": 204
           },
           {
            "name": "Tampa Bay Lightning",
@@ -13902,17 +13902,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T07:00:09Z",
+         "last_update": "2026-10-23T13:20:31Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 6.5,
-           "price": -101
+           "price": 100
           },
           {
            "name": "Under",
            "point": 6.5,
-           "price": -114
+           "price": -112
           }
          ]
         }
@@ -13921,25 +13921,25 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-23T06:59:03Z",
+       "last_update": "2026-10-23T13:20:11Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:03Z",
+         "last_update": "2026-10-23T13:20:11Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -128
+           "price": -125
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 107
+           "price": 105
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:03Z",
+         "last_update": "2026-10-23T13:20:11Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -13955,7 +13955,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:03Z",
+         "last_update": "2026-10-23T13:20:11Z",
          "outcomes": [
           {
            "name": "Over",
@@ -13974,25 +13974,25 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-23T06:59:29Z",
+       "last_update": "2026-10-23T13:19:45Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-23T06:59:29Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
-           "price": -130
+           "price": -125
           },
           {
            "name": "Tampa Bay Lightning",
-           "price": 110
+           "price": 105
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-23T06:59:29Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Colorado Avalanche",
@@ -14008,7 +14008,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-23T06:59:29Z",
+         "last_update": "2026-10-23T13:19:45Z",
          "outcomes": [
           {
            "name": "Over",
