@@ -1,84 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Iowa State Cyclones to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.04672308875987974,
-   "fair": 0.255298314331678,
-   "matchup": "Cyclones @ Wildcats",
-   "odds": 310,
-   "ok": false,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792884600.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 19.0h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +292 vs FanDuel 310: +4.7% value"
-    ],
-    "The Shopper": [
-     false,
-     "9 books priced it; another book pays more"
-    ],
-    "The Skeptic": [
-     false,
-     "only beats Pinnacle, not the market average"
-    ]
-   }
-  },
-  {
-   "bet": "Old Dominion Monarchs to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.034567274187642605,
-   "fair": 0.18810314076138956,
-   "matchup": "Monarchs @ Bulldogs",
-   "odds": 450,
-   "ok": true,
-   "sport": "americanfootball_ncaaf",
-   "start": 1792875600.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 16.5h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +432 vs FanDuel 450: +3.5% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -1651,7 +1572,7 @@
      "id": "401909842"
     }
    ],
-   "t": 1792816220.8933218
+   "t": 1792817117.504734
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -5217,7 +5138,7 @@
    1792701916.5295236
   ]
  },
- "last_run": 1792816219.760258,
+ "last_run": 1792817116.8015873,
  "last_vote": {
   "approved": false,
   "label": "Iowa State Cyclones to win",
