@@ -1400,133 +1400,85 @@
    "games": [
     {
      "away": {
-      "name": "San Jos\u00e9 State Spartans",
-      "score": 13.0
-     },
-     "done": false,
-     "home": {
-      "name": "Nevada Wolf Pack",
-      "score": 28.0
-     },
-     "id": "401864528"
-    },
-    {
-     "away": {
-      "name": "Louisiana Ragin' Cajuns",
-      "score": 31.0
-     },
-     "done": false,
-     "home": {
-      "name": "Southern Miss Golden Eagles",
-      "score": 28.0
-     },
-     "id": "401869967"
-    },
-    {
-     "away": {
-      "name": "Old Dominion Monarchs",
-      "score": 0.0
-     },
-     "done": true,
-     "home": {
-      "name": "Louisiana Tech Bulldogs",
-      "score": 26.0
-     },
-     "id": "401871093"
-    },
-    {
-     "away": {
-      "name": "Boise State Broncos",
-      "score": 10.0
-     },
-     "done": false,
-     "home": {
-      "name": "Washington State Cougars",
-      "score": 10.0
-     },
-     "id": "401860907"
-    },
-    {
-     "away": {
       "name": "San Diego State Aztecs",
-      "score": 24.0
+      "score": 49.0
      },
      "done": false,
      "home": {
       "name": "Colorado State Rams",
-      "score": 35.0
+      "score": 56.0
      },
      "id": "401860905"
     },
     {
      "away": {
       "name": "Colorado Buffaloes",
-      "score": 14.0
+      "score": 24.0
      },
      "done": false,
      "home": {
       "name": "Oklahoma State Cowboys",
-      "score": 17.0
+      "score": 37.0
      },
      "id": "401856836"
     },
     {
      "away": {
       "name": "Virginia Tech Hokies",
-      "score": 3.0
+      "score": 13.0
      },
      "done": false,
      "home": {
       "name": "Clemson Tigers",
-      "score": 3.0
+      "score": 16.0
      },
      "id": "401858276"
     },
     {
      "away": {
       "name": "Georgia State Panthers",
-      "score": 7.0
+      "score": 29.0
      },
      "done": false,
      "home": {
       "name": "Arkansas State Red Wolves",
-      "score": 14.0
+      "score": 38.0
      },
      "id": "401869935"
     },
     {
      "away": {
       "name": "Ole Miss Rebels",
-      "score": 3.0
+      "score": 10.0
      },
      "done": false,
      "home": {
       "name": "Texas Longhorns",
-      "score": 3.0
+      "score": 24.0
      },
      "id": "401856732"
     },
     {
      "away": {
       "name": "Vanderbilt Commodores",
-      "score": 3.0
+      "score": 17.0
      },
      "done": false,
      "home": {
       "name": "Kentucky Wildcats",
-      "score": 0.0
+      "score": 24.0
      },
      "id": "401856729"
     },
     {
      "away": {
       "name": "USC Trojans",
-      "score": 0.0
+      "score": 7.0
      },
      "done": false,
      "home": {
       "name": "Wisconsin Badgers",
-      "score": 3.0
+      "score": 17.0
      },
      "id": "401858500"
     },
@@ -1538,43 +1490,43 @@
      "done": false,
      "home": {
       "name": "Arizona Wildcats",
-      "score": 15.0
+      "score": 25.0
      },
      "id": "401856838"
     },
     {
      "away": {
       "name": "Syracuse Orange",
-      "score": 0.0
+      "score": 10.0
      },
      "done": false,
      "home": {
       "name": "North Carolina Tar Heels",
-      "score": 10.0
+      "score": 20.0
      },
      "id": "401858275"
     },
     {
      "away": {
       "name": "Utah State Aggies",
-      "score": 6.0
+      "score": 9.0
      },
      "done": false,
      "home": {
       "name": "Texas State Bobcats",
-      "score": 7.0
+      "score": 14.0
      },
      "id": "401860906"
     },
     {
      "away": {
       "name": "UTSA Roadrunners",
-      "score": 0.0
+      "score": 21.0
      },
      "done": false,
      "home": {
       "name": "Tulane Green Wave",
-      "score": 7.0
+      "score": 13.0
      },
      "id": "401862811"
     },
@@ -1685,6 +1637,18 @@
       "score": 17.0
      },
      "id": "401856728"
+    },
+    {
+     "away": {
+      "name": "Boise State Broncos",
+      "score": 31.0
+     },
+     "done": true,
+     "home": {
+      "name": "Washington State Cougars",
+      "score": 10.0
+     },
+     "id": "401860907"
     },
     {
      "away": {
@@ -1904,6 +1868,42 @@
     },
     {
      "away": {
+      "name": "San Jos\u00e9 State Spartans",
+      "score": 13.0
+     },
+     "done": true,
+     "home": {
+      "name": "Nevada Wolf Pack",
+      "score": 28.0
+     },
+     "id": "401864528"
+    },
+    {
+     "away": {
+      "name": "Louisiana Ragin' Cajuns",
+      "score": 31.0
+     },
+     "done": true,
+     "home": {
+      "name": "Southern Miss Golden Eagles",
+      "score": 35.0
+     },
+     "id": "401869967"
+    },
+    {
+     "away": {
+      "name": "Old Dominion Monarchs",
+      "score": 0.0
+     },
+     "done": true,
+     "home": {
+      "name": "Louisiana Tech Bulldogs",
+      "score": 26.0
+     },
+     "id": "401871093"
+    },
+    {
+     "away": {
       "name": "North Dakota State Bison",
       "score": 0.0
      },
@@ -1927,7 +1927,7 @@
      "id": "401856837"
     }
    ],
-   "t": 1792887320.6039705
+   "t": 1792893624.3261104
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -2213,7 +2213,7 @@
      "id": "401909842"
     }
    ],
-   "t": 1792892716.22482
+   "t": 1792893624.1595278
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -5883,7 +5883,7 @@
    1792784717.6089447
   ]
  },
- "last_run": 1792892715.2235005,
+ "last_run": 1792893623.2588515,
  "last_vote": {
   "approved": false,
   "label": "Dallas Mavericks to win",
