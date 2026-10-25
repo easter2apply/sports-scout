@@ -1436,51 +1436,15 @@
    "games": [
     {
      "away": {
-      "name": "Colorado Buffaloes",
-      "score": 24.0
-     },
-     "done": false,
-     "home": {
-      "name": "Oklahoma State Cowboys",
-      "score": 57.0
-     },
-     "id": "401856836"
-    },
-    {
-     "away": {
       "name": "Ole Miss Rebels",
       "score": 24.0
      },
      "done": false,
      "home": {
       "name": "Texas Longhorns",
-      "score": 24.0
+      "score": 31.0
      },
      "id": "401856732"
-    },
-    {
-     "away": {
-      "name": "Vanderbilt Commodores",
-      "score": 17.0
-     },
-     "done": false,
-     "home": {
-      "name": "Kentucky Wildcats",
-      "score": 34.0
-     },
-     "id": "401856729"
-    },
-    {
-     "away": {
-      "name": "USC Trojans",
-      "score": 7.0
-     },
-     "done": false,
-     "home": {
-      "name": "Wisconsin Badgers",
-      "score": 24.0
-     },
-     "id": "401858500"
     },
     {
      "away": {
@@ -1490,7 +1454,7 @@
      "done": false,
      "home": {
       "name": "Arizona Wildcats",
-      "score": 32.0
+      "score": 39.0
      },
      "id": "401856838"
     },
@@ -1502,7 +1466,7 @@
      "done": false,
      "home": {
       "name": "North Carolina Tar Heels",
-      "score": 23.0
+      "score": 30.0
      },
      "id": "401858275"
     },
@@ -1511,7 +1475,7 @@
       "name": "Utah State Aggies",
       "score": 17.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Texas State Bobcats",
       "score": 20.0
@@ -1545,7 +1509,7 @@
     {
      "away": {
       "name": "North Dakota State Bison",
-      "score": 0.0
+      "score": 3.0
      },
      "done": false,
      "home": {
@@ -1628,6 +1592,18 @@
     },
     {
      "away": {
+      "name": "Vanderbilt Commodores",
+      "score": 17.0
+     },
+     "done": true,
+     "home": {
+      "name": "Kentucky Wildcats",
+      "score": 34.0
+     },
+     "id": "401856729"
+    },
+    {
+     "away": {
       "name": "Texas A&M Aggies",
       "score": 20.0
      },
@@ -1649,6 +1625,18 @@
       "score": 13.0
      },
      "id": "401858497"
+    },
+    {
+     "away": {
+      "name": "USC Trojans",
+      "score": 7.0
+     },
+     "done": true,
+     "home": {
+      "name": "Wisconsin Badgers",
+      "score": 24.0
+     },
+     "id": "401858500"
     },
     {
      "away": {
@@ -1940,6 +1928,18 @@
     },
     {
      "away": {
+      "name": "Colorado Buffaloes",
+      "score": 24.0
+     },
+     "done": true,
+     "home": {
+      "name": "Oklahoma State Cowboys",
+      "score": 57.0
+     },
+     "id": "401856836"
+    },
+    {
+     "away": {
       "name": "Virginia Tech Hokies",
       "score": 20.0
      },
@@ -1963,7 +1963,7 @@
      "id": "401869935"
     }
    ],
-   "t": 1792896317.113362
+   "t": 1792897225.856592
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -2249,7 +2249,7 @@
      "id": "401909842"
     }
    ],
-   "t": 1792896316.8305779
+   "t": 1792897225.7759254
   },
   "basketball_nba|2026-10-24": {
    "games": [
@@ -6020,7 +6020,7 @@
    1792784717.6089447
   ]
  },
- "last_run": 1792896315.8468878,
+ "last_run": 1792897224.7544072,
  "last_vote": {
   "approved": false,
   "label": "Dallas Mavericks to win",
@@ -43446,7 +43446,7 @@
  },
  "schedule": {
   "americanfootball_nfl": 12,
-  "basketball_nba": 6,
+  "basketball_nba": 7,
   "icehockey_nhl": 5
  }
 }
