@@ -1400,51 +1400,15 @@
    "games": [
     {
      "away": {
-      "name": "San Diego State Aztecs",
-      "score": 49.0
-     },
-     "done": true,
-     "home": {
-      "name": "Colorado State Rams",
-      "score": 56.0
-     },
-     "id": "401860905"
-    },
-    {
-     "away": {
       "name": "Colorado Buffaloes",
       "score": 24.0
      },
      "done": false,
      "home": {
       "name": "Oklahoma State Cowboys",
-      "score": 40.0
+      "score": 50.0
      },
      "id": "401856836"
-    },
-    {
-     "away": {
-      "name": "Virginia Tech Hokies",
-      "score": 20.0
-     },
-     "done": false,
-     "home": {
-      "name": "Clemson Tigers",
-      "score": 16.0
-     },
-     "id": "401858276"
-    },
-    {
-     "away": {
-      "name": "Georgia State Panthers",
-      "score": 32.0
-     },
-     "done": false,
-     "home": {
-      "name": "Arkansas State Red Wolves",
-      "score": 38.0
-     },
-     "id": "401869935"
     },
     {
      "away": {
@@ -1466,7 +1430,7 @@
      "done": false,
      "home": {
       "name": "Kentucky Wildcats",
-      "score": 27.0
+      "score": 34.0
      },
      "id": "401856729"
     },
@@ -1478,7 +1442,7 @@
      "done": false,
      "home": {
       "name": "Wisconsin Badgers",
-      "score": 17.0
+      "score": 24.0
      },
      "id": "401858500"
     },
@@ -1502,26 +1466,26 @@
      "done": false,
      "home": {
       "name": "North Carolina Tar Heels",
-      "score": 20.0
+      "score": 23.0
      },
      "id": "401858275"
     },
     {
      "away": {
       "name": "Utah State Aggies",
-      "score": 9.0
+      "score": 17.0
      },
      "done": false,
      "home": {
       "name": "Texas State Bobcats",
-      "score": 14.0
+      "score": 17.0
      },
      "id": "401860906"
     },
     {
      "away": {
       "name": "UTSA Roadrunners",
-      "score": 21.0
+      "score": 28.0
      },
      "done": false,
      "home": {
@@ -1904,15 +1868,39 @@
     },
     {
      "away": {
-      "name": "North Dakota State Bison",
-      "score": 0.0
+      "name": "San Diego State Aztecs",
+      "score": 49.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "New Mexico Lobos",
-      "score": 0.0
+      "name": "Colorado State Rams",
+      "score": 56.0
      },
-     "id": "401864527"
+     "id": "401860905"
+    },
+    {
+     "away": {
+      "name": "Virginia Tech Hokies",
+      "score": 20.0
+     },
+     "done": true,
+     "home": {
+      "name": "Clemson Tigers",
+      "score": 16.0
+     },
+     "id": "401858276"
+    },
+    {
+     "away": {
+      "name": "Georgia State Panthers",
+      "score": 32.0
+     },
+     "done": true,
+     "home": {
+      "name": "Arkansas State Red Wolves",
+      "score": 38.0
+     },
+     "id": "401869935"
     },
     {
      "away": {
@@ -1925,9 +1913,21 @@
       "score": 0.0
      },
      "id": "401856837"
+    },
+    {
+     "away": {
+      "name": "North Dakota State Bison",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "New Mexico Lobos",
+      "score": 7.0
+     },
+     "id": "401864527"
     }
    ],
-   "t": 1792894520.8575819
+   "t": 1792895421.3759089
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -2213,7 +2213,7 @@
      "id": "401909842"
     }
    ],
-   "t": 1792894520.5041788
+   "t": 1792895421.3117495
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -5883,7 +5883,7 @@
    1792784717.6089447
   ]
  },
- "last_run": 1792894519.418273,
+ "last_run": 1792895420.6559129,
  "last_vote": {
   "approved": false,
   "label": "Dallas Mavericks to win",
