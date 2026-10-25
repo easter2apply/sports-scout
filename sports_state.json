@@ -718,6 +718,78 @@
     "The Shopper": true,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Iowa State Cyclones",
+   "bet": "Iowa State Cyclones to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 4.1,
+   "ev": 0.04672308875987974,
+   "fair": 0.255298314331678,
+   "game_id": "423bd1c75b601ccfabfca3759cc69a3f",
+   "graded": 1792898117.9724283,
+   "home": "Arizona Wildcats",
+   "id": "423bd1c75b601ccfabfca3759cc69a3f-h2h-Iowa State Cyclones--1792807223",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Cyclones @ Wildcats",
+   "odds": 310,
+   "outcome": "Iowa State Cyclones",
+   "pl": -1.0,
+   "placed": 1792807223.5490737,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1792884600.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": true,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": false,
+    "The Skeptic": false
+   }
+  },
+  {
+   "away": "Houston Rockets",
+   "bet": "Atlanta Hawks to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 2.5,
+   "ev": 0.2756007646095031,
+   "fair": 0.5102403058438012,
+   "game_id": "66849d2333774f4256873260f8e48c6c",
+   "graded": 1792898117.9724283,
+   "home": "Atlanta Hawks",
+   "id": "66849d2333774f4256873260f8e48c6c-h2h-Atlanta Hawks--1792827020",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Rockets @ Hawks",
+   "odds": 38,
+   "outcome": "Atlanta Hawks",
+   "pl": -3.39,
+   "placed": 1792827020.9012964,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "basketball_nba",
+   "stake": 3.39,
+   "start": 1792888800.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct26atlhou",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -1442,45 +1514,21 @@
      "done": false,
      "home": {
       "name": "Texas Longhorns",
-      "score": 31.0
+      "score": 34.0
      },
      "id": "401856732"
     },
     {
      "away": {
-      "name": "Iowa State Cyclones",
-      "score": 3.0
-     },
-     "done": false,
-     "home": {
-      "name": "Arizona Wildcats",
-      "score": 39.0
-     },
-     "id": "401856838"
-    },
-    {
-     "away": {
       "name": "Syracuse Orange",
-      "score": 23.0
+      "score": 31.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "North Carolina Tar Heels",
       "score": 30.0
      },
      "id": "401858275"
-    },
-    {
-     "away": {
-      "name": "Utah State Aggies",
-      "score": 17.0
-     },
-     "done": true,
-     "home": {
-      "name": "Texas State Bobcats",
-      "score": 20.0
-     },
-     "id": "401860906"
     },
     {
      "away": {
@@ -1490,7 +1538,7 @@
      "done": false,
      "home": {
       "name": "Tulane Green Wave",
-      "score": 13.0
+      "score": 19.0
      },
      "id": "401862811"
     },
@@ -1685,6 +1733,18 @@
       "score": 42.0
      },
      "id": "401858498"
+    },
+    {
+     "away": {
+      "name": "Iowa State Cyclones",
+      "score": 3.0
+     },
+     "done": true,
+     "home": {
+      "name": "Arizona Wildcats",
+      "score": 39.0
+     },
+     "id": "401856838"
     },
     {
      "away": {
@@ -1961,9 +2021,21 @@
       "score": 38.0
      },
      "id": "401869935"
+    },
+    {
+     "away": {
+      "name": "Utah State Aggies",
+      "score": 17.0
+     },
+     "done": true,
+     "home": {
+      "name": "Texas State Bobcats",
+      "score": 20.0
+     },
+     "id": "401860906"
     }
    ],
-   "t": 1792897225.856592
+   "t": 1792898118.1459713
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -2249,7 +2321,7 @@
      "id": "401909842"
     }
    ],
-   "t": 1792897225.7759254
+   "t": 1792898118.0392976
   },
   "basketball_nba|2026-10-24": {
    "games": [
@@ -2294,7 +2366,7 @@
       "name": "Washington Wizards",
       "score": 124.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Chicago Bulls",
       "score": 120.0
@@ -2316,41 +2388,41 @@
     {
      "away": {
       "name": "Houston Rockets",
-      "score": 113.0
+      "score": 121.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Atlanta Hawks",
-      "score": 100.0
+      "score": 114.0
      },
      "id": "401909856"
     },
     {
      "away": {
       "name": "New Orleans Pelicans",
-      "score": 97.0
+      "score": 118.0
      },
      "done": false,
      "home": {
       "name": "Denver Nuggets",
-      "score": 79.0
+      "score": 107.0
      },
      "id": "401909859"
     },
     {
      "away": {
       "name": "Golden State Warriors",
-      "score": 25.0
+      "score": 54.0
      },
      "done": false,
      "home": {
       "name": "Phoenix Suns",
-      "score": 24.0
+      "score": 57.0
      },
      "id": "401909860"
     }
    ],
-   "t": 1792896317.3870163
+   "t": 1792898118.188642
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -6020,7 +6092,7 @@
    1792784717.6089447
   ]
  },
- "last_run": 1792897224.7544072,
+ "last_run": 1792898117.3527782,
  "last_vote": {
   "approved": false,
   "label": "Dallas Mavericks to win",
@@ -43229,72 +43301,6 @@
    }
   },
   {
-   "away": "Iowa State Cyclones",
-   "bet": "Iowa State Cyclones to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 4.1,
-   "ev": 0.04672308875987974,
-   "fair": 0.255298314331678,
-   "game_id": "423bd1c75b601ccfabfca3759cc69a3f",
-   "home": "Arizona Wildcats",
-   "id": "423bd1c75b601ccfabfca3759cc69a3f-h2h-Iowa State Cyclones--1792807223",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Cyclones @ Wildcats",
-   "odds": 310,
-   "outcome": "Iowa State Cyclones",
-   "placed": 1792807223.5490737,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1792884600.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": true,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": false,
-    "The Skeptic": false
-   }
-  },
-  {
-   "away": "Houston Rockets",
-   "bet": "Atlanta Hawks to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 2.5,
-   "ev": 0.2756007646095031,
-   "fair": 0.5102403058438012,
-   "game_id": "66849d2333774f4256873260f8e48c6c",
-   "home": "Atlanta Hawks",
-   "id": "66849d2333774f4256873260f8e48c6c-h2h-Atlanta Hawks--1792827020",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Rockets @ Hawks",
-   "odds": 38,
-   "outcome": "Atlanta Hawks",
-   "placed": 1792827020.9012964,
-   "player": null,
-   "point": null,
-   "sport": "basketball_nba",
-   "stake": 3.39,
-   "start": 1792888800.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct26atlhou",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  },
-  {
    "away": "Golden State Warriors",
    "bet": "Golden State Warriors to win",
    "book": "fanduel",
@@ -43404,7 +43410,8 @@
     "423bd1c75b601ccfabfca3759cc69a3f-h2h-Iowa State Cyclones--1792807223",
     "7d846d56825d93b254d23d0929bba224-h2h-Old Dominion Monarchs--1792806315"
    ],
-   "result": null,
+   "pl": -1.0,
+   "result": "loss",
    "stake": 1.0,
    "text": "\ud83c\udfb2 PARLAY OF THE DAY (2 legs, FanDuel)\n\n\u2022 Iowa State Cyclones to win (+310) \u00b7 Cyclones @ Wildcats\n\u2022 Old Dominion Monarchs to win (+450) \u00b7 Monarchs @ Bulldogs\n\nPays +2155 \u00b7 fair chance 5% \u00b7 value +8.3%\n\ud83d\udcb5 Paper stake $1.00 \u2192 +$21.55 if it hits\n\nFor fun: every leg is a +EV pick, but parlays miss most of the time. Keep it small.",
    "title": "Iowa State Cyclones to win + Old Dominion Monarchs to win"
@@ -43438,10 +43445,10 @@
   }
  ],
  "record": {
-  "losses": 14,
-  "pl": 14.16,
+  "losses": 16,
+  "pl": 9.77,
   "pushes": 0,
-  "staked": 28.66,
+  "staked": 33.05,
   "wins": 5
  },
  "schedule": {
