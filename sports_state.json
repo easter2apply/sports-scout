@@ -898,6 +898,40 @@
     "The Shopper": true,
     "The Skeptic": true
    }
+  },
+  {
+   "away": "Sacramento Kings",
+   "bet": "Los Angeles Clippers to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 3.4482758620689653,
+   "ev": 1.1790049996669287,
+   "fair": 0.6319114499034094,
+   "game_id": "f6be3e587d43c3821d8f059c3a1f1967",
+   "home": "Los Angeles Clippers",
+   "id": "f6be3e587d43c3821d8f059c3a1f1967-h2h-Los Angeles Clippers--1792632621",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Kings @ Clippers",
+   "odds": 27,
+   "outcome": "Los Angeles Clippers",
+   "placed": 1792632621.0897403,
+   "player": null,
+   "point": null,
+   "result": "void",
+   "sport": "basketball_nba",
+   "stake": 3.12,
+   "start": 1792636800.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct23laclal",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -2578,7 +2612,7 @@
      "id": "401909842"
     }
    ],
-   "t": 1792981819.9317844
+   "t": 1792982718.6840007
   },
   "basketball_nba|2026-10-24": {
    "games": [
@@ -4838,7 +4872,7 @@
    1792888220.6079404
   ]
  },
- "last_run": 1792981819.2733676,
+ "last_run": 1792982717.5090325,
  "last_vote": {
   "approved": true,
   "label": "Los Angeles Rams to win",
@@ -33468,41 +33502,7 @@
    ]
   }
  },
- "open": [
-  {
-   "away": "Sacramento Kings",
-   "bet": "Los Angeles Clippers to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 3.4482758620689653,
-   "ev": 1.1790049996669287,
-   "fair": 0.6319114499034094,
-   "game_id": "f6be3e587d43c3821d8f059c3a1f1967",
-   "home": "Los Angeles Clippers",
-   "id": "f6be3e587d43c3821d8f059c3a1f1967-h2h-Los Angeles Clippers--1792632621",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Kings @ Clippers",
-   "odds": 27,
-   "outcome": "Los Angeles Clippers",
-   "placed": 1792632621.0897403,
-   "player": null,
-   "point": null,
-   "sport": "basketball_nba",
-   "stake": 3.12,
-   "start": 1792636800.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct23laclal",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  }
- ],
+ "open": [],
  "parlays": [
   {
    "book_name": "FanDuel",
@@ -33599,7 +33599,7 @@
  },
  "schedule": {
   "americanfootball_nfl": 1,
-  "basketball_nba": 8,
+  "basketball_nba": 9,
   "icehockey_nhl": 3
  }
 }
