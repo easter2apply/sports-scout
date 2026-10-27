@@ -8,7 +8,7 @@
    "fair": 0.10326695123738917,
    "matchup": "Kings @ Spurs",
    "odds": 1000,
-   "ok": true,
+   "ok": false,
    "sport": "basketball_nba",
    "start": 1793146200.0,
    "type": "straight",
@@ -18,8 +18,8 @@
      "fair chance moved -0.0% since last check"
     ],
     "The Clock": [
-     true,
-     "starts in 11.7h; odds 75 min old"
+     false,
+     "starts in 11.4h; odds 90 min old (stale: prices may have moved)"
     ],
     "The Insider": [
      true,
@@ -47,7 +47,7 @@
    "fair": 0.19534513115112262,
    "matchup": "Nets @ Celtics",
    "odds": 430,
-   "ok": true,
+   "ok": false,
    "sport": "basketball_nba",
    "start": 1793144400.0,
    "type": "straight",
@@ -57,8 +57,8 @@
      "fair chance moved +0.0% since last check"
     ],
     "The Clock": [
-     true,
-     "starts in 11.2h; odds 75 min old"
+     false,
+     "starts in 10.9h; odds 90 min old (stale: prices may have moved)"
     ],
     "The Insider": [
      true,
@@ -4213,35 +4213,35 @@
   ],
   "7a640609d2c74cbbfd05008d0875455b|h2h|Sacramento Kings|None": [
    0.1033,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|h2h|San Antonio Spurs|None": [
    0.8967,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|spreads|Sacramento Kings|17.5": [
    0.4862,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|spreads|Sacramento Kings|18.5": [
    0.5108,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|spreads|San Antonio Spurs|-17.5": [
    0.5138,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|spreads|San Antonio Spurs|-18.5": [
    0.4892,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|totals|Over|230.5": [
    0.5,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7a640609d2c74cbbfd05008d0875455b|totals|Under|230.5": [
    0.5,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "7ca25d591cbdc679a9ad85d1f04811cb|h2h|Boston Bruins|None": [
    0.3689,
@@ -4277,27 +4277,27 @@
   ],
   "82afe4e028b0fbbd9f6cf92697bec6fc|h2h|Los Angeles Lakers|None": [
    0.5708,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "82afe4e028b0fbbd9f6cf92697bec6fc|h2h|Portland Trail Blazers|None": [
    0.4292,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "82afe4e028b0fbbd9f6cf92697bec6fc|spreads|Los Angeles Lakers|-2.5": [
    0.5148,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "82afe4e028b0fbbd9f6cf92697bec6fc|spreads|Portland Trail Blazers|2.5": [
    0.4852,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "82afe4e028b0fbbd9f6cf92697bec6fc|totals|Over|236.5": [
    0.5,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "82afe4e028b0fbbd9f6cf92697bec6fc|totals|Under|236.5": [
    0.5,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "90620ab57facf54f629af8beec468e54|h2h|Oklahoma City Thunder|None": [
    0.7732,
@@ -4357,15 +4357,15 @@
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|h2h|Boston Celtics|None": [
    0.8047,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|h2h|Brooklyn Nets|None": [
    0.1953,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|spreads|Boston Celtics|-11.5": [
    0.508,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|spreads|Boston Celtics|-12.0": [
    0.5023,
@@ -4373,7 +4373,7 @@
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|spreads|Brooklyn Nets|11.5": [
    0.492,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|spreads|Brooklyn Nets|12.0": [
    0.4977,
@@ -4381,11 +4381,11 @@
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|totals|Over|221.5": [
    0.4946,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "9ad8cc650802c0c5c3c23a1f32c3e0f6|totals|Under|221.5": [
    0.5054,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "a423c3941aa43179ca93caf6b689a0ce|h2h|Indiana Pacers|None": [
    0.5973,
@@ -4477,11 +4477,11 @@
   ],
   "bde272846214fd6cf197e14c278c12f2|h2h|Detroit Pistons|None": [
    0.3914,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "bde272846214fd6cf197e14c278c12f2|h2h|New York Knicks|None": [
    0.6086,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "bde272846214fd6cf197e14c278c12f2|spreads|Detroit Pistons|3.5": [
    0.4977,
@@ -4489,7 +4489,7 @@
   ],
   "bde272846214fd6cf197e14c278c12f2|spreads|Detroit Pistons|4.0": [
    0.5023,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "bde272846214fd6cf197e14c278c12f2|spreads|New York Knicks|-3.5": [
    0.5023,
@@ -4497,15 +4497,15 @@
   ],
   "bde272846214fd6cf197e14c278c12f2|spreads|New York Knicks|-4.0": [
    0.4977,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "bde272846214fd6cf197e14c278c12f2|totals|Over|218.5": [
    0.5075,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "bde272846214fd6cf197e14c278c12f2|totals|Under|218.5": [
    0.4925,
-   1793104222.9212697
+   1793105118.5765734
   ],
   "d639f79210d0b4b17c8f293c53c8c5aa|h2h|Cleveland Cavaliers|None": [
    0.5935,
@@ -4780,9 +4780,9 @@
    1793070916.2162855
   ]
  },
- "last_run": 1793104222.9212697,
+ "last_run": 1793105118.5765734,
  "last_vote": {
-  "approved": true,
+  "approved": false,
   "label": "Sacramento Kings to win",
   "sub": "Kings @ Spurs \u00b7 DraftKings +1000",
   "votes": {
@@ -4791,8 +4791,8 @@
     "fair chance moved -0.0% since last check"
    ],
    "The Clock": [
-    true,
-    "starts in 11.7h; odds 75 min old"
+    false,
+    "starts in 11.4h; odds 90 min old (stale: prices may have moved)"
    ],
    "The Insider": [
     true,
@@ -4811,7 +4811,7 @@
     "too much of a longshot/favorite"
    ]
   },
-  "when": 1793104222.9212697
+  "when": 1793105118.5765734
  },
  "news": {
   "americanfootball_ncaaf": {
