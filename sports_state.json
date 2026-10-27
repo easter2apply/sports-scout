@@ -973,9 +973,9 @@
  "credits": {
   "day": "2026-10-27",
   "month": null,
-  "remaining": 210,
-  "spent_today": 9,
-  "used": 290
+  "remaining": 207,
+  "spent_today": 12,
+  "used": 293
  },
  "errors": [
   {
@@ -3749,16 +3749,16 @@
  },
  "fair_hist": {
   "0ae4d3447c72a5c39b523d9b3fbaf216|h2h|Delaware Blue Hens|None": [
-   0.5158,
-   1793083517.9751399
+   0.5068,
+   1793091624.3774772
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|h2h|Western Kentucky Hilltoppers|None": [
-   0.4842,
-   1793083517.9751399
+   0.4932,
+   1793091624.3774772
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|spreads|Delaware Blue Hens|-1.5": [
-   0.4955,
-   1793083517.9751399
+   0.4866,
+   1793091624.3774772
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|spreads|Delaware Blue Hens|1.5": [
    0.5,
@@ -3769,24 +3769,24 @@
    1793043916.0554376
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|spreads|Western Kentucky Hilltoppers|1.5": [
-   0.5045,
-   1793083517.9751399
+   0.5134,
+   1793091624.3774772
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|totals|Over|56.5": [
    0.5022,
    1793043916.0554376
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|totals|Over|57.5": [
-   0.5066,
-   1793083517.9751399
+   0.5044,
+   1793091624.3774772
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|totals|Under|56.5": [
    0.4978,
    1793043916.0554376
   ],
   "0ae4d3447c72a5c39b523d9b3fbaf216|totals|Under|57.5": [
-   0.4934,
-   1793083517.9751399
+   0.4956,
+   1793091624.3774772
   ],
   "11d4cfe51153e45bb3a9fc6e5f23535a|h2h|Dallas Stars|None": [
    0.5313,
@@ -4621,36 +4621,36 @@
    1792964717.0181103
   ],
   "eed30e1ba5aa37d77ee6401d67832446|h2h|Missouri State Bears|None": [
-   0.6547,
-   1793083517.9751399
+   0.6457,
+   1793091624.3774772
   ],
   "eed30e1ba5aa37d77ee6401d67832446|h2h|Sam Houston State Bearkats|None": [
-   0.3453,
-   1793083517.9751399
+   0.3543,
+   1793091624.3774772
   ],
   "eed30e1ba5aa37d77ee6401d67832446|spreads|Missouri State Bears|-5.0": [
-   0.5067,
-   1793083517.9751399
+   0.4933,
+   1793091624.3774772
   ],
   "eed30e1ba5aa37d77ee6401d67832446|spreads|Missouri State Bears|-5.5": [
    0.5,
    1793083517.9751399
   ],
   "eed30e1ba5aa37d77ee6401d67832446|spreads|Sam Houston State Bearkats|5.0": [
-   0.4933,
-   1793083517.9751399
+   0.5067,
+   1793091624.3774772
   ],
   "eed30e1ba5aa37d77ee6401d67832446|spreads|Sam Houston State Bearkats|5.5": [
    0.5,
    1793083517.9751399
   ],
   "eed30e1ba5aa37d77ee6401d67832446|totals|Over|50.5": [
-   0.5022,
-   1793083517.9751399
+   0.5054,
+   1793091624.3774772
   ],
   "eed30e1ba5aa37d77ee6401d67832446|totals|Under|50.5": [
-   0.4978,
-   1793083517.9751399
+   0.4946,
+   1793091624.3774772
   ],
   "f1b86cba8c192fb71581b00443f4af8a|h2h|Columbus Blue Jackets|None": [
    0.5367,
@@ -4789,7 +4789,7 @@
    1793070916.2162855
   ]
  },
- "last_run": 1793090717.1533868,
+ "last_run": 1793091624.3774772,
  "last_vote": {
   "approved": true,
   "label": "Los Angeles Lakers to win",
@@ -5026,7 +5026,7 @@
      "text": "Illinois and Maryland meet in Big Ten play Illinois (4-3) at Maryland (2-5), Oct. 31 at 12 p.m. EDT."
     }
    ],
-   "t": 1793083519.5636215
+   "t": 1793091625.7105641
   },
   "americanfootball_nfl": {
    "items": [
@@ -5646,18 +5646,18 @@
  },
  "odds": {
   "americanfootball_ncaaf": {
-   "fetched": 1793073625.5074303,
+   "fetched": 1793091625.4551656,
    "games": [
     {
      "away_team": "Delaware Blue Hens",
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-27T04:00:18Z",
+       "last_update": "2026-10-27T09:00:00Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T09:00:00Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
@@ -5671,23 +5671,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T09:00:00Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
            "point": 1.5,
-           "price": -120
+           "price": -122
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": -1.5,
-           "price": -102
+           "price": 100
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T09:00:00Z",
          "outcomes": [
           {
            "name": "Over",
@@ -5706,25 +5706,25 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-27T03:59:13Z",
+       "last_update": "2026-10-27T09:00:20Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:13Z",
+         "last_update": "2026-10-27T09:00:20Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -118
+           "price": -115
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -102
+           "price": -105
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:13Z",
+         "last_update": "2026-10-27T09:00:20Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
@@ -5740,7 +5740,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:13Z",
+         "last_update": "2026-10-27T09:00:20Z",
          "outcomes": [
           {
            "name": "Over",
@@ -5759,11 +5759,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-27T03:59:58Z",
+       "last_update": "2026-10-27T09:00:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:58Z",
+         "last_update": "2026-10-27T09:00:07Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
@@ -5777,7 +5777,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:58Z",
+         "last_update": "2026-10-27T09:00:07Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
@@ -5793,17 +5793,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:58Z",
+         "last_update": "2026-10-27T09:00:07Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 57.5,
-           "price": -110
+           "price": -112
           },
           {
            "name": "Under",
            "point": 57.5,
-           "price": -113
+           "price": -112
           }
          ]
         }
@@ -5812,41 +5812,41 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-27T03:59:56Z",
+       "last_update": "2026-10-27T08:59:37Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:56Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -122
+           "price": -119
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": 102
+           "price": -101
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:56Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
            "point": -1.5,
-           "price": -108
+           "price": -103
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": 1.5,
-           "price": -104
+           "price": -109
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:56Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Over",
@@ -5865,41 +5865,41 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-27T04:00:18Z",
+       "last_update": "2026-10-27T08:59:38Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -122
+           "price": -119
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": 102
+           "price": -101
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
            "point": -1.5,
-           "price": -112
+           "price": -107
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": 1.5,
-           "price": -108
+           "price": -113
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Over",
@@ -5918,41 +5918,41 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-27T03:58:51Z",
+       "last_update": "2026-10-27T08:58:55Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:58:51Z",
+         "last_update": "2026-10-27T08:58:54Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -115
+           "price": -112
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": -102
+           "price": -105
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:58:51Z",
+         "last_update": "2026-10-27T08:58:54Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -1.5,
-           "price": -108
+           "point": -1.0,
+           "price": -110
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "point": 1.5,
-           "price": -110
+           "point": 1.0,
+           "price": -108
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:58:51Z",
+         "last_update": "2026-10-27T08:58:54Z",
          "outcomes": [
           {
            "name": "Over",
@@ -5962,7 +5962,7 @@
           {
            "name": "Under",
            "point": 57.5,
-           "price": -110
+           "price": -108
           }
          ]
         }
@@ -5971,51 +5971,51 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-27T04:00:17Z",
+       "last_update": "2026-10-27T09:00:21Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T04:00:17Z",
+         "last_update": "2026-10-27T09:00:21Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "price": -114
+           "price": -110
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "price": 100
+           "price": -104
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T04:00:17Z",
+         "last_update": "2026-10-27T09:00:21Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
            "point": -1.5,
-           "price": -106
+           "price": -102
           },
           {
            "name": "Western Kentucky Hilltoppers",
            "point": 1.5,
-           "price": -110
+           "price": -114
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T04:00:17Z",
+         "last_update": "2026-10-27T09:00:21Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 57.5,
-           "price": -112
+           "price": -111
           },
           {
            "name": "Under",
            "point": 57.5,
-           "price": -106
+           "price": -107
           }
          ]
         }
@@ -6024,11 +6024,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-27T03:59:59Z",
+       "last_update": "2026-10-27T09:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:59Z",
+         "last_update": "2026-10-27T09:00:05Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
@@ -6042,33 +6042,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:59Z",
+         "last_update": "2026-10-27T09:00:05Z",
          "outcomes": [
           {
            "name": "Delaware Blue Hens",
-           "point": -1.5,
+           "point": -1.0,
            "price": -110
           },
           {
            "name": "Western Kentucky Hilltoppers",
-           "point": 1.5,
+           "point": 1.0,
            "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:59Z",
+         "last_update": "2026-10-27T09:00:05Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 57.5,
-           "price": -115
+           "price": -110
           },
           {
            "name": "Under",
            "point": 57.5,
-           "price": -105
+           "price": -110
           }
          ]
         }
@@ -6087,11 +6087,11 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-27T04:00:18Z",
+       "last_update": "2026-10-27T09:00:00Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T09:00:00Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6105,23 +6105,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T09:00:00Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
            "point": -5.5,
-           "price": -110
+           "price": -106
           },
           {
            "name": "Sam Houston State Bearkats",
            "point": 5.5,
-           "price": -110
+           "price": -114
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T09:00:00Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6140,11 +6140,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-27T03:59:13Z",
+       "last_update": "2026-10-27T09:00:20Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:13Z",
+         "last_update": "2026-10-27T09:00:20Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6158,33 +6158,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:13Z",
+         "last_update": "2026-10-27T09:00:20Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
-           "point": -5.5,
-           "price": -110
+           "point": -4.5,
+           "price": -115
           },
           {
            "name": "Sam Houston State Bearkats",
-           "point": 5.5,
-           "price": -110
+           "point": 4.5,
+           "price": -105
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:13Z",
+         "last_update": "2026-10-27T09:00:20Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 50.5,
-           "price": -112
+           "price": -118
           },
           {
            "name": "Under",
            "point": 50.5,
-           "price": -108
+           "price": -102
           }
          ]
         }
@@ -6193,11 +6193,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-27T03:59:58Z",
+       "last_update": "2026-10-27T09:00:07Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:58Z",
+         "last_update": "2026-10-27T09:00:07Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6211,7 +6211,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:58Z",
+         "last_update": "2026-10-27T09:00:07Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6227,7 +6227,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:58Z",
+         "last_update": "2026-10-27T09:00:07Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6246,11 +6246,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-27T03:59:36Z",
+       "last_update": "2026-10-27T09:00:23Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:36Z",
+         "last_update": "2026-10-27T09:00:23Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6264,33 +6264,33 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:36Z",
+         "last_update": "2026-10-27T09:00:23Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
            "point": -4.5,
-           "price": -115
+           "price": -105
           },
           {
            "name": "Sam Houston State Bearkats",
            "point": 4.5,
-           "price": -105
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:36Z",
+         "last_update": "2026-10-27T09:00:23Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 51.5,
-           "price": -105
+           "price": -110
           },
           {
            "name": "Under",
            "point": 51.5,
-           "price": -115
+           "price": -110
           }
          ]
         }
@@ -6299,11 +6299,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-27T03:58:51Z",
+       "last_update": "2026-10-27T08:58:55Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:58:51Z",
+         "last_update": "2026-10-27T08:58:54Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6317,28 +6317,28 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:58:51Z",
+         "last_update": "2026-10-27T08:58:54Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
-           "point": -5.5,
-           "price": -110
+           "point": -5.0,
+           "price": -108
           },
           {
            "name": "Sam Houston State Bearkats",
-           "point": 5.5,
+           "point": 5.0,
            "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:58:51Z",
+         "last_update": "2026-10-27T08:58:54Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 50.5,
-           "price": -112
+           "price": -115
           },
           {
            "name": "Under",
@@ -6352,11 +6352,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-27T03:59:56Z",
+       "last_update": "2026-10-27T08:59:37Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:56Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6370,7 +6370,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:56Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6386,7 +6386,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:56Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6405,11 +6405,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-27T04:00:18Z",
+       "last_update": "2026-10-27T08:59:38Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6423,7 +6423,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
@@ -6439,7 +6439,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T04:00:18Z",
+         "last_update": "2026-10-27T08:59:37Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6458,41 +6458,41 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-27T04:00:17Z",
+       "last_update": "2026-10-27T09:00:21Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T04:00:17Z",
+         "last_update": "2026-10-27T09:00:21Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
-           "price": -212
+           "price": -203
           },
           {
            "name": "Sam Houston State Bearkats",
-           "price": 179
+           "price": 172
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T04:00:17Z",
+         "last_update": "2026-10-27T09:00:21Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
            "point": -5.0,
-           "price": -111
+           "price": -105
           },
           {
            "name": "Sam Houston State Bearkats",
            "point": 5.0,
-           "price": -105
+           "price": -111
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T04:00:17Z",
+         "last_update": "2026-10-27T09:00:21Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6511,41 +6511,41 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-27T03:59:59Z",
+       "last_update": "2026-10-27T09:00:05Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-27T03:59:59Z",
+         "last_update": "2026-10-27T09:00:05Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
-           "price": -210
+           "price": -200
           },
           {
            "name": "Sam Houston State Bearkats",
-           "price": 175
+           "price": 170
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-27T03:59:59Z",
+         "last_update": "2026-10-27T09:00:05Z",
          "outcomes": [
           {
            "name": "Missouri State Bears",
-           "point": -5.0,
+           "point": -4.5,
            "price": -115
           },
           {
            "name": "Sam Houston State Bearkats",
-           "point": 5.0,
+           "point": 4.5,
            "price": -105
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-27T03:59:59Z",
+         "last_update": "2026-10-27T09:00:05Z",
          "outcomes": [
           {
            "name": "Over",
