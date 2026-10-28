@@ -2953,6 +2953,59 @@
    ],
    "t": 1793067318.7313266
   },
+  "basketball_nba|2026-10-27": {
+   "games": [
+    {
+     "away": {
+      "name": "Brooklyn Nets",
+      "score": 121.0
+     },
+     "done": false,
+     "home": {
+      "name": "Boston Celtics",
+      "score": 119.0
+     },
+     "id": "401909877"
+    },
+    {
+     "away": {
+      "name": "Detroit Pistons",
+      "score": 63.0
+     },
+     "done": false,
+     "home": {
+      "name": "New York Knicks",
+      "score": 88.0
+     },
+     "id": "401909878"
+    },
+    {
+     "away": {
+      "name": "Sacramento Kings",
+      "score": 96.0
+     },
+     "done": false,
+     "home": {
+      "name": "San Antonio Spurs",
+      "score": 118.0
+     },
+     "id": "401909879"
+    },
+    {
+     "away": {
+      "name": "Portland Trail Blazers",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Los Angeles Lakers",
+      "score": 0.0
+     },
+     "id": "401909880"
+    }
+   ],
+   "t": 1793153718.048449
+  },
   "icehockey_nhl|2026-10-13": {
    "games": [
     {
@@ -4701,7 +4754,7 @@
    1793070916.2162855
   ]
  },
- "last_run": 1793152823.938112,
+ "last_run": 1793153717.2678246,
  "last_vote": {
   "approved": true,
   "label": "Sacramento Kings to win",
@@ -16706,6 +16759,6 @@
  "schedule": {
   "americanfootball_ncaaf": 2,
   "basketball_nba": 13,
-  "icehockey_nhl": 5
+  "icehockey_nhl": 4
  }
 }
