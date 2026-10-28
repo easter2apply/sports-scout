@@ -968,6 +968,114 @@
     "The Shopper": true,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Florida Panthers",
+   "bet": "Winnipeg Jets to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 2.564102564102564,
+   "ev": 0.18040527247688343,
+   "fair": 0.4603580562659846,
+   "game_id": "17aa3256e18d8946db708952a66e29ee",
+   "graded": 1793155516.60561,
+   "home": "Winnipeg Jets",
+   "id": "17aa3256e18d8946db708952a66e29ee-h2h-Winnipeg Jets--1793055626",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Panthers @ Jets",
+   "odds": 37,
+   "outcome": "Winnipeg Jets",
+   "pl": -3.46,
+   "placed": 1793055626.7400444,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "icehockey_nhl",
+   "stake": 3.46,
+   "start": 1793145600.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26oct30wpgfla",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
+  },
+  {
+   "away": "Brooklyn Nets",
+   "bet": "Brooklyn Nets to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 5.88235294117647,
+   "ev": 0.14908900677130954,
+   "fair": 0.19534513115112262,
+   "game_id": "9ad8cc650802c0c5c3c23a1f32c3e0f6",
+   "graded": 1793155516.60561,
+   "home": "Boston Celtics",
+   "id": "9ad8cc650802c0c5c3c23a1f32c3e0f6-h2h-Brooklyn Nets--1793099717",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Nets @ Celtics",
+   "odds": 16,
+   "outcome": "Brooklyn Nets",
+   "pl": -1.0,
+   "placed": 1793099717.6596158,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "basketball_nba",
+   "stake": 1.0,
+   "start": 1793144400.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct27bknbos",
+   "votes": {
+    "Line Watcher": true,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
+  },
+  {
+   "away": "Sacramento Kings",
+   "bet": "Sacramento Kings to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 11.11111111111111,
+   "ev": 0.14741056930432417,
+   "fair": 0.10326695123738917,
+   "game_id": "7a640609d2c74cbbfd05008d0875455b",
+   "graded": 1793155516.60561,
+   "home": "San Antonio Spurs",
+   "id": "7a640609d2c74cbbfd05008d0875455b-h2h-Sacramento Kings--1793099717",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Kings @ Spurs",
+   "odds": 8,
+   "outcome": "Sacramento Kings",
+   "pl": -1.0,
+   "placed": 1793099717.6596158,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "basketball_nba",
+   "stake": 1.0,
+   "start": 1793146200.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct27sacsas",
+   "votes": {
+    "Line Watcher": true,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": false,
+    "The Skeptic": false
+   }
   }
  ],
  "credits": {
@@ -2960,7 +3068,7 @@
       "name": "Brooklyn Nets",
       "score": 124.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Boston Celtics",
       "score": 125.0
@@ -2970,12 +3078,12 @@
     {
      "away": {
       "name": "Detroit Pistons",
-      "score": 75.0
+      "score": 93.0
      },
      "done": false,
      "home": {
       "name": "New York Knicks",
-      "score": 95.0
+      "score": 107.0
      },
      "id": "401909878"
     },
@@ -3004,7 +3112,7 @@
      "id": "401909880"
     }
    ],
-   "t": 1793154621.3157494
+   "t": 1793155517.0597334
   },
   "icehockey_nhl|2026-10-13": {
    "games": [
@@ -3818,7 +3926,7 @@
       "name": "Boston Bruins",
       "score": 1.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Carolina Hurricanes",
       "score": 2.0
@@ -3830,7 +3938,7 @@
       "name": "Los Angeles Kings",
       "score": 1.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Chicago Blackhawks",
       "score": 2.0
@@ -3842,7 +3950,7 @@
       "name": "Montreal Canadiens",
       "score": 2.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "St. Louis Blues",
       "score": 0.0
@@ -3866,7 +3974,7 @@
       "name": "New Jersey Devils",
       "score": 5.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Dallas Stars",
       "score": 1.0
@@ -3878,7 +3986,7 @@
       "name": "Florida Panthers",
       "score": 5.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Winnipeg Jets",
       "score": 1.0
@@ -3888,7 +3996,7 @@
     {
      "away": {
       "name": "Minnesota Wild",
-      "score": 0.0
+      "score": 1.0
      },
      "done": false,
      "home": {
@@ -3917,7 +4025,7 @@
      "done": false,
      "home": {
       "name": "Anaheim Ducks",
-      "score": 0.0
+      "score": 1.0
      },
      "id": "401892594"
     },
@@ -3934,7 +4042,7 @@
      "id": "401892595"
     }
    ],
-   "t": 1793154621.1898742
+   "t": 1793155516.925645
   }
  },
  "fair_hist": {
@@ -4691,7 +4799,7 @@
    1793070916.2162855
   ]
  },
- "last_run": 1793154620.1961348,
+ "last_run": 1793155515.9795191,
  "last_vote": {
   "approved": true,
   "label": "Sacramento Kings to win",
@@ -16467,39 +16575,6 @@
  },
  "open": [
   {
-   "away": "Florida Panthers",
-   "bet": "Winnipeg Jets to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 2.564102564102564,
-   "ev": 0.18040527247688343,
-   "fair": 0.4603580562659846,
-   "game_id": "17aa3256e18d8946db708952a66e29ee",
-   "home": "Winnipeg Jets",
-   "id": "17aa3256e18d8946db708952a66e29ee-h2h-Winnipeg Jets--1793055626",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Panthers @ Jets",
-   "odds": 37,
-   "outcome": "Winnipeg Jets",
-   "placed": 1793055626.7400444,
-   "player": null,
-   "point": null,
-   "sport": "icehockey_nhl",
-   "stake": 3.46,
-   "start": 1793145600.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26oct30wpgfla",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  },
-  {
    "away": "Portland Trail Blazers",
    "bet": "Los Angeles Lakers to win",
    "book": "kalshi",
@@ -16530,72 +16605,6 @@
     "The Sharp": true,
     "The Shopper": true,
     "The Skeptic": true
-   }
-  },
-  {
-   "away": "Brooklyn Nets",
-   "bet": "Brooklyn Nets to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 5.88235294117647,
-   "ev": 0.14908900677130954,
-   "fair": 0.19534513115112262,
-   "game_id": "9ad8cc650802c0c5c3c23a1f32c3e0f6",
-   "home": "Boston Celtics",
-   "id": "9ad8cc650802c0c5c3c23a1f32c3e0f6-h2h-Brooklyn Nets--1793099717",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Nets @ Celtics",
-   "odds": 16,
-   "outcome": "Brooklyn Nets",
-   "placed": 1793099717.6596158,
-   "player": null,
-   "point": null,
-   "sport": "basketball_nba",
-   "stake": 1.0,
-   "start": 1793144400.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct27bknbos",
-   "votes": {
-    "Line Watcher": true,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  },
-  {
-   "away": "Sacramento Kings",
-   "bet": "Sacramento Kings to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 11.11111111111111,
-   "ev": 0.14741056930432417,
-   "fair": 0.10326695123738917,
-   "game_id": "7a640609d2c74cbbfd05008d0875455b",
-   "home": "San Antonio Spurs",
-   "id": "7a640609d2c74cbbfd05008d0875455b-h2h-Sacramento Kings--1793099717",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Kings @ Spurs",
-   "odds": 8,
-   "outcome": "Sacramento Kings",
-   "placed": 1793099717.6596158,
-   "player": null,
-   "point": null,
-   "sport": "basketball_nba",
-   "stake": 1.0,
-   "start": 1793146200.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnbagame/kxnbagame-26oct27sacsas",
-   "votes": {
-    "Line Watcher": true,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": false,
-    "The Skeptic": false
    }
   }
  ],
@@ -16687,15 +16696,15 @@
   }
  ],
  "record": {
-  "losses": 18,
-  "pl": 18.85,
+  "losses": 21,
+  "pl": 13.39,
   "pushes": 0,
-  "staked": 41.7,
+  "staked": 47.16,
   "wins": 7
  },
  "schedule": {
   "americanfootball_ncaaf": 2,
-  "basketball_nba": 13,
+  "basketball_nba": 12,
   "icehockey_nhl": 4
  }
 }
