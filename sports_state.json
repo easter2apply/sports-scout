@@ -1117,9 +1117,9 @@
  "credits": {
   "day": "2026-10-28",
   "month": null,
-  "remaining": 183,
-  "spent_today": 9,
-  "used": 317
+  "remaining": 180,
+  "spent_today": 12,
+  "used": 320
  },
  "errors": [
   {
@@ -4396,27 +4396,27 @@
   ],
   "66c2794f789b9c2c028297eff4838e81|h2h|Kennesaw State Owls|None": [
    0.4421,
-   1793169917.765138
+   1793175317.879467
   ],
   "66c2794f789b9c2c028297eff4838e81|h2h|Middle Tennessee Blue Raiders|None": [
    0.5579,
-   1793169917.765138
+   1793175317.879467
   ],
   "66c2794f789b9c2c028297eff4838e81|spreads|Kennesaw State Owls|2.5": [
    0.4844,
-   1793169917.765138
+   1793175317.879467
   ],
   "66c2794f789b9c2c028297eff4838e81|spreads|Middle Tennessee Blue Raiders|-2.5": [
    0.5156,
-   1793169917.765138
+   1793175317.879467
   ],
   "66c2794f789b9c2c028297eff4838e81|totals|Over|50.5": [
    0.5022,
-   1793169917.765138
+   1793175317.879467
   ],
   "66c2794f789b9c2c028297eff4838e81|totals|Under|50.5": [
    0.4978,
-   1793169917.765138
+   1793175317.879467
   ],
   "67550840fbe9bb9c550d3d4958e259ea|h2h|Orlando Magic|None": [
    0.3685,
@@ -4908,27 +4908,27 @@
   ],
   "cf6c89492427cb54521b70e7c5dc5993|h2h|Jacksonville State Gamecocks|None": [
    0.5921,
-   1793169917.765138
+   1793175317.879467
   ],
   "cf6c89492427cb54521b70e7c5dc5993|h2h|New Mexico State Aggies|None": [
    0.4079,
-   1793169917.765138
+   1793175317.879467
   ],
   "cf6c89492427cb54521b70e7c5dc5993|spreads|Jacksonville State Gamecocks|-3.5": [
-   0.4859,
-   1793169917.765138
+   0.4877,
+   1793175317.879467
   ],
   "cf6c89492427cb54521b70e7c5dc5993|spreads|New Mexico State Aggies|3.5": [
-   0.5141,
-   1793169917.765138
+   0.5123,
+   1793175317.879467
   ],
   "cf6c89492427cb54521b70e7c5dc5993|totals|Over|49.5": [
    0.4956,
-   1793169917.765138
+   1793175317.879467
   ],
   "cf6c89492427cb54521b70e7c5dc5993|totals|Under|49.5": [
    0.5044,
-   1793169917.765138
+   1793175317.879467
   ],
   "d7f8398941d7c90befa60f35876a3ae7|h2h|Denver Nuggets|None": [
    0.7072,
@@ -5203,7 +5203,7 @@
    1793070916.2162855
   ]
  },
- "last_run": 1793174427.7880123,
+ "last_run": 1793175317.879467,
  "last_vote": {
   "approved": true,
   "label": "Sacramento Kings to win",
@@ -5440,7 +5440,7 @@
      "text": "College football takeaways: Lasting impressions from Week 8 Our college football experts break down the most important things they saw in Week 8."
     }
    ],
-   "t": 1793168119.5450752
+   "t": 1793175319.02447
   },
   "americanfootball_nfl": {
    "items": [
@@ -6060,18 +6060,18 @@
  },
  "odds": {
   "americanfootball_ncaaf": {
-   "fetched": 1793160024.013364,
+   "fetched": 1793175318.820442,
    "games": [
     {
      "away_team": "Kennesaw State Owls",
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-28T04:00:15Z",
+       "last_update": "2026-10-28T08:14:39Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:38Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6085,7 +6085,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:38Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6101,7 +6101,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:38Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6120,11 +6120,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-28T04:00:16Z",
+       "last_update": "2026-10-28T08:14:12Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:12Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6138,23 +6138,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:12Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
            "point": 2.5,
-           "price": 105
+           "price": -102
           },
           {
            "name": "Middle Tennessee Blue Raiders",
            "point": -2.5,
-           "price": -125
+           "price": -118
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:12Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6173,11 +6173,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-28T04:00:17Z",
+       "last_update": "2026-10-28T08:14:59Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6191,7 +6191,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6207,7 +6207,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6226,41 +6226,41 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-28T04:00:16Z",
+       "last_update": "2026-10-28T08:14:59Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
-           "price": 122
+           "price": 120
           },
           {
            "name": "Middle Tennessee Blue Raiders",
-           "price": -142
+           "price": -140
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
            "point": 2.5,
-           "price": 109
+           "price": 104
           },
           {
            "name": "Middle Tennessee Blue Raiders",
            "point": -2.5,
-           "price": -122
+           "price": -116
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6279,41 +6279,41 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-28T03:59:31Z",
+       "last_update": "2026-10-28T08:14:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:14:57Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
-           "price": 126
+           "price": 120
           },
           {
            "name": "Middle Tennessee Blue Raiders",
-           "price": -146
+           "price": -140
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:14:57Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
            "point": 2.5,
-           "price": 105
+           "price": 100
           },
           {
            "name": "Middle Tennessee Blue Raiders",
            "point": -2.5,
-           "price": -125
+           "price": -120
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:14:57Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6332,50 +6332,50 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-28T03:59:31Z",
+       "last_update": "2026-10-28T08:14:14Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:30Z",
+         "last_update": "2026-10-28T08:14:14Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
-           "price": 125
+           "price": 115
           },
           {
            "name": "Middle Tennessee Blue Raiders",
-           "price": -145
+           "price": -135
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:30Z",
+         "last_update": "2026-10-28T08:14:14Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
            "point": 2.5,
-           "price": 100
+           "price": -105
           },
           {
            "name": "Middle Tennessee Blue Raiders",
            "point": -2.5,
-           "price": -120
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:30Z",
+         "last_update": "2026-10-28T08:14:14Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 49.5,
+           "point": 50.5,
            "price": -115
           },
           {
            "name": "Under",
-           "point": 49.5,
+           "point": 50.5,
            "price": -105
           }
          ]
@@ -6385,11 +6385,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-28T03:59:32Z",
+       "last_update": "2026-10-28T08:13:51Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:13:51Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6403,7 +6403,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:13:51Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6419,7 +6419,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:13:51Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6438,11 +6438,11 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-28T04:00:17Z",
+       "last_update": "2026-10-28T08:14:59Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6456,7 +6456,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6472,7 +6472,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6491,11 +6491,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-28T03:59:14Z",
+       "last_update": "2026-10-28T08:13:08Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:13Z",
+         "last_update": "2026-10-28T08:13:08Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6509,7 +6509,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:13Z",
+         "last_update": "2026-10-28T08:13:08Z",
          "outcomes": [
           {
            "name": "Kennesaw State Owls",
@@ -6525,7 +6525,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:13Z",
+         "last_update": "2026-10-28T08:13:08Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6554,11 +6554,11 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-28T04:00:15Z",
+       "last_update": "2026-10-28T08:14:39Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:38Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6572,7 +6572,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:38Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6588,7 +6588,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:15Z",
+         "last_update": "2026-10-28T08:14:38Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6607,11 +6607,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-28T04:00:16Z",
+       "last_update": "2026-10-28T08:14:12Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:12Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6625,7 +6625,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:12Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6641,7 +6641,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:12Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6660,11 +6660,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-28T04:00:17Z",
+       "last_update": "2026-10-28T08:14:59Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6678,7 +6678,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6694,7 +6694,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6713,11 +6713,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-28T04:00:16Z",
+       "last_update": "2026-10-28T08:14:59Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6731,23 +6731,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
            "point": -3.5,
-           "price": 104
+           "price": 100
           },
           {
            "name": "New Mexico State Aggies",
            "point": 3.5,
-           "price": -116
+           "price": -112
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:16Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6766,11 +6766,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-28T03:59:31Z",
+       "last_update": "2026-10-28T08:14:57Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:14:57Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6784,7 +6784,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:14:57Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6800,7 +6800,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:14:57Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6819,11 +6819,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-28T03:59:31Z",
+       "last_update": "2026-10-28T08:14:14Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:30Z",
+         "last_update": "2026-10-28T08:14:14Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6837,23 +6837,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:30Z",
+         "last_update": "2026-10-28T08:14:14Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
            "point": -3.5,
-           "price": -115
+           "price": -105
           },
           {
            "name": "New Mexico State Aggies",
            "point": 3.5,
-           "price": -105
+           "price": -115
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:30Z",
+         "last_update": "2026-10-28T08:14:14Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6872,11 +6872,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-28T03:59:32Z",
+       "last_update": "2026-10-28T08:13:51Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:13:51Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6890,7 +6890,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:13:51Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6906,7 +6906,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:31Z",
+         "last_update": "2026-10-28T08:13:51Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6925,11 +6925,11 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-28T04:00:17Z",
+       "last_update": "2026-10-28T08:14:59Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6943,7 +6943,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6959,7 +6959,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T04:00:17Z",
+         "last_update": "2026-10-28T08:14:58Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6978,11 +6978,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-28T03:59:14Z",
+       "last_update": "2026-10-28T08:13:08Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-28T03:59:13Z",
+         "last_update": "2026-10-28T08:13:08Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -6996,7 +6996,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-28T03:59:13Z",
+         "last_update": "2026-10-28T08:13:08Z",
          "outcomes": [
           {
            "name": "Jacksonville State Gamecocks",
@@ -7012,7 +7012,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-28T03:59:13Z",
+         "last_update": "2026-10-28T08:13:08Z",
          "outcomes": [
           {
            "name": "Over",
