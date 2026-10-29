@@ -1189,9 +1189,9 @@
  "credits": {
   "day": "2026-10-29",
   "month": null,
-  "remaining": 135,
-  "spent_today": 27,
-  "used": 365
+  "remaining": 132,
+  "spent_today": 30,
+  "used": 368
  },
  "errors": [
   {
@@ -4511,6 +4511,22 @@
    0.5,
    1793297717.0699203
   ],
+  "44ee19d31b9288ad402868d6df737595|h2h|Baylor Bears|None": [
+   0.5313,
+   1793315718.4569008
+  ],
+  "44ee19d31b9288ad402868d6df737595|h2h|UCF Knights|None": [
+   0.4687,
+   1793315718.4569008
+  ],
+  "44ee19d31b9288ad402868d6df737595|totals|Over|48.5": [
+   0.4821,
+   1793315718.4569008
+  ],
+  "44ee19d31b9288ad402868d6df737595|totals|Under|48.5": [
+   0.5179,
+   1793315718.4569008
+  ],
   "46dec80debcc79de4c248a0edd4f8d74|h2h|Philadelphia Flyers|None": [
    0.3284,
    1793190622.857183
@@ -4615,29 +4631,13 @@
    0.5116,
    1793208621.2662835
   ],
-  "66c2794f789b9c2c028297eff4838e81|spreads|Kennesaw State Owls|2.5": [
-   0.4844,
-   1793185225.3069842
-  ],
-  "66c2794f789b9c2c028297eff4838e81|spreads|Middle Tennessee Blue Raiders|-2.5": [
-   0.5156,
-   1793185225.3069842
-  ],
   "66c2794f789b9c2c028297eff4838e81|totals|Over|49.5": [
    0.5043,
    1793208621.2662835
   ],
-  "66c2794f789b9c2c028297eff4838e81|totals|Over|50.5": [
-   0.5022,
-   1793185225.3069842
-  ],
   "66c2794f789b9c2c028297eff4838e81|totals|Under|49.5": [
    0.4957,
    1793208621.2662835
-  ],
-  "66c2794f789b9c2c028297eff4838e81|totals|Under|50.5": [
-   0.4978,
-   1793185225.3069842
   ],
   "67550840fbe9bb9c550d3d4958e259ea|h2h|Orlando Magic|None": [
    0.3599,
@@ -4742,6 +4742,30 @@
   "782d6ce7f65b592ad1c43d2f4e53cc82|totals|Under|241.0": [
    0.5046,
    1793216717.1186898
+  ],
+  "78b3d38cdfa28649fdd2ca92829569ce|h2h|Charlotte 49ers|None": [
+   0.2528,
+   1793315718.4569008
+  ],
+  "78b3d38cdfa28649fdd2ca92829569ce|h2h|Tulane Green Wave|None": [
+   0.7472,
+   1793315718.4569008
+  ],
+  "78b3d38cdfa28649fdd2ca92829569ce|spreads|Charlotte 49ers|8.5": [
+   0.5,
+   1793315718.4569008
+  ],
+  "78b3d38cdfa28649fdd2ca92829569ce|spreads|Tulane Green Wave|-8.5": [
+   0.5,
+   1793315718.4569008
+  ],
+  "78b3d38cdfa28649fdd2ca92829569ce|totals|Over|47.5": [
+   0.4968,
+   1793315718.4569008
+  ],
+  "78b3d38cdfa28649fdd2ca92829569ce|totals|Under|47.5": [
+   0.5032,
+   1793315718.4569008
   ],
   "7b9e02686c886a54c9a91dd3f3879326|h2h|Chicago Bulls|None": [
    0.2981,
@@ -4878,6 +4902,30 @@
   "83ca338f605b5664b7b1da34c19a0222|totals|Under|228.5": [
    0.4977,
    1793188823.1975892
+  ],
+  "8916ba5e623a0a1d97dd0e7f50e4a205|h2h|Kent State Golden Flashes|None": [
+   0.7362,
+   1793315718.4569008
+  ],
+  "8916ba5e623a0a1d97dd0e7f50e4a205|h2h|Sacramento State Hornets|None": [
+   0.2638,
+   1793315718.4569008
+  ],
+  "8916ba5e623a0a1d97dd0e7f50e4a205|spreads|Kent State Golden Flashes|-7.5": [
+   0.5022,
+   1793315718.4569008
+  ],
+  "8916ba5e623a0a1d97dd0e7f50e4a205|spreads|Sacramento State Hornets|7.5": [
+   0.4978,
+   1793315718.4569008
+  ],
+  "8916ba5e623a0a1d97dd0e7f50e4a205|totals|Over|46.5": [
+   0.4955,
+   1793315718.4569008
+  ],
+  "8916ba5e623a0a1d97dd0e7f50e4a205|totals|Under|46.5": [
+   0.5045,
+   1793315718.4569008
   ],
   "923b47df7869b8b2c5d758b7f21d4b4a|h2h|Nashville Predators|None": [
    0.4884,
@@ -5227,17 +5275,9 @@
    0.5069,
    1793208621.2662835
   ],
-  "cf6c89492427cb54521b70e7c5dc5993|spreads|Jacksonville State Gamecocks|-3.5": [
-   0.4877,
-   1793185225.3069842
-  ],
   "cf6c89492427cb54521b70e7c5dc5993|spreads|New Mexico State Aggies|3.0": [
    0.4931,
    1793208621.2662835
-  ],
-  "cf6c89492427cb54521b70e7c5dc5993|spreads|New Mexico State Aggies|3.5": [
-   0.5123,
-   1793185225.3069842
   ],
   "cf6c89492427cb54521b70e7c5dc5993|totals|Over|49.5": [
    0.5,
@@ -5440,7 +5480,7 @@
    1793257162.523601
   ]
  },
- "last_run": 1793314824.2345247,
+ "last_run": 1793315718.4569008,
  "last_vote": {
   "approved": true,
   "label": "Troy Trojans to win",
@@ -5477,23 +5517,51 @@
   "americanfootball_ncaaf": {
    "items": [
     {
-     "t": 1793269897.0,
-     "text": "2027 college football recruits on the rise and how they'll fit in With high school seasons past their midway points, we look at the prospects who have most boosted their stock."
+     "t": 1793314628.0,
+     "text": "UCLA QB Iamaleava 'heartbroken' over season-ending injury UCLA quarterback Nico Iamaleava says he's \"heartbroken\" his season was cut short after he was injured earlier this month in a win at Oregon."
     },
     {
-     "t": 1793269658.0,
+     "t": 1793309193.0,
+     "text": "Georgia AD Josh Brooks shares Florida rivalry scheduling process Brooks joins The Paul Finebaum Show to discuss the winding process of organizing the approaching No. 17 Florida vs. No. 3 Georgia rivalry matchup."
+    },
+    {
+     "t": 1793309436.0,
+     "text": "Sources: Missouri RB Hardy to make season debut vs. Arkansas Missouri All-America tailback Ahmad Hardy is set to make his season debut for the Tigers this weekend at Arkansas, sources told ESPN."
+    },
+    {
+     "t": 1793313324.0,
+     "text": "Longtime football coach June Jones, pioneer of run-and-shoot offense, dies at 73 Longtime college and pro football coach June Jones, who helped popularize the run-and-shoot offense, has died at 73."
+    },
+    {
+     "t": 1793303349.0,
+     "text": "How every 2027 five-star college football prospect will fit There are 23 five-star players in the class, and we scout each one's game for the next level."
+    },
+    {
+     "t": 1793298929.0,
+     "text": "Colorado QB Lewis suffers medical emergency, hospitalized Colorado quarterback Julian Lewis suffered a medical emergency Wednesday and was transported to the hospital, his father announced Thursday."
+    },
+    {
+     "t": 1793292348.0,
+     "text": "Notre Dame CB DJ McKinney out extended period with ankle injury Notre Dame starting cornerback DJ McKinney will miss \"an extended period of football\" with a right ankle injury sustained Oct. 17 at BYU."
+    },
+    {
+     "t": 1793283006.0,
+     "text": "2027 college football recruits on the rise and how they'll fit in With high school seasons past the midway point, we look at the prospects who have boosted their stock  the most."
+    },
+    {
+     "t": 1793279979.0,
      "text": "Ohio State backup quarterback Luke Fahey 'has a moxie about him' Fahey replaced injured starter Julian Sayin against Indiana and could get a chance to start at USC."
     },
     {
-     "t": 1793269115.0,
+     "t": 1793279914.0,
      "text": "Week 9 has the ACC in the spotlight and backup QBs taking over the Big Ten It's fitting the ACC is finally in the spotlight after wild weeks in the SEC and Big 12."
     },
     {
-     "t": 1793268833.0,
-     "text": "Northwestern's Chip Kellly went into the history books to build an offense The Wildcats are playing their best offense in a decade. All it took was an old-school scheme and mad tinkerer."
+     "t": 1793295317.0,
+     "text": "Northwestern's Chip Kelly went into the history books to build an offense The Wildcats are playing their best offense in a decade. All it took was an old-school scheme and mad tinkerer."
     },
     {
-     "t": 1793270863.0,
+     "t": 1793280777.0,
      "text": "How to bet UGA-Florida, UNC-Miami and other best bets for Week 9 Pamela Maldonado and Mark Zinno dive into the numbers to find the best bets for the Week 9 college football slate."
     },
     {
@@ -5537,7 +5605,7 @@
      "text": "Laying the roadmap for No. 9 Kentucky to reach CFP As the No. 9 Wildcats regroup during a bye week after climbing to the top of the conference standings, SEC Now's Alyssa Lang and Gene Chizik analyze their progress and what lies ahead."
     },
     {
-     "t": 1793233957.0,
+     "t": 1793279286.0,
      "text": "Study: Estimated 75% of NFL players who died from 2008 to 2023 had CTE An estimated 75% of ex-NFL players who died between 2008 and 2023 had CTE, the neurodegenerative brain disease tied to high-impact sports, according to a new study."
     },
     {
@@ -5647,37 +5715,9 @@
     {
      "t": 1793121481.0,
      "text": "Clemson's Dabo Swinney still believes in team after 3rd loss Dabo Swinney said his 4-3 Tigers \"should have a better record\" and takes ownership of that, but insists Clemson is still a good team and showed support for the team's embattled offensive coordinator."
-    },
-    {
-     "t": 1793121870.0,
-     "text": "FSU president Richard McCullough to fans: 'I understand your frustration' Florida State president Richard McCullough said he understands fan frustration over the direction of the football program and the athletic department."
-    },
-    {
-     "t": 1793144449.0,
-     "text": "Alabama DB Kirkpatrick dismissed from program, DeBoer says Alabama defensive back Dre Kirkpatrick Jr., who is facing misdemeanor charges related to allegedly threatening communications with a police officer, has been dismissed from the program."
-    },
-    {
-     "t": 1793134173.0,
-     "text": "Mississippi State QB Kamario Taylor out for season Mississippi State QB Kamario Taylor, college football's breakout star this season, needs surgery on his injured toe and will miss the remainder of the season."
-    },
-    {
-     "t": 1793095141.0,
-     "text": "From championship hopes to rock bottom, what went wrong for Oregon? All signs pointed to a special season for Oregon. Instead, the Ducks are already on the outside of the CFP."
-    },
-    {
-     "t": 1793095693.0,
-     "text": "Heisman race after Week 8: Miami's Malachi Toney is gaining ground As the Hurricanes receiver picks up steam, LSU's Sam Leavitt is also rounding into form."
-    },
-    {
-     "t": 1793113137.0,
-     "text": "College Football Playoff Bubble Watch after Week 8 A conference-by-conference look at who is contending for the playoff, who's close and who's out."
-    },
-    {
-     "t": 1793133842.0,
-     "text": "College football futures: Evaluating five contenders from the Group of 6 What's going on in the Group of 6? Pamela Maldonado checks in on the biggest contenders from small conferences."
     }
    ],
-   "t": 1793278826.2471306
+   "t": 1793315720.65739
   },
   "americanfootball_nfl": {
    "items": [
@@ -6297,111 +6337,58 @@
  },
  "odds": {
   "americanfootball_ncaaf": {
-   "fetched": 1793268919.5236087,
+   "fetched": 1793315720.0069132,
    "games": [
     {
-     "away_team": "Florida Atlantic Owls",
+     "away_team": "Tulane Green Wave",
      "bookmakers": [
       {
-       "key": "fanduel",
-       "last_update": "2026-10-29T10:15:14Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:15:14Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "price": 390
-          },
-          {
-           "name": "North Texas Mean Green",
-           "price": -520
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:15:14Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "point": 13.5,
-           "price": -105
-          },
-          {
-           "name": "North Texas Mean Green",
-           "point": -13.5,
-           "price": -115
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:15:14Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 76.5,
-           "price": -115
-          },
-          {
-           "name": "Under",
-           "point": 76.5,
-           "price": -105
-          }
-         ]
-        }
-       ],
-       "title": "FanDuel"
-      },
-      {
        "key": "draftkings",
-       "last_update": "2026-10-29T10:14:28Z",
+       "last_update": "2026-10-29T23:15:13Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:14:28Z",
+         "last_update": "2026-10-29T23:15:13Z",
          "outcomes": [
           {
-           "name": "Florida Atlantic Owls",
-           "price": 410
+           "name": "Charlotte 49ers",
+           "price": 275
           },
           {
-           "name": "North Texas Mean Green",
-           "price": -550
+           "name": "Tulane Green Wave",
+           "price": -345
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:14:28Z",
+         "last_update": "2026-10-29T23:15:13Z",
          "outcomes": [
           {
-           "name": "Florida Atlantic Owls",
-           "point": 14.5,
-           "price": -112
+           "name": "Charlotte 49ers",
+           "point": 8.5,
+           "price": -110
           },
           {
-           "name": "North Texas Mean Green",
-           "point": -14.5,
-           "price": -108
+           "name": "Tulane Green Wave",
+           "point": -8.5,
+           "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:14:28Z",
+         "last_update": "2026-10-29T23:15:13Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 76.5,
-           "price": -115
+           "point": 47.5,
+           "price": -105
           },
           {
            "name": "Under",
-           "point": 76.5,
-           "price": -105
+           "point": 47.5,
+           "price": -115
           }
          ]
         }
@@ -6410,51 +6397,51 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-29T10:15:16Z",
+       "last_update": "2026-10-29T23:14:47Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:15:16Z",
+         "last_update": "2026-10-29T23:14:47Z",
          "outcomes": [
           {
-           "name": "Florida Atlantic Owls",
-           "price": 390
+           "name": "Charlotte 49ers",
+           "price": 265
           },
           {
-           "name": "North Texas Mean Green",
-           "price": -560
+           "name": "Tulane Green Wave",
+           "price": -360
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:15:16Z",
+         "last_update": "2026-10-29T23:14:47Z",
          "outcomes": [
           {
-           "name": "Florida Atlantic Owls",
-           "point": 14.0,
+           "name": "Charlotte 49ers",
+           "point": 9.5,
            "price": -112
           },
           {
-           "name": "North Texas Mean Green",
-           "point": -14.0,
+           "name": "Tulane Green Wave",
+           "point": -9.5,
            "price": -112
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:15:16Z",
+         "last_update": "2026-10-29T23:14:47Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 78.5,
-           "price": -113
+           "point": 47.5,
+           "price": -110
           },
           {
            "name": "Under",
-           "point": 78.5,
-           "price": -110
+           "point": 47.5,
+           "price": -113
           }
          ]
         }
@@ -6462,158 +6449,52 @@
        "title": "BetRivers"
       },
       {
-       "key": "lowvig",
-       "last_update": "2026-10-29T10:14:30Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "price": 400
-          },
-          {
-           "name": "North Texas Mean Green",
-           "price": -525
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "point": 14.5,
-           "price": -111
-          },
-          {
-           "name": "North Texas Mean Green",
-           "point": -14.5,
-           "price": -101
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 77.0,
-           "price": -108
-          },
-          {
-           "name": "Under",
-           "point": 77.0,
-           "price": -108
-          }
-         ]
-        }
-       ],
-       "title": "LowVig.ag"
-      },
-      {
-       "key": "betonlineag",
-       "last_update": "2026-10-29T10:14:33Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "price": 400
-          },
-          {
-           "name": "North Texas Mean Green",
-           "price": -525
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "point": 14.5,
-           "price": -115
-          },
-          {
-           "name": "North Texas Mean Green",
-           "point": -14.5,
-           "price": -105
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 77.0,
-           "price": -110
-          },
-          {
-           "name": "Under",
-           "point": 77.0,
-           "price": -110
-          }
-         ]
-        }
-       ],
-       "title": "BetOnline.ag"
-      },
-      {
        "key": "espnbet",
-       "last_update": "2026-10-29T10:15:15Z",
+       "last_update": "2026-10-29T23:15:15Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:15:15Z",
+         "last_update": "2026-10-29T23:15:15Z",
          "outcomes": [
           {
-           "name": "Florida Atlantic Owls",
-           "price": 400
+           "name": "Charlotte 49ers",
+           "price": 280
           },
           {
-           "name": "North Texas Mean Green",
-           "price": -600
+           "name": "Tulane Green Wave",
+           "price": -360
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:15:15Z",
+         "last_update": "2026-10-29T23:15:15Z",
          "outcomes": [
           {
-           "name": "Florida Atlantic Owls",
-           "point": 14.5,
-           "price": -115
+           "name": "Charlotte 49ers",
+           "point": 8.5,
+           "price": -110
           },
           {
-           "name": "North Texas Mean Green",
-           "point": -14.5,
-           "price": -105
+           "name": "Tulane Green Wave",
+           "point": -8.5,
+           "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:15:15Z",
+         "last_update": "2026-10-29T23:15:15Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 76.5,
-           "price": -110
+           "point": 47.5,
+           "price": -105
           },
           {
            "name": "Under",
-           "point": 76.5,
-           "price": -110
+           "point": 47.5,
+           "price": -115
           }
          ]
         }
@@ -6621,115 +6502,52 @@
        "title": "theScore Bet"
       },
       {
-       "key": "betmgm",
-       "last_update": "2026-10-29T10:15:16Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "price": 400
-          },
-          {
-           "name": "North Texas Mean Green",
-           "price": -525
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "Florida Atlantic Owls",
-           "point": 14.0,
-           "price": -108
-          },
-          {
-           "name": "North Texas Mean Green",
-           "point": -14.0,
-           "price": -110
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 76.5,
-           "price": -112
-          },
-          {
-           "name": "Under",
-           "point": 76.5,
-           "price": -105
-          }
-         ]
-        }
-       ],
-       "title": "BetMGM"
-      }
-     ],
-     "commence_time": "2026-10-29T23:30:00Z",
-     "home_team": "North Texas Mean Green",
-     "id": "c35bb6023b4b5005a38e7cec3ebe4d0b",
-     "sport_key": "americanfootball_ncaaf",
-     "sport_title": "NCAAF"
-    },
-    {
-     "away_team": "Troy Trojans",
-     "bookmakers": [
-      {
        "key": "fanduel",
-       "last_update": "2026-10-29T10:15:14Z",
+       "last_update": "2026-10-29T23:14:46Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:15:14Z",
+         "last_update": "2026-10-29T23:14:45Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "price": -1250
+           "name": "Charlotte 49ers",
+           "price": 280
           },
           {
-           "name": "Troy Trojans",
-           "price": 760
+           "name": "Tulane Green Wave",
+           "price": -360
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:15:14Z",
+         "last_update": "2026-10-29T23:14:45Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "point": -18.5,
+           "name": "Charlotte 49ers",
+           "point": 9.5,
            "price": -110
           },
           {
-           "name": "Troy Trojans",
-           "point": 18.5,
+           "name": "Tulane Green Wave",
+           "point": -9.5,
            "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:15:14Z",
+         "last_update": "2026-10-29T23:14:45Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 50.5,
-           "price": -105
+           "point": 47.5,
+           "price": -110
           },
           {
            "name": "Under",
-           "point": 50.5,
-           "price": -115
+           "point": 47.5,
+           "price": -110
           }
          ]
         }
@@ -6737,317 +6555,105 @@
        "title": "FanDuel"
       },
       {
-       "key": "draftkings",
-       "last_update": "2026-10-29T10:14:28Z",
+       "key": "betonlineag",
+       "last_update": "2026-10-29T23:15:13Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:14:28Z",
+         "last_update": "2026-10-29T23:15:13Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "price": -1350
+           "name": "Charlotte 49ers",
+           "price": 270
           },
           {
-           "name": "Troy Trojans",
-           "price": 800
+           "name": "Tulane Green Wave",
+           "price": -335
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:14:28Z",
+         "last_update": "2026-10-29T23:15:13Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "point": -19.5,
+           "name": "Charlotte 49ers",
+           "point": 8.0,
            "price": -110
           },
           {
-           "name": "Troy Trojans",
-           "point": 19.5,
+           "name": "Tulane Green Wave",
+           "point": -8.0,
            "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:14:28Z",
+         "last_update": "2026-10-29T23:15:13Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 49.5,
-           "price": -110
+           "point": 47.0,
+           "price": -115
           },
           {
            "name": "Under",
-           "point": 49.5,
-           "price": -110
+           "point": 47.0,
+           "price": -105
           }
          ]
         }
        ],
-       "title": "DraftKings"
+       "title": "BetOnline.ag"
       },
       {
-       "key": "betrivers",
-       "last_update": "2026-10-29T10:15:16Z",
+       "key": "lowvig",
+       "last_update": "2026-10-29T23:14:46Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:15:16Z",
+         "last_update": "2026-10-29T23:14:46Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "price": -1667
+           "name": "Charlotte 49ers",
+           "price": 270
           },
           {
-           "name": "Troy Trojans",
-           "price": 800
+           "name": "Tulane Green Wave",
+           "price": -335
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:15:16Z",
+         "last_update": "2026-10-29T23:14:46Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "point": -19.0,
-           "price": -110
+           "name": "Charlotte 49ers",
+           "point": 8.0,
+           "price": -106
           },
           {
-           "name": "Troy Trojans",
-           "point": 19.0,
-           "price": -113
+           "name": "Tulane Green Wave",
+           "point": -8.0,
+           "price": -106
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:15:16Z",
+         "last_update": "2026-10-29T23:14:46Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 49.5,
+           "point": 47.0,
            "price": -114
           },
           {
            "name": "Under",
-           "point": 49.5,
-           "price": -109
-          }
-         ]
-        }
-       ],
-       "title": "BetRivers"
-      },
-      {
-       "key": "espnbet",
-       "last_update": "2026-10-29T10:15:15Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "price": -1600
-          },
-          {
-           "name": "Troy Trojans",
-           "price": 800
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "point": -18.5,
-           "price": -110
-          },
-          {
-           "name": "Troy Trojans",
-           "point": 18.5,
-           "price": -110
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 49.5,
-           "price": -105
-          },
-          {
-           "name": "Under",
-           "point": 49.5,
-           "price": -115
-          }
-         ]
-        }
-       ],
-       "title": "theScore Bet"
-      },
-      {
-       "key": "betmgm",
-       "last_update": "2026-10-29T10:15:16Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "price": -1200
-          },
-          {
-           "name": "Troy Trojans",
-           "price": 850
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "point": -19.0,
-           "price": -110
-          },
-          {
-           "name": "Troy Trojans",
-           "point": 19.0,
-           "price": -110
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:15:15Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 49.5,
-           "price": -110
-          },
-          {
-           "name": "Under",
-           "point": 49.5,
-           "price": -108
-          }
-         ]
-        }
-       ],
-       "title": "BetMGM"
-      },
-      {
-       "key": "betonlineag",
-       "last_update": "2026-10-29T10:14:33Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "price": -1300
-          },
-          {
-           "name": "Troy Trojans",
-           "price": 795
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "point": -18.5,
-           "price": -112
-          },
-          {
-           "name": "Troy Trojans",
-           "point": 18.5,
-           "price": -108
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 49.5,
-           "price": -110
-          },
-          {
-           "name": "Under",
-           "point": 49.5,
-           "price": -110
-          }
-         ]
-        }
-       ],
-       "title": "BetOnline.ag"
-      },
-      {
-       "key": "lowvig",
-       "last_update": "2026-10-29T10:14:30Z",
-       "markets": [
-        {
-         "key": "h2h",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "price": -1300
-          },
-          {
-           "name": "Troy Trojans",
-           "price": 795
-          }
-         ]
-        },
-        {
-         "key": "spreads",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "James Madison Dukes",
-           "point": -18.5,
-           "price": -108
-          },
-          {
-           "name": "Troy Trojans",
-           "point": 18.5,
-           "price": -104
-          }
-         ]
-        },
-        {
-         "key": "totals",
-         "last_update": "2026-10-29T10:14:30Z",
-         "outcomes": [
-          {
-           "name": "Over",
-           "point": 49.5,
-           "price": -108
-          },
-          {
-           "name": "Under",
-           "point": 49.5,
-           "price": -108
+           "point": 47.0,
+           "price": -103
           }
          ]
         }
@@ -7055,52 +6661,105 @@
        "title": "LowVig.ag"
       },
       {
-       "key": "pinnacle",
-       "last_update": "2026-10-29T10:15:15Z",
+       "key": "betmgm",
+       "last_update": "2026-10-29T23:15:18Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:15:15Z",
+         "last_update": "2026-10-29T23:15:18Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "price": -1160
+           "name": "Charlotte 49ers",
+           "price": 275
           },
           {
-           "name": "Troy Trojans",
-           "price": 758
+           "name": "Tulane Green Wave",
+           "price": -350
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:15:15Z",
+         "last_update": "2026-10-29T23:15:18Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "point": -19.5,
-           "price": -109
+           "name": "Charlotte 49ers",
+           "point": 8.5,
+           "price": -110
           },
           {
-           "name": "Troy Trojans",
-           "point": 19.5,
-           "price": -105
+           "name": "Tulane Green Wave",
+           "point": -8.5,
+           "price": -108
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:15:15Z",
+         "last_update": "2026-10-29T23:15:18Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 50.0,
-           "price": -110
+           "point": 47.5,
+           "price": -108
           },
           {
            "name": "Under",
-           "point": 50.0,
-           "price": -106
+           "point": 47.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-29T23:15:11Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Charlotte 49ers",
+           "price": 282
+          },
+          {
+           "name": "Tulane Green Wave",
+           "price": -342
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Charlotte 49ers",
+           "point": 9.5,
+           "price": -116
+          },
+          {
+           "name": "Tulane Green Wave",
+           "point": -9.5,
+           "price": 101
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -114
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -102
           }
          ]
         }
@@ -7109,50 +6768,50 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-29T10:14:33Z",
+       "last_update": "2026-10-29T23:13:32Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-29T10:14:33Z",
+         "last_update": "2026-10-29T23:13:31Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "price": -1200
+           "name": "Charlotte 49ers",
+           "price": 275
           },
           {
-           "name": "Troy Trojans",
-           "price": 700
+           "name": "Tulane Green Wave",
+           "price": -350
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-29T10:14:33Z",
+         "last_update": "2026-10-29T23:13:31Z",
          "outcomes": [
           {
-           "name": "James Madison Dukes",
-           "point": -19.5,
+           "name": "Charlotte 49ers",
+           "point": 8.5,
            "price": -110
           },
           {
-           "name": "Troy Trojans",
-           "point": 19.5,
+           "name": "Tulane Green Wave",
+           "point": -8.5,
            "price": -110
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-29T10:14:33Z",
+         "last_update": "2026-10-29T23:13:31Z",
          "outcomes": [
           {
            "name": "Over",
-           "point": 50.0,
+           "point": 47.0,
            "price": -110
           },
           {
            "name": "Under",
-           "point": 50.0,
+           "point": 47.0,
            "price": -110
           }
          ]
@@ -7161,9 +6820,955 @@
        "title": "Bovada"
       }
      ],
-     "commence_time": "2026-10-29T23:30:00Z",
-     "home_team": "James Madison Dukes",
-     "id": "0540f5758ac50f3bb60beb36755f7a1e",
+     "commence_time": "2026-10-30T23:00:00Z",
+     "home_team": "Charlotte 49ers",
+     "id": "78b3d38cdfa28649fdd2ca92829569ce",
+     "sport_key": "americanfootball_ncaaf",
+     "sport_title": "NCAAF"
+    },
+    {
+     "away_team": "Baylor Bears",
+     "bookmakers": [
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-29T23:14:46Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:14:45Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -137
+          },
+          {
+           "name": "UCF Knights",
+           "price": 114
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:14:45Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -2.5,
+           "price": -122
+          },
+          {
+           "name": "UCF Knights",
+           "point": 2.5,
+           "price": 100
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:14:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 48.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-29T23:15:13Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -118
+          },
+          {
+           "name": "UCF Knights",
+           "price": -102
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -1.5,
+           "price": -102
+          },
+          {
+           "name": "UCF Knights",
+           "point": 1.5,
+           "price": -118
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 48.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-29T23:14:47Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:14:47Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -134
+          },
+          {
+           "name": "UCF Knights",
+           "price": 108
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:14:47Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -2.0,
+           "price": -114
+          },
+          {
+           "name": "UCF Knights",
+           "point": 2.0,
+           "price": -109
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:14:47Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 47.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 47.5,
+           "price": -113
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-29T23:14:46Z",
+       "markets": [
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:14:46Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": 0.0,
+           "price": -111
+          },
+          {
+           "name": "UCF Knights",
+           "point": 0.0,
+           "price": -101
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:14:46Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.0,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 48.0,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-29T23:15:13Z",
+       "markets": [
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": 0.0,
+           "price": -115
+          },
+          {
+           "name": "UCF Knights",
+           "point": 0.0,
+           "price": -105
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.0,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 48.0,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-29T23:15:15Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:15Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -125
+          },
+          {
+           "name": "UCF Knights",
+           "price": 105
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:15Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -1.5,
+           "price": -110
+          },
+          {
+           "name": "UCF Knights",
+           "point": 1.5,
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:15Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.5,
+           "price": -105
+          },
+          {
+           "name": "Under",
+           "point": 48.5,
+           "price": -115
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-29T23:15:18Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:18Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -120
+          },
+          {
+           "name": "UCF Knights",
+           "price": 105
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:18Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -2.0,
+           "price": -110
+          },
+          {
+           "name": "UCF Knights",
+           "point": 2.0,
+           "price": -108
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:18Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 47.5,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 47.5,
+           "price": -105
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-29T23:15:11Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -121
+          },
+          {
+           "name": "UCF Knights",
+           "price": 107
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -1.0,
+           "price": -115
+          },
+          {
+           "name": "UCF Knights",
+           "point": 1.0,
+           "price": 101
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.5,
+           "price": 100
+          },
+          {
+           "name": "Under",
+           "point": 48.5,
+           "price": -116
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-29T23:13:32Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:13:31Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "price": -125
+          },
+          {
+           "name": "UCF Knights",
+           "price": 105
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:13:31Z",
+         "outcomes": [
+          {
+           "name": "Baylor Bears",
+           "point": -1.5,
+           "price": -110
+          },
+          {
+           "name": "UCF Knights",
+           "point": 1.5,
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:13:31Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 48.0,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 48.0,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-30T23:30:00Z",
+     "home_team": "UCF Knights",
+     "id": "44ee19d31b9288ad402868d6df737595",
+     "sport_key": "americanfootball_ncaaf",
+     "sport_title": "NCAAF"
+    },
+    {
+     "away_team": "Kent State Golden Flashes",
+     "bookmakers": [
+      {
+       "key": "fanduel",
+       "last_update": "2026-10-29T23:14:46Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:14:45Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -310
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 250
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:14:45Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -7.5,
+           "price": -112
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 7.5,
+           "price": -108
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:14:45Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "FanDuel"
+      },
+      {
+       "key": "draftkings",
+       "last_update": "2026-10-29T23:15:13Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -305
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 245
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -7.5,
+           "price": -112
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 7.5,
+           "price": -108
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "DraftKings"
+      },
+      {
+       "key": "betrivers",
+       "last_update": "2026-10-29T23:14:47Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:14:47Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -360
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 270
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:14:47Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -9.0,
+           "price": -110
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 9.0,
+           "price": -113
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:14:47Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -115
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "BetRivers"
+      },
+      {
+       "key": "espnbet",
+       "last_update": "2026-10-29T23:15:15Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:15Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -300
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 250
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:15Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -7.5,
+           "price": -110
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 7.5,
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:15Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "theScore Bet"
+      },
+      {
+       "key": "lowvig",
+       "last_update": "2026-10-29T23:14:46Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:14:46Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -330
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 267
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:14:46Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -8.5,
+           "price": -106
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 8.5,
+           "price": -106
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:14:46Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -108
+          }
+         ]
+        }
+       ],
+       "title": "LowVig.ag"
+      },
+      {
+       "key": "betonlineag",
+       "last_update": "2026-10-29T23:15:13Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -330
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 267
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -8.5,
+           "price": -110
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 8.5,
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:13Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetOnline.ag"
+      },
+      {
+       "key": "betmgm",
+       "last_update": "2026-10-29T23:15:18Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:18Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -325
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 260
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:18Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -8.0,
+           "price": -110
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 8.0,
+           "price": -108
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:18Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -108
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "BetMGM"
+      },
+      {
+       "key": "pinnacle",
+       "last_update": "2026-10-29T23:15:11Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -321
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 266
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -8.5,
+           "price": 101
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 8.5,
+           "price": -115
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:15:11Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -106
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "Pinnacle"
+      },
+      {
+       "key": "bovada",
+       "last_update": "2026-10-29T23:13:32Z",
+       "markets": [
+        {
+         "key": "h2h",
+         "last_update": "2026-10-29T23:13:31Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "price": -330
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "price": 265
+          }
+         ]
+        },
+        {
+         "key": "spreads",
+         "last_update": "2026-10-29T23:13:31Z",
+         "outcomes": [
+          {
+           "name": "Kent State Golden Flashes",
+           "point": -7.5,
+           "price": -110
+          },
+          {
+           "name": "Sacramento State Hornets",
+           "point": 7.5,
+           "price": -110
+          }
+         ]
+        },
+        {
+         "key": "totals",
+         "last_update": "2026-10-29T23:13:31Z",
+         "outcomes": [
+          {
+           "name": "Over",
+           "point": 46.5,
+           "price": -110
+          },
+          {
+           "name": "Under",
+           "point": 46.5,
+           "price": -110
+          }
+         ]
+        }
+       ],
+       "title": "Bovada"
+      }
+     ],
+     "commence_time": "2026-10-31T02:30:00Z",
+     "home_team": "Sacramento State Hornets",
+     "id": "8916ba5e623a0a1d97dd0e7f50e4a205",
      "sport_key": "americanfootball_ncaaf",
      "sport_title": "NCAAF"
     }
@@ -14623,6 +15228,6 @@
   "americanfootball_ncaaf": 3,
   "americanfootball_nfl": 1,
   "basketball_nba": 13,
-  "icehockey_nhl": 11
+  "icehockey_nhl": 10
  }
 }
