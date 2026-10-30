@@ -1184,6 +1184,42 @@
     "The Shopper": false,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Troy Trojans",
+   "bet": "Troy Trojans to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 10.0,
+   "ev": 0.12371575342465757,
+   "fair": 0.11237157534246577,
+   "game_id": "0540f5758ac50f3bb60beb36755f7a1e",
+   "graded": 1793331019.745684,
+   "home": "James Madison Dukes",
+   "id": "0540f5758ac50f3bb60beb36755f7a1e-h2h-Troy Trojans--1793246423",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Trojans @ Dukes",
+   "odds": 9,
+   "outcome": "Troy Trojans",
+   "pl": 9.0,
+   "placed": 1793246423.814923,
+   "player": null,
+   "point": null,
+   "result": "win",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1793316600.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct29troyjmu",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
   }
  ],
  "credits": {
@@ -2436,9 +2472,9 @@
     {
      "away": {
       "name": "Florida Atlantic Owls",
-      "score": 38.0
+      "score": 41.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "North Texas Mean Green",
       "score": 48.0
@@ -2448,9 +2484,9 @@
     {
      "away": {
       "name": "Troy Trojans",
-      "score": 21.0
+      "score": 24.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "James Madison Dukes",
       "score": 21.0
@@ -2458,7 +2494,7 @@
      "id": "401869963"
     }
    ],
-   "t": 1793330119.979311
+   "t": 1793331020.0030167
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -4366,27 +4402,27 @@
   ],
   "036a93ca33d6261c21d4bfa6e0d02568|h2h|Boston Celtics|None": [
    0.8615,
-   1793330118.9109988
+   1793331019.057597
   ],
   "036a93ca33d6261c21d4bfa6e0d02568|h2h|Chicago Bulls|None": [
    0.1385,
-   1793330118.9109988
+   1793331019.057597
   ],
   "036a93ca33d6261c21d4bfa6e0d02568|spreads|Boston Celtics|-15.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "036a93ca33d6261c21d4bfa6e0d02568|spreads|Chicago Bulls|15.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "036a93ca33d6261c21d4bfa6e0d02568|totals|Over|234.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "036a93ca33d6261c21d4bfa6e0d02568|totals|Under|234.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "0540f5758ac50f3bb60beb36755f7a1e|h2h|James Madison Dukes|None": [
    0.8876,
@@ -4542,27 +4578,27 @@
   ],
   "45ebc54751ef3e435192eaeb0470acfb|h2h|Charlotte Hornets|None": [
    0.4946,
-   1793330118.9109988
+   1793331019.057597
   ],
   "45ebc54751ef3e435192eaeb0470acfb|h2h|Washington Wizards|None": [
    0.5054,
-   1793330118.9109988
+   1793331019.057597
   ],
   "45ebc54751ef3e435192eaeb0470acfb|spreads|Charlotte Hornets|1.5": [
    0.5108,
-   1793330118.9109988
+   1793331019.057597
   ],
   "45ebc54751ef3e435192eaeb0470acfb|spreads|Washington Wizards|-1.5": [
    0.4892,
-   1793330118.9109988
+   1793331019.057597
   ],
   "45ebc54751ef3e435192eaeb0470acfb|totals|Over|222.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "45ebc54751ef3e435192eaeb0470acfb|totals|Under|222.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "5020318cfd7098bd38fae6c907029f0f|h2h|Minnesota Wild|None": [
    0.6376,
@@ -4614,27 +4650,27 @@
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|h2h|Brooklyn Nets|None": [
    0.3037,
-   1793330118.9109988
+   1793331019.057597
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|h2h|Detroit Pistons|None": [
    0.6963,
-   1793330118.9109988
+   1793331019.057597
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|spreads|Brooklyn Nets|7.5": [
    0.5054,
-   1793330118.9109988
+   1793331019.057597
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|spreads|Detroit Pistons|-7.5": [
    0.4946,
-   1793330118.9109988
+   1793331019.057597
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|totals|Over|221.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|totals|Under|221.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "66c2794f789b9c2c028297eff4838e81|h2h|Kennesaw State Owls|None": [
    0.4884,
@@ -4702,19 +4738,19 @@
   ],
   "761c15cdefb5a94e34f234e11d6e57ad|h2h|Golden State Warriors|None": [
    0.4573,
-   1793330118.9109988
+   1793331019.057597
   ],
   "761c15cdefb5a94e34f234e11d6e57ad|h2h|Los Angeles Lakers|None": [
    0.5427,
-   1793330118.9109988
+   1793331019.057597
   ],
   "761c15cdefb5a94e34f234e11d6e57ad|spreads|Golden State Warriors|1.5": [
    0.4892,
-   1793330118.9109988
+   1793331019.057597
   ],
   "761c15cdefb5a94e34f234e11d6e57ad|spreads|Los Angeles Lakers|-1.5": [
    0.5108,
-   1793330118.9109988
+   1793331019.057597
   ],
   "782d6ce7f65b592ad1c43d2f4e53cc82|h2h|Denver Nuggets|None": [
    0.6337,
@@ -4926,83 +4962,83 @@
   ],
   "96a166bbd49782dbd9a61c2fb9069787|h2h|New York Knicks|None": [
    0.5305,
-   1793330118.9109988
+   1793331019.057597
   ],
   "96a166bbd49782dbd9a61c2fb9069787|h2h|Philadelphia 76ers|None": [
    0.4695,
-   1793330118.9109988
+   1793331019.057597
   ],
   "96a166bbd49782dbd9a61c2fb9069787|spreads|New York Knicks|-1.5": [
    0.5108,
-   1793330118.9109988
+   1793331019.057597
   ],
   "96a166bbd49782dbd9a61c2fb9069787|spreads|Philadelphia 76ers|1.5": [
    0.4892,
-   1793330118.9109988
+   1793331019.057597
   ],
   "96a166bbd49782dbd9a61c2fb9069787|totals|Over|228.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "96a166bbd49782dbd9a61c2fb9069787|totals|Under|228.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|h2h|Denver Nuggets|None": [
    0.6052,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|h2h|Phoenix Suns|None": [
    0.3948,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|spreads|Denver Nuggets|-3.5": [
    0.5054,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|spreads|Denver Nuggets|-4.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|spreads|Phoenix Suns|3.5": [
    0.4946,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|spreads|Phoenix Suns|4.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|totals|Over|231.5": [
    0.4903,
-   1793330118.9109988
+   1793331019.057597
   ],
   "9ae108f7a23e86e8102237053dd9e58d|totals|Under|231.5": [
    0.5097,
-   1793330118.9109988
+   1793331019.057597
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|h2h|Orlando Magic|None": [
    0.3593,
-   1793330118.9109988
+   1793331019.057597
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|h2h|Toronto Raptors|None": [
    0.6407,
-   1793330118.9109988
+   1793331019.057597
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|spreads|Orlando Magic|5.5": [
    0.5076,
-   1793330118.9109988
+   1793331019.057597
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|spreads|Toronto Raptors|-5.5": [
    0.4924,
-   1793330118.9109988
+   1793331019.057597
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|totals|Over|224.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|totals|Under|224.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ab2865e9f2d4b012de8bc6fb6de11a7c|h2h|Carolina Panthers|None": [
    0.3624,
@@ -5134,51 +5170,51 @@
   ],
   "b9778d0e3a26167eb49901dcae7eeb98|h2h|Dallas Mavericks|None": [
    0.3624,
-   1793330118.9109988
+   1793331019.057597
   ],
   "b9778d0e3a26167eb49901dcae7eeb98|h2h|Houston Rockets|None": [
    0.6376,
-   1793330118.9109988
+   1793331019.057597
   ],
   "b9778d0e3a26167eb49901dcae7eeb98|spreads|Dallas Mavericks|5.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "b9778d0e3a26167eb49901dcae7eeb98|spreads|Houston Rockets|-5.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "b9778d0e3a26167eb49901dcae7eeb98|totals|Over|227.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "b9778d0e3a26167eb49901dcae7eeb98|totals|Under|227.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|h2h|Memphis Grizzlies|None": [
    0.2911,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|h2h|Portland Trail Blazers|None": [
    0.7089,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|spreads|Memphis Grizzlies|7.5": [
    0.507,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|spreads|Portland Trail Blazers|-7.5": [
    0.493,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|totals|Over|232.5": [
    0.5043,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|totals|Over|233.5": [
    0.4946,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|totals|Over|234.5": [
    0.4957,
@@ -5186,11 +5222,11 @@
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|totals|Under|232.5": [
    0.4957,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|totals|Under|233.5": [
    0.5054,
-   1793330118.9109988
+   1793331019.057597
   ],
   "ba667ca1b0b042f0661cb9d9af56c165|totals|Under|234.5": [
    0.5043,
@@ -5238,27 +5274,27 @@
   ],
   "c3a424e24d426af94a693e06a33e3037|h2h|Indiana Pacers|None": [
    0.3072,
-   1793330118.9109988
+   1793331019.057597
   ],
   "c3a424e24d426af94a693e06a33e3037|h2h|Miami Heat|None": [
    0.6928,
-   1793330118.9109988
+   1793331019.057597
   ],
   "c3a424e24d426af94a693e06a33e3037|spreads|Indiana Pacers|7.5": [
    0.5108,
-   1793330118.9109988
+   1793331019.057597
   ],
   "c3a424e24d426af94a693e06a33e3037|spreads|Miami Heat|-7.5": [
    0.4892,
-   1793330118.9109988
+   1793331019.057597
   ],
   "c3a424e24d426af94a693e06a33e3037|totals|Over|237.5": [
    0.5054,
-   1793330118.9109988
+   1793331019.057597
   ],
   "c3a424e24d426af94a693e06a33e3037|totals|Under|237.5": [
    0.4946,
-   1793330118.9109988
+   1793331019.057597
   ],
   "c6d62b9457cbd8517860e222f1d4f953|h2h|Golden State Warriors|None": [
    0.3886,
@@ -5310,27 +5346,27 @@
   ],
   "cac1461f5983a88fac612685395aa897|h2h|Los Angeles Clippers|None": [
    0.3055,
-   1793330118.9109988
+   1793331019.057597
   ],
   "cac1461f5983a88fac612685395aa897|h2h|Minnesota Timberwolves|None": [
    0.6945,
-   1793330118.9109988
+   1793331019.057597
   ],
   "cac1461f5983a88fac612685395aa897|spreads|Los Angeles Clippers|7.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "cac1461f5983a88fac612685395aa897|spreads|Minnesota Timberwolves|-7.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "cac1461f5983a88fac612685395aa897|totals|Over|221.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "cac1461f5983a88fac612685395aa897|totals|Under|221.5": [
    0.5,
-   1793330118.9109988
+   1793331019.057597
   ],
   "cc7f8bc2a4554b89f2a35abad3a633ef|h2h|Atlanta Hawks|None": [
    0.548,
@@ -5517,7 +5553,7 @@
    1793257162.523601
   ]
  },
- "last_run": 1793330118.9109988,
+ "last_run": 1793331019.057597,
  "last_vote": {
   "approved": true,
   "label": "Troy Trojans to win",
@@ -18062,41 +18098,7 @@
    ]
   }
  },
- "open": [
-  {
-   "away": "Troy Trojans",
-   "bet": "Troy Trojans to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 10.0,
-   "ev": 0.12371575342465757,
-   "fair": 0.11237157534246577,
-   "game_id": "0540f5758ac50f3bb60beb36755f7a1e",
-   "home": "James Madison Dukes",
-   "id": "0540f5758ac50f3bb60beb36755f7a1e-h2h-Troy Trojans--1793246423",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Trojans @ Dukes",
-   "odds": 9,
-   "outcome": "Troy Trojans",
-   "placed": 1793246423.814923,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1793316600.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct29troyjmu",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  }
- ],
+ "open": [],
  "parlays": [
   {
    "book_name": "FanDuel",
@@ -18182,14 +18184,19 @@
    "detail": "+$2.78",
    "t": 1792971917.7528617,
    "title": "Los Angeles Lakers to win"
+  },
+  {
+   "detail": "+$9.00",
+   "t": 1793331019.745684,
+   "title": "Troy Trojans to win"
   }
  ],
  "record": {
   "losses": 24,
-  "pl": 7.82,
+  "pl": 16.82,
   "pushes": 0,
-  "staked": 52.73,
-  "wins": 7
+  "staked": 53.73,
+  "wins": 8
  },
  "schedule": {
   "americanfootball_ncaaf": 3,
