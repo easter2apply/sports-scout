@@ -1225,9 +1225,9 @@
  "credits": {
   "day": "2026-10-30",
   "month": null,
-  "remaining": 117,
-  "spent_today": 12,
-  "used": 383
+  "remaining": 114,
+  "spent_today": 15,
+  "used": 386
  },
  "errors": [
   {
@@ -4370,27 +4370,27 @@
  "fair_hist": {
   "026d37181dd4ace0df7565d9b208ce7e|h2h|Calgary Flames|None": [
    0.4885,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "026d37181dd4ace0df7565d9b208ce7e|h2h|Seattle Kraken|None": [
    0.5115,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "026d37181dd4ace0df7565d9b208ce7e|spreads|Calgary Flames|1.5": [
    0.6969,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "026d37181dd4ace0df7565d9b208ce7e|spreads|Seattle Kraken|-1.5": [
    0.3031,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "026d37181dd4ace0df7565d9b208ce7e|totals|Over|6.5": [
    0.4831,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "026d37181dd4ace0df7565d9b208ce7e|totals|Under|6.5": [
    0.5169,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "0320215ff7055c9c04ecefa36a8c36cb|h2h|Boston Bruins|None": [
    0.4861,
@@ -4512,30 +4512,6 @@
    0.5475,
    1793297717.0699203
   ],
-  "1e3ca91e27ded6e4b4bb35aabb67b505|h2h|Dallas Mavericks|None": [
-   0.3351,
-   1793216717.1186898
-  ],
-  "1e3ca91e27ded6e4b4bb35aabb67b505|h2h|Oklahoma City Thunder|None": [
-   0.6649,
-   1793216717.1186898
-  ],
-  "1e3ca91e27ded6e4b4bb35aabb67b505|spreads|Dallas Mavericks|6.0": [
-   0.5,
-   1793216717.1186898
-  ],
-  "1e3ca91e27ded6e4b4bb35aabb67b505|spreads|Oklahoma City Thunder|-6.0": [
-   0.5,
-   1793216717.1186898
-  ],
-  "1e3ca91e27ded6e4b4bb35aabb67b505|totals|Over|228.5": [
-   0.4932,
-   1793216717.1186898
-  ],
-  "1e3ca91e27ded6e4b4bb35aabb67b505|totals|Under|228.5": [
-   0.5068,
-   1793216717.1186898
-  ],
   "2f65119127127c0185cf3bdc236a00f2|h2h|Dallas Stars|None": [
    0.6079,
    1793297717.0699203
@@ -4593,20 +4569,20 @@
    1793297717.0699203
   ],
   "44ee19d31b9288ad402868d6df737595|h2h|Baylor Bears|None": [
-   0.5238,
-   1793344515.3454525
+   0.5193,
+   1793346317.8605304
   ],
   "44ee19d31b9288ad402868d6df737595|h2h|UCF Knights|None": [
-   0.4762,
-   1793344515.3454525
+   0.4807,
+   1793346317.8605304
   ],
   "44ee19d31b9288ad402868d6df737595|totals|Over|48.5": [
    0.4911,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "44ee19d31b9288ad402868d6df737595|totals|Under|48.5": [
    0.5089,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "45ebc54751ef3e435192eaeb0470acfb|h2h|Charlotte Hornets|None": [
    0.4931,
@@ -4664,61 +4640,37 @@
    0.4718,
    1793297717.0699203
   ],
-  "5997ee5c9fbdc53f9c86732b02f58158|h2h|Indiana Pacers|None": [
-   0.3459,
-   1793216717.1186898
-  ],
-  "5997ee5c9fbdc53f9c86732b02f58158|h2h|Philadelphia 76ers|None": [
-   0.6541,
-   1793216717.1186898
-  ],
-  "5997ee5c9fbdc53f9c86732b02f58158|spreads|Indiana Pacers|5.5": [
-   0.4908,
-   1793216717.1186898
-  ],
-  "5997ee5c9fbdc53f9c86732b02f58158|spreads|Philadelphia 76ers|-5.5": [
-   0.5092,
-   1793216717.1186898
-  ],
-  "5997ee5c9fbdc53f9c86732b02f58158|totals|Over|235.5": [
-   0.5023,
-   1793216717.1186898
-  ],
-  "5997ee5c9fbdc53f9c86732b02f58158|totals|Under|235.5": [
-   0.4977,
-   1793216717.1186898
-  ],
   "5c712e15e1cd4b9283b4bf410fb334f4|h2h|New Jersey Devils|None": [
    0.4829,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|h2h|Vegas Golden Knights|None": [
    0.5171,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|spreads|New Jersey Devils|1.5": [
    0.696,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|spreads|Vegas Golden Knights|-1.5": [
    0.304,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|totals|Over|6.0": [
    0.5078,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|totals|Over|6.5": [
    0.4556,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|totals|Under|6.0": [
    0.4922,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "5c712e15e1cd4b9283b4bf410fb334f4|totals|Under|6.5": [
    0.5444,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "64df299b882ea19ad5f8cb0ed5516a6f|h2h|Brooklyn Nets|None": [
    0.2698,
@@ -4752,54 +4704,6 @@
    0.5,
    1793344515.3454525
   ],
-  "67550840fbe9bb9c550d3d4958e259ea|h2h|Orlando Magic|None": [
-   0.3599,
-   1793216717.1186898
-  ],
-  "67550840fbe9bb9c550d3d4958e259ea|h2h|Toronto Raptors|None": [
-   0.6401,
-   1793216717.1186898
-  ],
-  "67550840fbe9bb9c550d3d4958e259ea|spreads|Orlando Magic|4.5": [
-   0.4804,
-   1793216717.1186898
-  ],
-  "67550840fbe9bb9c550d3d4958e259ea|spreads|Toronto Raptors|-4.5": [
-   0.5196,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|h2h|Los Angeles Clippers|None": [
-   0.3851,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|h2h|Los Angeles Lakers|None": [
-   0.6149,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|spreads|Los Angeles Clippers|4.0": [
-   0.5046,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|spreads|Los Angeles Clippers|4.5": [
-   0.5108,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|spreads|Los Angeles Lakers|-4.0": [
-   0.4954,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|spreads|Los Angeles Lakers|-4.5": [
-   0.4892,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|totals|Over|228.5": [
-   0.5,
-   1793216717.1186898
-  ],
-  "6e8a41f3aeff105b0e10766515517d5e|totals|Under|228.5": [
-   0.5,
-   1793216717.1186898
-  ],
   "761c15cdefb5a94e34f234e11d6e57ad|h2h|Golden State Warriors|None": [
    0.4372,
    1793344515.3454525
@@ -4832,181 +4736,53 @@
    0.5092,
    1793344515.3454525
   ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|h2h|Denver Nuggets|None": [
-   0.6337,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|h2h|New Orleans Pelicans|None": [
-   0.3663,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|spreads|Denver Nuggets|-4.5": [
-   0.5,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|spreads|New Orleans Pelicans|4.5": [
-   0.5,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|totals|Over|240.5": [
-   0.5054,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|totals|Over|241.0": [
-   0.4954,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|totals|Under|240.5": [
-   0.4946,
-   1793216717.1186898
-  ],
-  "782d6ce7f65b592ad1c43d2f4e53cc82|totals|Under|241.0": [
-   0.5046,
-   1793216717.1186898
-  ],
   "78b3d38cdfa28649fdd2ca92829569ce|h2h|Charlotte 49ers|None": [
-   0.2528,
-   1793344515.3454525
+   0.2522,
+   1793346317.8605304
   ],
   "78b3d38cdfa28649fdd2ca92829569ce|h2h|Tulane Green Wave|None": [
-   0.7472,
-   1793344515.3454525
+   0.7478,
+   1793346317.8605304
   ],
   "78b3d38cdfa28649fdd2ca92829569ce|spreads|Charlotte 49ers|8.5": [
    0.5,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "78b3d38cdfa28649fdd2ca92829569ce|spreads|Tulane Green Wave|-8.5": [
    0.5,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "78b3d38cdfa28649fdd2ca92829569ce|totals|Over|47.5": [
    0.4968,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "78b3d38cdfa28649fdd2ca92829569ce|totals|Under|47.5": [
    0.5032,
-   1793344515.3454525
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|h2h|Chicago Bulls|None": [
-   0.2981,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|h2h|New York Knicks|None": [
-   0.7019,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|spreads|Chicago Bulls|7.0": [
-   0.4954,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|spreads|Chicago Bulls|7.5": [
-   0.5108,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|spreads|New York Knicks|-7.0": [
-   0.5046,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|spreads|New York Knicks|-7.5": [
-   0.4892,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|totals|Over|232.5": [
-   0.4962,
-   1793216717.1186898
-  ],
-  "7b9e02686c886a54c9a91dd3f3879326|totals|Under|232.5": [
-   0.5038,
-   1793216717.1186898
-  ],
-  "7f5287957f506fbf705e198215fa952b|h2h|Charlotte Hornets|None": [
-   0.2833,
-   1793216717.1186898
-  ],
-  "7f5287957f506fbf705e198215fa952b|h2h|Detroit Pistons|None": [
-   0.7167,
-   1793216717.1186898
-  ],
-  "7f5287957f506fbf705e198215fa952b|spreads|Charlotte Hornets|7.5": [
-   0.4954,
-   1793216717.1186898
-  ],
-  "7f5287957f506fbf705e198215fa952b|spreads|Detroit Pistons|-7.5": [
-   0.5046,
-   1793216717.1186898
-  ],
-  "7f5287957f506fbf705e198215fa952b|totals|Over|214.5": [
-   0.4954,
-   1793216717.1186898
-  ],
-  "7f5287957f506fbf705e198215fa952b|totals|Under|214.5": [
-   0.5046,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|h2h|Houston Rockets|None": [
-   0.7417,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|h2h|Milwaukee Bucks|None": [
-   0.2583,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|spreads|Houston Rockets|-8.0": [
-   0.5023,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|spreads|Houston Rockets|-8.5": [
-   0.4892,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|spreads|Milwaukee Bucks|8.0": [
-   0.4977,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|spreads|Milwaukee Bucks|8.5": [
-   0.5108,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|totals|Over|225.5": [
-   0.5072,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|totals|Over|226.5": [
-   0.4892,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|totals|Under|225.5": [
-   0.4928,
-   1793216717.1186898
-  ],
-  "83ca338f605b5664b7b1da34c19a0222|totals|Under|226.5": [
-   0.5108,
-   1793216717.1186898
+   1793346317.8605304
   ],
   "8916ba5e623a0a1d97dd0e7f50e4a205|h2h|Kent State Golden Flashes|None": [
    0.7302,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "8916ba5e623a0a1d97dd0e7f50e4a205|h2h|Sacramento State Hornets|None": [
    0.2698,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "8916ba5e623a0a1d97dd0e7f50e4a205|spreads|Kent State Golden Flashes|-7.5": [
    0.4854,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "8916ba5e623a0a1d97dd0e7f50e4a205|spreads|Sacramento State Hornets|7.5": [
    0.5146,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "8916ba5e623a0a1d97dd0e7f50e4a205|totals|Over|46.5": [
    0.4933,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "8916ba5e623a0a1d97dd0e7f50e4a205|totals|Under|46.5": [
    0.5067,
-   1793344515.3454525
+   1793346317.8605304
   ],
   "923b47df7869b8b2c5d758b7f21d4b4a|h2h|Nashville Predators|None": [
    0.4884,
@@ -5146,35 +4922,35 @@
   ],
   "a536736a6da269d2e10edbdb27a789bd|h2h|Florida Panthers|None": [
    0.6628,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|h2h|Winnipeg Jets|None": [
    0.3372,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|spreads|Florida Panthers|-1.5": [
    0.4604,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|spreads|Winnipeg Jets|1.5": [
    0.5396,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|totals|Over|6.0": [
    0.5,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|totals|Over|6.5": [
    0.4549,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|totals|Under|6.0": [
    0.5,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "a536736a6da269d2e10edbdb27a789bd|totals|Under|6.5": [
    0.5451,
-   1793345420.4691548
+   1793346317.8605304
   ],
   "ab2865e9f2d4b012de8bc6fb6de11a7c|h2h|Carolina Panthers|None": [
    0.3624,
@@ -5456,30 +5232,6 @@
    0.4946,
    1793331019.057597
   ],
-  "c6d62b9457cbd8517860e222f1d4f953|h2h|Golden State Warriors|None": [
-   0.3886,
-   1793216717.1186898
-  ],
-  "c6d62b9457cbd8517860e222f1d4f953|h2h|Minnesota Timberwolves|None": [
-   0.6114,
-   1793216717.1186898
-  ],
-  "c6d62b9457cbd8517860e222f1d4f953|spreads|Golden State Warriors|4.0": [
-   0.493,
-   1793216717.1186898
-  ],
-  "c6d62b9457cbd8517860e222f1d4f953|spreads|Minnesota Timberwolves|-4.0": [
-   0.507,
-   1793216717.1186898
-  ],
-  "c6d62b9457cbd8517860e222f1d4f953|totals|Over|227.5": [
-   0.5,
-   1793216717.1186898
-  ],
-  "c6d62b9457cbd8517860e222f1d4f953|totals|Under|227.5": [
-   0.5,
-   1793216717.1186898
-  ],
   "c8abddd6d4a9c96f45dcdd287f392537|h2h|Anaheim Ducks|None": [
    0.4277,
    1793297717.0699203
@@ -5544,54 +5296,6 @@
    0.4809,
    1793344515.3454525
   ],
-  "cc7f8bc2a4554b89f2a35abad3a633ef|h2h|Atlanta Hawks|None": [
-   0.548,
-   1793216717.1186898
-  ],
-  "cc7f8bc2a4554b89f2a35abad3a633ef|h2h|Miami Heat|None": [
-   0.452,
-   1793216717.1186898
-  ],
-  "cc7f8bc2a4554b89f2a35abad3a633ef|spreads|Atlanta Hawks|-2.0": [
-   0.4977,
-   1793216717.1186898
-  ],
-  "cc7f8bc2a4554b89f2a35abad3a633ef|spreads|Miami Heat|2.0": [
-   0.5023,
-   1793216717.1186898
-  ],
-  "cc7f8bc2a4554b89f2a35abad3a633ef|totals|Over|241.5": [
-   0.5115,
-   1793216717.1186898
-  ],
-  "cc7f8bc2a4554b89f2a35abad3a633ef|totals|Under|241.5": [
-   0.4885,
-   1793216717.1186898
-  ],
-  "e74d54621abaed183e569394f935c362|h2h|San Antonio Spurs|None": [
-   0.8296,
-   1793216717.1186898
-  ],
-  "e74d54621abaed183e569394f935c362|h2h|Utah Jazz|None": [
-   0.1704,
-   1793216717.1186898
-  ],
-  "e74d54621abaed183e569394f935c362|spreads|San Antonio Spurs|-13.0": [
-   0.508,
-   1793216717.1186898
-  ],
-  "e74d54621abaed183e569394f935c362|spreads|Utah Jazz|13.0": [
-   0.492,
-   1793216717.1186898
-  ],
-  "e74d54621abaed183e569394f935c362|totals|Over|233.5": [
-   0.5191,
-   1793216717.1186898
-  ],
-  "e74d54621abaed183e569394f935c362|totals|Under|233.5": [
-   0.4809,
-   1793216717.1186898
-  ],
   "ed751626a7b1f47888222319fec01199|h2h|Los Angeles Kings|None": [
    0.4804,
    1793297717.0699203
@@ -5640,38 +5344,6 @@
    0.4898,
    1793297717.0699203
   ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|h2h|Cleveland Cavaliers|None": [
-   0.7598,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|h2h|Washington Wizards|None": [
-   0.2402,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|spreads|Cleveland Cavaliers|-9.5": [
-   0.5023,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|spreads|Washington Wizards|9.5": [
-   0.4977,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|totals|Over|238.5": [
-   0.5183,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|totals|Over|239.5": [
-   0.4892,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|totals|Under|238.5": [
-   0.4817,
-   1793216717.1186898
-  ],
-  "f2a1271ffcfd7c85f51640ebff3b7ddd|totals|Under|239.5": [
-   0.5108,
-   1793216717.1186898
-  ],
   "f91d27cc050b1b85073d745372c73833|h2h|New Orleans Pelicans|None": [
    0.674,
    1793283073.582238
@@ -5705,7 +5377,7 @@
    1793257162.523601
   ]
  },
- "last_run": 1793345420.4691548,
+ "last_run": 1793346317.8605304,
  "last_vote": {
   "approved": true,
   "label": "Calgary Flames to win",
@@ -5942,7 +5614,7 @@
      "text": "Clemson, UNC support PCSA, ask for realignment flexibility Clemson and North Carolina are working with local legislators in an effort to pass the Protect College Sports Act while pushing for a change to a section of the law governing schools changing conferences."
     }
    ],
-   "t": 1793343624.728617
+   "t": 1793346319.6771643
   },
   "americanfootball_nfl": {
    "items": [
@@ -6557,23 +6229,23 @@
      "text": "Red Wings in action against the Blackhawks following shootout victory Chicago Blackhawks (4-8, in the Central Division) vs. Detroit Red Wings (5-4-3, in the Atlantic Division)"
     }
    ],
-   "t": 1793343624.877243
+   "t": 1793346319.8507752
   }
  },
  "odds": {
   "americanfootball_ncaaf": {
-   "fetched": 1793333719.2646272,
+   "fetched": 1793346319.17493,
    "games": [
     {
      "away_team": "Tulane Green Wave",
      "bookmakers": [
       {
        "key": "draftkings",
-       "last_update": "2026-10-30T04:14:25Z",
+       "last_update": "2026-10-30T07:42:48Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6587,7 +6259,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6603,7 +6275,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6622,11 +6294,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-30T04:15:15Z",
+       "last_update": "2026-10-30T07:44:53Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6640,7 +6312,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6656,7 +6328,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6675,11 +6347,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-30T04:14:26Z",
+       "last_update": "2026-10-30T07:45:14Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6693,7 +6365,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6709,7 +6381,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6728,11 +6400,11 @@
       },
       {
        "key": "fanduel",
-       "last_update": "2026-10-30T04:14:54Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6746,7 +6418,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6762,7 +6434,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6781,11 +6453,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-30T04:15:13Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6799,7 +6471,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6815,7 +6487,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6834,11 +6506,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-30T04:14:26Z",
+       "last_update": "2026-10-30T07:44:27Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6852,7 +6524,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6868,7 +6540,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6887,11 +6559,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-30T04:15:15Z",
+       "last_update": "2026-10-30T07:44:50Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6905,7 +6577,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -6921,7 +6593,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Over",
@@ -6940,30 +6612,30 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-30T04:14:53Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
-           "price": 282
+           "price": 283
           },
           {
            "name": "Tulane Green Wave",
-           "price": -342
+           "price": -343
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
            "point": 9.5,
-           "price": -116
+           "price": -115
           },
           {
            "name": "Tulane Green Wave",
@@ -6974,17 +6646,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 46.5,
-           "price": -114
+           "price": -118
           },
           {
            "name": "Under",
            "point": 46.5,
-           "price": -102
+           "price": 101
           }
          ]
         }
@@ -6993,11 +6665,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-30T04:13:41Z",
+       "last_update": "2026-10-30T07:43:42Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -7011,7 +6683,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Charlotte 49ers",
@@ -7027,17 +6699,17 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Over",
            "point": 47.0,
-           "price": -110
+           "price": -112
           },
           {
            "name": "Under",
            "point": 47.0,
-           "price": -110
+           "price": -108
           }
          ]
         }
@@ -7056,11 +6728,11 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-30T04:14:54Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7074,7 +6746,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7090,7 +6762,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7109,11 +6781,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-30T04:14:25Z",
+       "last_update": "2026-10-30T07:42:48Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7127,7 +6799,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7143,7 +6815,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7162,11 +6834,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-30T04:15:15Z",
+       "last_update": "2026-10-30T07:44:53Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7180,7 +6852,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7196,7 +6868,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7215,11 +6887,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-30T04:14:26Z",
+       "last_update": "2026-10-30T07:44:27Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7233,23 +6905,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
            "point": -1.0,
-           "price": -106
+           "price": -110
           },
           {
            "name": "UCF Knights",
            "point": 1.0,
-           "price": -106
+           "price": -102
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7268,11 +6940,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-30T04:15:13Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7286,23 +6958,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
            "point": -1.0,
-           "price": -110
+           "price": -114
           },
           {
            "name": "UCF Knights",
            "point": 1.0,
-           "price": -110
+           "price": -106
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7321,11 +6993,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-30T04:14:26Z",
+       "last_update": "2026-10-30T07:45:14Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7339,7 +7011,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7355,7 +7027,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7374,11 +7046,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-30T04:15:15Z",
+       "last_update": "2026-10-30T07:44:50Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7392,23 +7064,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
            "point": -2.0,
-           "price": -108
+           "price": -110
           },
           {
            "name": "UCF Knights",
            "point": 2.0,
-           "price": -110
+           "price": -108
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7427,41 +7099,41 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-30T04:14:53Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:52Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
-           "price": -117
+           "price": -115
           },
           {
            "name": "UCF Knights",
-           "price": 104
+           "price": 102
           }
          ]
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:52Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
            "point": -1.0,
-           "price": -112
+           "price": -110
           },
           {
            "name": "UCF Knights",
            "point": 1.0,
-           "price": -103
+           "price": -104
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:52Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7480,11 +7152,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-30T04:13:41Z",
+       "last_update": "2026-10-30T07:43:42Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
@@ -7498,23 +7170,23 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Baylor Bears",
            "point": -1.5,
-           "price": -110
+           "price": -108
           },
           {
            "name": "UCF Knights",
            "point": 1.5,
-           "price": -110
+           "price": -112
           }
          ]
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7543,11 +7215,11 @@
      "bookmakers": [
       {
        "key": "fanduel",
-       "last_update": "2026-10-30T04:14:54Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7561,7 +7233,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7577,7 +7249,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:53Z",
+         "last_update": "2026-10-30T07:45:09Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7596,11 +7268,11 @@
       },
       {
        "key": "draftkings",
-       "last_update": "2026-10-30T04:14:25Z",
+       "last_update": "2026-10-30T07:42:48Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7614,7 +7286,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7630,7 +7302,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:25Z",
+         "last_update": "2026-10-30T07:42:48Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7649,11 +7321,11 @@
       },
       {
        "key": "betrivers",
-       "last_update": "2026-10-30T04:15:15Z",
+       "last_update": "2026-10-30T07:44:53Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7667,7 +7339,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7683,7 +7355,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:52Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7702,11 +7374,11 @@
       },
       {
        "key": "espnbet",
-       "last_update": "2026-10-30T04:14:26Z",
+       "last_update": "2026-10-30T07:45:14Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7720,7 +7392,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7736,7 +7408,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:45:14Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7755,11 +7427,11 @@
       },
       {
        "key": "lowvig",
-       "last_update": "2026-10-30T04:14:26Z",
+       "last_update": "2026-10-30T07:44:27Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7773,7 +7445,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7789,7 +7461,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:26Z",
+         "last_update": "2026-10-30T07:44:27Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7808,11 +7480,11 @@
       },
       {
        "key": "betonlineag",
-       "last_update": "2026-10-30T04:15:13Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7826,7 +7498,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7842,7 +7514,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:13Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7861,11 +7533,11 @@
       },
       {
        "key": "betmgm",
-       "last_update": "2026-10-30T04:15:15Z",
+       "last_update": "2026-10-30T07:44:50Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7879,7 +7551,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7895,7 +7567,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:15:15Z",
+         "last_update": "2026-10-30T07:44:50Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7914,11 +7586,11 @@
       },
       {
        "key": "pinnacle",
-       "last_update": "2026-10-30T04:14:53Z",
+       "last_update": "2026-10-30T07:45:10Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:14:52Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7932,7 +7604,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:14:52Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7948,7 +7620,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:14:52Z",
+         "last_update": "2026-10-30T07:45:10Z",
          "outcomes": [
           {
            "name": "Over",
@@ -7967,11 +7639,11 @@
       },
       {
        "key": "bovada",
-       "last_update": "2026-10-30T04:13:41Z",
+       "last_update": "2026-10-30T07:43:42Z",
        "markets": [
         {
          "key": "h2h",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -7985,7 +7657,7 @@
         },
         {
          "key": "spreads",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Kent State Golden Flashes",
@@ -8001,7 +7673,7 @@
         },
         {
          "key": "totals",
-         "last_update": "2026-10-30T04:13:41Z",
+         "last_update": "2026-10-30T07:43:41Z",
          "outcomes": [
           {
            "name": "Over",
