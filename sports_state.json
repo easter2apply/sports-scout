@@ -1,45 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Brooklyn Nets to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.04059851417808935,
-   "fair": 0.2668201318405357,
-   "matchup": "Pistons @ Nets",
-   "odds": 290,
-   "ok": true,
-   "sport": "basketball_nba",
-   "start": 1793403600.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 6.7h; odds 180 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +275 vs FanDuel 290: +4.1% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     true,
-     "edge holds vs the market average too"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -5905,7 +5865,7 @@
    1793375118.414584
   ]
  },
- "last_run": 1793379625.5932956,
+ "last_run": 1793380517.3741546,
  "last_vote": {
   "approved": true,
   "label": "Brooklyn Nets to win",
@@ -21856,6 +21816,6 @@
  "schedule": {
   "americanfootball_ncaaf": 40,
   "basketball_nba": 10,
-  "icehockey_nhl": 9
+  "icehockey_nhl": 11
  }
 }
