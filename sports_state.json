@@ -1544,6 +1544,150 @@
     "The Shopper": false,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Nevada Wolf Pack",
+   "bet": "Nevada Wolf Pack to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 15.0,
+   "ev": 0.34660652048686114,
+   "fair": 0.0897737680324574,
+   "game_id": "630ed6c8993fda8943e528a465e55518",
+   "graded": 1793489421.3710496,
+   "home": "UCLA Bruins",
+   "id": "630ed6c8993fda8943e528a465e55518-h2h-Nevada Wolf Pack--1793394917",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Pack @ Bruins",
+   "odds": 1400,
+   "outcome": "Nevada Wolf Pack",
+   "pl": -1.0,
+   "placed": 1793394917.1937943,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1793477700.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
+  },
+  {
+   "away": "Minnesota Golden Gophers",
+   "bet": "Minnesota Golden Gophers to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 12.0,
+   "ev": 0.2302905424631838,
+   "fair": 0.10252421187193198,
+   "game_id": "1e591733bae48534963359a9cff13701",
+   "graded": 1793489421.3710496,
+   "home": "Indiana Hoosiers",
+   "id": "1e591733bae48534963359a9cff13701-h2h-Minnesota Golden Gophers--1793394917",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Gophers @ Hoosiers",
+   "odds": 1100,
+   "outcome": "Minnesota Golden Gophers",
+   "pl": -1.0,
+   "placed": 1793394917.1937943,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1793475000.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
+  },
+  {
+   "away": "Purdue Boilermakers",
+   "bet": "Purdue Boilermakers to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 4.3,
+   "ev": 0.056499696238192065,
+   "fair": 0.24569760377632377,
+   "game_id": "7fd2d018fdc5930fd62188de968a901c",
+   "graded": 1793489421.3710496,
+   "home": "Penn State Nittany Lions",
+   "id": "7fd2d018fdc5930fd62188de968a901c-h2h-Purdue Boilermakers--1793395820",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Boilermakers @ Lions",
+   "odds": 330,
+   "outcome": "Purdue Boilermakers",
+   "pl": -1.0,
+   "placed": 1793395820.7889771,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1793477700.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": true,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
+  },
+  {
+   "away": "Arizona State Sun Devils",
+   "bet": "Arizona State Sun Devils to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 7.142857142857142,
+   "ev": 0.039298760802073174,
+   "fair": 0.14550182651229027,
+   "game_id": "b0f68c9265402a825cbbf7954b726339",
+   "graded": 1793489421.3710496,
+   "home": "BYU Cougars",
+   "id": "b0f68c9265402a825cbbf7954b726339-h2h-Arizona State Sun Devils--1793461515",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Devils @ Cougars",
+   "odds": 13,
+   "outcome": "Arizona State Sun Devils",
+   "pl": -1.0,
+   "placed": 1793461515.9461346,
+   "player": null,
+   "point": null,
+   "result": "loss",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1793475000.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct30asubyu",
+   "votes": {
+    "Line Watcher": true,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
   }
  ],
  "credits": {
@@ -2824,58 +2968,10 @@
    "games": [
     {
      "away": {
-      "name": "Minnesota Golden Gophers",
-      "score": 16.0
-     },
-     "done": false,
-     "home": {
-      "name": "Indiana Hoosiers",
-      "score": 23.0
-     },
-     "id": "401858501"
-    },
-    {
-     "away": {
-      "name": "Arizona State Sun Devils",
-      "score": 20.0
-     },
-     "done": false,
-     "home": {
-      "name": "BYU Cougars",
-      "score": 27.0
-     },
-     "id": "401856843"
-    },
-    {
-     "away": {
-      "name": "Kansas Jayhawks",
-      "score": 16.0
-     },
-     "done": true,
-     "home": {
-      "name": "TCU Horned Frogs",
-      "score": 22.0
-     },
-     "id": "401856845"
-    },
-    {
-     "away": {
-      "name": "Utah Utes",
-      "score": 49.0
-     },
-     "done": true,
-     "home": {
-      "name": "Cincinnati Bearcats",
-      "score": 25.0
-     },
-     "id": "401856848"
-    },
-    {
-     "away": {
       "name": "Nevada Wolf Pack",
       "score": 0.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "UCLA Bruins",
       "score": 27.0
@@ -2890,7 +2986,7 @@
      "done": false,
      "home": {
       "name": "Oklahoma Sooners",
-      "score": 16.0
+      "score": 19.0
      },
      "id": "401856736"
     },
@@ -2899,7 +2995,7 @@
       "name": "Purdue Boilermakers",
       "score": 17.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Penn State Nittany Lions",
       "score": 31.0
@@ -2914,19 +3010,43 @@
      "done": false,
      "home": {
       "name": "Georgia Southern Eagles",
-      "score": 3.0
+      "score": 9.0
      },
      "id": "401869846"
     },
     {
      "away": {
-      "name": "Washington State Cougars",
+      "name": "Oklahoma State Cowboys",
+      "score": 7.0
+     },
+     "done": false,
+     "home": {
+      "name": "Iowa State Cyclones",
+      "score": 7.0
+     },
+     "id": "401856847"
+    },
+    {
+     "away": {
+      "name": "Clemson Tigers",
+      "score": 7.0
+     },
+     "done": false,
+     "home": {
+      "name": "Florida State Seminoles",
       "score": 0.0
+     },
+     "id": "401858280"
+    },
+    {
+     "away": {
+      "name": "Washington State Cougars",
+      "score": 7.0
      },
      "done": false,
      "home": {
       "name": "San Diego State Aztecs",
-      "score": 0.0
+      "score": 7.0
      },
      "id": "401860909"
     },
@@ -2944,6 +3064,18 @@
     },
     {
      "away": {
+      "name": "Minnesota Golden Gophers",
+      "score": 16.0
+     },
+     "done": true,
+     "home": {
+      "name": "Indiana Hoosiers",
+      "score": 23.0
+     },
+     "id": "401858501"
+    },
+    {
+     "away": {
       "name": "Notre Dame Fighting Irish",
       "score": 35.0
      },
@@ -2953,6 +3085,30 @@
       "score": 13.0
      },
      "id": "401859185"
+    },
+    {
+     "away": {
+      "name": "Utah Utes",
+      "score": 49.0
+     },
+     "done": true,
+     "home": {
+      "name": "Cincinnati Bearcats",
+      "score": 25.0
+     },
+     "id": "401856848"
+    },
+    {
+     "away": {
+      "name": "Arizona State Sun Devils",
+      "score": 20.0
+     },
+     "done": true,
+     "home": {
+      "name": "BYU Cougars",
+      "score": 27.0
+     },
+     "id": "401856843"
     },
     {
      "away": {
@@ -3184,6 +3340,18 @@
     },
     {
      "away": {
+      "name": "Kansas Jayhawks",
+      "score": 16.0
+     },
+     "done": true,
+     "home": {
+      "name": "TCU Horned Frogs",
+      "score": 22.0
+     },
+     "id": "401856845"
+    },
+    {
+     "away": {
       "name": "Colorado State Rams",
       "score": 14.0
      },
@@ -3241,30 +3409,6 @@
       "score": 16.0
      },
      "id": "401864529"
-    },
-    {
-     "away": {
-      "name": "Oklahoma State Cowboys",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Iowa State Cyclones",
-      "score": 6.0
-     },
-     "id": "401856847"
-    },
-    {
-     "away": {
-      "name": "Clemson Tigers",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Florida State Seminoles",
-      "score": 0.0
-     },
-     "id": "401858280"
     },
     {
      "away": {
@@ -3387,7 +3531,7 @@
      "id": "401860924"
     }
    ],
-   "t": 1793488515.8774736
+   "t": 1793489421.4343107
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -5818,43 +5962,43 @@
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Minnesota Wild|None": [
    0.5023,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Washington Capitals|None": [
    0.4977,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|-1.5": [
    0.2928,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|1.5": [
    0.6968,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|-1.5": [
    0.3032,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|1.5": [
    0.7072,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.0": [
    0.5068,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.5": [
    0.4568,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.0": [
    0.4932,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.5": [
    0.5432,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "159dbf0253dd2038eda2212f84387f0c|h2h|Indianapolis Colts|None": [
    0.2072,
@@ -6114,27 +6258,27 @@
   ],
   "394955492df212637701f4f21464f05f|h2h|Calgary Flames|None": [
    0.2113,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "394955492df212637701f4f21464f05f|h2h|Colorado Avalanche|None": [
    0.7887,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "394955492df212637701f4f21464f05f|spreads|Calgary Flames|1.5": [
    0.4013,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "394955492df212637701f4f21464f05f|spreads|Colorado Avalanche|-1.5": [
    0.5987,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "394955492df212637701f4f21464f05f|totals|Over|6.5": [
    0.5092,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "394955492df212637701f4f21464f05f|totals|Under|6.5": [
    0.4908,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "3ec4c9abb60e5bf086a0460336248b16|h2h|Buffalo Sabres|None": [
    0.5334,
@@ -6346,27 +6490,27 @@
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Philadelphia Flyers|None": [
    0.413,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Utah Mammoth|None": [
    0.587,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Philadelphia Flyers|1.5": [
    0.6345,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Utah Mammoth|-1.5": [
    0.3655,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Over|6.0": [
    0.4932,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Under|6.0": [
    0.5068,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|h2h|Detroit Lions|None": [
    0.6243,
@@ -6826,27 +6970,27 @@
   ],
   "7bfae1a5166976e5ca05e92319277910|h2h|Columbus Blue Jackets|None": [
    0.378,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "7bfae1a5166976e5ca05e92319277910|h2h|Dallas Stars|None": [
    0.622,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "7bfae1a5166976e5ca05e92319277910|spreads|Columbus Blue Jackets|1.5": [
    0.6086,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "7bfae1a5166976e5ca05e92319277910|spreads|Dallas Stars|-1.5": [
    0.3914,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "7bfae1a5166976e5ca05e92319277910|totals|Over|5.5": [
    0.4839,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "7bfae1a5166976e5ca05e92319277910|totals|Under|5.5": [
    0.5161,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "7da8a99a4ae4ef2ec08b3e4fa37c2485|h2h|Edmonton Oilers|None": [
    0.5466,
@@ -7074,35 +7218,35 @@
   ],
   "875368ed11228a45263f84f54223e264|h2h|Carolina Hurricanes|None": [
    0.7095,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|h2h|Winnipeg Jets|None": [
    0.2905,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|spreads|Carolina Hurricanes|-1.5": [
    0.4864,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|spreads|Winnipeg Jets|1.5": [
    0.5136,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.0": [
    0.5023,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.5": [
    0.4573,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.0": [
    0.4977,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.5": [
    0.5427,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "877d5834acad37b6142a835438c23001|h2h|Nebraska Cornhuskers|None": [
    0.7339,
@@ -7442,27 +7586,27 @@
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Anaheim Ducks|None": [
    0.491,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Ottawa Senators|None": [
    0.509,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Anaheim Ducks|1.5": [
    0.6756,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Ottawa Senators|-1.5": [
    0.3244,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Over|6.5": [
    0.5444,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Under|6.5": [
    0.4556,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a536736a6da269d2e10edbdb27a789bd|h2h|Florida Panthers|None": [
    0.6711,
@@ -7498,27 +7642,27 @@
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|h2h|Toronto Maple Leafs|None": [
    0.6363,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|h2h|Vancouver Canucks|None": [
    0.3637,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|spreads|Toronto Maple Leafs|-1.5": [
    0.4164,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|spreads|Vancouver Canucks|1.5": [
    0.5836,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|totals|Over|6.5": [
    0.5355,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|totals|Under|6.5": [
    0.4645,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "aa15904c0f5814a899ddbe002c96406a|h2h|California Golden Bears|None": [
    0.2722,
@@ -8058,27 +8202,27 @@
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|Edmonton Oilers|None": [
    0.4654,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|New York Rangers|None": [
    0.5346,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|Edmonton Oilers|1.5": [
    0.669,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|New York Rangers|-1.5": [
    0.331,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Over|6.5": [
    0.4945,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Under|6.5": [
    0.5055,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "dea96094c29a9f24d7dc07a5d848afd7|h2h|Michigan Wolverines|None": [
    0.8502,
@@ -8418,27 +8562,27 @@
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|h2h|Montr\u00e9al Canadiens|None": [
    0.5306,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|h2h|Pittsburgh Penguins|None": [
    0.4694,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|spreads|Montr\u00e9al Canadiens|-1.5": [
    0.3308,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|spreads|Pittsburgh Penguins|1.5": [
    0.6692,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|totals|Over|6.5": [
    0.5303,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|totals|Under|6.5": [
    0.4697,
-   1793488515.1302183
+   1793489420.3826966
   ],
   "fa9022be308ebe9ca39ecda8ea15bda4|h2h|East Carolina Pirates|None": [
    0.6247,
@@ -8497,7 +8641,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793488515.1302183,
+ "last_run": 1793489420.3826966,
  "last_vote": {
   "approved": true,
   "label": "Nevada Wolf Pack to win",
@@ -39257,72 +39401,6 @@
    }
   },
   {
-   "away": "Nevada Wolf Pack",
-   "bet": "Nevada Wolf Pack to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 15.0,
-   "ev": 0.34660652048686114,
-   "fair": 0.0897737680324574,
-   "game_id": "630ed6c8993fda8943e528a465e55518",
-   "home": "UCLA Bruins",
-   "id": "630ed6c8993fda8943e528a465e55518-h2h-Nevada Wolf Pack--1793394917",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Pack @ Bruins",
-   "odds": 1400,
-   "outcome": "Nevada Wolf Pack",
-   "placed": 1793394917.1937943,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1793477700.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  },
-  {
-   "away": "Minnesota Golden Gophers",
-   "bet": "Minnesota Golden Gophers to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 12.0,
-   "ev": 0.2302905424631838,
-   "fair": 0.10252421187193198,
-   "game_id": "1e591733bae48534963359a9cff13701",
-   "home": "Indiana Hoosiers",
-   "id": "1e591733bae48534963359a9cff13701-h2h-Minnesota Golden Gophers--1793394917",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Gophers @ Hoosiers",
-   "odds": 1100,
-   "outcome": "Minnesota Golden Gophers",
-   "placed": 1793394917.1937943,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1793475000.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  },
-  {
    "away": "New Mexico Lobos",
    "bet": "San Jose State Spartans to win",
    "book": "fanduel",
@@ -39353,39 +39431,6 @@
     "The Sharp": true,
     "The Shopper": true,
     "The Skeptic": false
-   }
-  },
-  {
-   "away": "Purdue Boilermakers",
-   "bet": "Purdue Boilermakers to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 4.3,
-   "ev": 0.056499696238192065,
-   "fair": 0.24569760377632377,
-   "game_id": "7fd2d018fdc5930fd62188de968a901c",
-   "home": "Penn State Nittany Lions",
-   "id": "7fd2d018fdc5930fd62188de968a901c-h2h-Purdue Boilermakers--1793395820",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Boilermakers @ Lions",
-   "odds": 330,
-   "outcome": "Purdue Boilermakers",
-   "placed": 1793395820.7889771,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1793477700.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": true,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
    }
   },
   {
@@ -39513,39 +39558,6 @@
    "url": null,
    "votes": {
     "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  },
-  {
-   "away": "Arizona State Sun Devils",
-   "bet": "Arizona State Sun Devils to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 7.142857142857142,
-   "ev": 0.039298760802073174,
-   "fair": 0.14550182651229027,
-   "game_id": "b0f68c9265402a825cbbf7954b726339",
-   "home": "BYU Cougars",
-   "id": "b0f68c9265402a825cbbf7954b726339-h2h-Arizona State Sun Devils--1793461515",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Devils @ Cougars",
-   "odds": 13,
-   "outcome": "Arizona State Sun Devils",
-   "placed": 1793461515.9461346,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1793475000.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxncaafgame/kxncaafgame-26oct30asubyu",
-   "votes": {
-    "Line Watcher": true,
     "The Clock": true,
     "The Insider": true,
     "The Sharp": true,
@@ -39688,10 +39700,10 @@
   }
  ],
  "record": {
-  "losses": 31,
-  "pl": 13.13,
+  "losses": 35,
+  "pl": 9.13,
   "pushes": 0,
-  "staked": 64.0,
+  "staked": 68.0,
   "wins": 10
  },
  "schedule": {
