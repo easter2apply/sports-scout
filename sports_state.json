@@ -1,84 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Arizona Cardinals to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.043333290254209844,
-   "fair": 0.26752135647543845,
-   "matchup": "Cardinals @ Cowboys",
-   "odds": 290,
-   "ok": true,
-   "sport": "americanfootball_nfl",
-   "start": 1793556000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 27.0h; odds 180 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +274 vs FanDuel 290: +4.3% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     true,
-     "edge holds vs the market average too"
-    ]
-   }
-  },
-  {
-   "bet": "Indianapolis Colts to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.03615520282186924,
-   "fair": 0.20723104056437386,
-   "matchup": "Colts @ Jaguars",
-   "odds": 400,
-   "ok": true,
-   "sport": "americanfootball_nfl",
-   "start": 1793556000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 27.0h; odds 180 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +383 vs FanDuel 400: +3.6% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -7482,7 +7403,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793458822.922524,
+ "last_run": 1793459715.324452,
  "last_vote": {
   "approved": true,
   "label": "Arizona Cardinals to win",
@@ -43785,7 +43706,7 @@
  },
  "schedule": {
   "americanfootball_ncaaf": 47,
-  "americanfootball_nfl": 8,
+  "americanfootball_nfl": 9,
   "basketball_nba": 7,
   "icehockey_nhl": 13
  }
