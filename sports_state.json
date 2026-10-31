@@ -2752,164 +2752,104 @@
    "games": [
     {
      "away": {
-      "name": "Arizona Wildcats",
-      "score": 26.0
-     },
-     "done": true,
-     "home": {
-      "name": "Texas Tech Red Raiders",
-      "score": 34.0
-     },
-     "id": "401856842"
-    },
-    {
-     "away": {
-      "name": "Michigan Wolverines",
-      "score": 28.0
-     },
-     "done": true,
-     "home": {
-      "name": "Rutgers Scarlet Knights",
-      "score": 21.0
-     },
-     "id": "401858507"
-    },
-    {
-     "away": {
-      "name": "Auburn Tigers",
-      "score": 15.0
-     },
-     "done": false,
-     "home": {
-      "name": "Ole Miss Rebels",
-      "score": 31.0
-     },
-     "id": "401856735"
-    },
-    {
-     "away": {
-      "name": "Marshall Thundering Herd",
-      "score": 30.0
-     },
-     "done": false,
-     "home": {
-      "name": "Old Dominion Monarchs",
-      "score": 17.0
-     },
-     "id": "401871096"
-    },
-    {
-     "away": {
-      "name": "Kansas State Wildcats",
-      "score": 7.0
-     },
-     "done": false,
-     "home": {
-      "name": "Colorado Buffaloes",
-      "score": 7.0
-     },
-     "id": "401856846"
-    },
-    {
-     "away": {
-      "name": "Coastal Carolina Chanticleers",
-      "score": 17.0
-     },
-     "done": false,
-     "home": {
-      "name": "Georgia State Panthers",
-      "score": 6.0
-     },
-     "id": "401869944"
-    },
-    {
-     "away": {
       "name": "UConn Huskies",
-      "score": 0.0
+      "score": 26.0
      },
      "done": false,
      "home": {
       "name": "Air Force Falcons",
-      "score": 14.0
+      "score": 28.0
      },
      "id": "401861966"
     },
     {
      "away": {
       "name": "Temple Owls",
-      "score": 0.0
+      "score": 6.0
      },
      "done": false,
      "home": {
       "name": "East Carolina Pirates",
-      "score": 7.0
+      "score": 17.0
      },
      "id": "401862815"
     },
     {
      "away": {
       "name": "Louisiana Tech Bulldogs",
-      "score": 7.0
+      "score": 35.0
      },
      "done": false,
      "home": {
       "name": "South Alabama Jaguars",
-      "score": 14.0
+      "score": 20.0
      },
      "id": "401871097"
     },
     {
      "away": {
       "name": "Stanford Cardinal",
-      "score": 0.0
+      "score": 24.0
      },
      "done": false,
      "home": {
       "name": "Louisville Cardinals",
-      "score": 7.0
+      "score": 31.0
      },
      "id": "401858283"
     },
     {
      "away": {
-      "name": "Minnesota Golden Gophers",
+      "name": "Florida Gators",
       "score": 0.0
      },
      "done": false,
      "home": {
+      "name": "Georgia Bulldogs",
+      "score": 24.0
+     },
+     "id": "401856734"
+    },
+    {
+     "away": {
+      "name": "Minnesota Golden Gophers",
+      "score": 10.0
+     },
+     "done": false,
+     "home": {
       "name": "Indiana Hoosiers",
-      "score": 0.0
+      "score": 7.0
      },
      "id": "401858501"
     },
     {
      "away": {
       "name": "Arizona State Sun Devils",
-      "score": 0.0
+      "score": 3.0
      },
      "done": false,
      "home": {
       "name": "BYU Cougars",
-      "score": 0.0
+      "score": 17.0
      },
      "id": "401856843"
     },
     {
      "away": {
       "name": "Northwestern Wildcats",
-      "score": 0.0
+      "score": 23.0
      },
      "done": false,
      "home": {
       "name": "Oregon Ducks",
-      "score": 0.0
+      "score": 20.0
      },
      "id": "401858505"
     },
     {
      "away": {
       "name": "Kansas Jayhawks",
-      "score": 0.0
+      "score": 13.0
      },
      "done": false,
      "home": {
@@ -2926,7 +2866,7 @@
      "done": false,
      "home": {
       "name": "Utah State Aggies",
-      "score": 7.0
+      "score": 24.0
      },
      "id": "401860910"
     },
@@ -2938,7 +2878,7 @@
      "done": false,
      "home": {
       "name": "North Dakota State Bison",
-      "score": 0.0
+      "score": 17.0
      },
      "id": "401864531"
     },
@@ -2950,21 +2890,93 @@
      "done": false,
      "home": {
       "name": "Liberty Flames",
-      "score": 7.0
+      "score": 42.0
      },
      "id": "401871059"
     },
     {
      "away": {
       "name": "Southern Miss Golden Eagles",
-      "score": 0.0
+      "score": 17.0
      },
      "done": false,
      "home": {
       "name": "UL Monroe Warhawks",
-      "score": 0.0
+      "score": 7.0
      },
      "id": "401871095"
+    },
+    {
+     "away": {
+      "name": "Utah Utes",
+      "score": 42.0
+     },
+     "done": false,
+     "home": {
+      "name": "Cincinnati Bearcats",
+      "score": 6.0
+     },
+     "id": "401856848"
+    },
+    {
+     "away": {
+      "name": "Virginia Cavaliers",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Wake Forest Demon Deacons",
+      "score": 23.0
+     },
+     "id": "401858284"
+    },
+    {
+     "away": {
+      "name": "New Mexico Lobos",
+      "score": 14.0
+     },
+     "done": false,
+     "home": {
+      "name": "San Jos\u00e9 State Spartans",
+      "score": 9.0
+     },
+     "id": "401864529"
+    },
+    {
+     "away": {
+      "name": "Nevada Wolf Pack",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "UCLA Bruins",
+      "score": 17.0
+     },
+     "id": "401858508"
+    },
+    {
+     "away": {
+      "name": "South Carolina Gamecocks",
+      "score": 21.0
+     },
+     "done": false,
+     "home": {
+      "name": "Oklahoma Sooners",
+      "score": 7.0
+     },
+     "id": "401856736"
+    },
+    {
+     "away": {
+      "name": "Purdue Boilermakers",
+      "score": 14.0
+     },
+     "done": false,
+     "home": {
+      "name": "Penn State Nittany Lions",
+      "score": 21.0
+     },
+     "id": "401858506"
     },
     {
      "away": {
@@ -2977,6 +2989,30 @@
       "score": 13.0
      },
      "id": "401859185"
+    },
+    {
+     "away": {
+      "name": "Auburn Tigers",
+      "score": 15.0
+     },
+     "done": true,
+     "home": {
+      "name": "Ole Miss Rebels",
+      "score": 45.0
+     },
+     "id": "401856735"
+    },
+    {
+     "away": {
+      "name": "Arizona Wildcats",
+      "score": 26.0
+     },
+     "done": true,
+     "home": {
+      "name": "Texas Tech Red Raiders",
+      "score": 34.0
+     },
+     "id": "401856842"
     },
     {
      "away": {
@@ -3064,87 +3100,51 @@
     },
     {
      "away": {
-      "name": "Florida Gators",
-      "score": 0.0
+      "name": "Michigan Wolverines",
+      "score": 28.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "Georgia Bulldogs",
-      "score": 0.0
+      "name": "Rutgers Scarlet Knights",
+      "score": 21.0
      },
-     "id": "401856734"
+     "id": "401858507"
     },
     {
      "away": {
-      "name": "Utah Utes",
-      "score": 0.0
+      "name": "Marshall Thundering Herd",
+      "score": 36.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "Cincinnati Bearcats",
-      "score": 0.0
+      "name": "Old Dominion Monarchs",
+      "score": 23.0
      },
-     "id": "401856848"
+     "id": "401871096"
     },
     {
      "away": {
-      "name": "Virginia Cavaliers",
-      "score": 0.0
+      "name": "Kansas State Wildcats",
+      "score": 24.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "Wake Forest Demon Deacons",
-      "score": 0.0
+      "name": "Colorado Buffaloes",
+      "score": 27.0
      },
-     "id": "401858284"
+     "id": "401856846"
     },
     {
      "away": {
-      "name": "New Mexico Lobos",
-      "score": 0.0
+      "name": "Coastal Carolina Chanticleers",
+      "score": 31.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "San Jos\u00e9 State Spartans",
-      "score": 0.0
+      "name": "Georgia State Panthers",
+      "score": 20.0
      },
-     "id": "401864529"
-    },
-    {
-     "away": {
-      "name": "Nevada Wolf Pack",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "UCLA Bruins",
-      "score": 0.0
-     },
-     "id": "401858508"
-    },
-    {
-     "away": {
-      "name": "South Carolina Gamecocks",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Oklahoma Sooners",
-      "score": 0.0
-     },
-     "id": "401856736"
-    },
-    {
-     "away": {
-      "name": "Purdue Boilermakers",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Penn State Nittany Lions",
-      "score": 0.0
-     },
-     "id": "401858506"
+     "id": "401869944"
     },
     {
      "away": {
@@ -3315,7 +3315,7 @@
      "id": "401860924"
     }
    ],
-   "t": 1793475917.3236148
+   "t": 1793483117.4803975
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -5754,43 +5754,43 @@
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Minnesota Wild|None": [
    0.5023,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Washington Capitals|None": [
    0.4977,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|-1.5": [
    0.2928,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|1.5": [
    0.6968,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|-1.5": [
    0.3032,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|1.5": [
    0.7072,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.0": [
    0.5068,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.5": [
    0.4568,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.0": [
    0.4932,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.5": [
    0.5432,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "159dbf0253dd2038eda2212f84387f0c|h2h|Indianapolis Colts|None": [
    0.2072,
@@ -6050,27 +6050,27 @@
   ],
   "394955492df212637701f4f21464f05f|h2h|Calgary Flames|None": [
    0.2113,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "394955492df212637701f4f21464f05f|h2h|Colorado Avalanche|None": [
    0.7887,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "394955492df212637701f4f21464f05f|spreads|Calgary Flames|1.5": [
    0.4013,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "394955492df212637701f4f21464f05f|spreads|Colorado Avalanche|-1.5": [
    0.5987,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "394955492df212637701f4f21464f05f|totals|Over|6.5": [
    0.5092,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "394955492df212637701f4f21464f05f|totals|Under|6.5": [
    0.4908,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "3ec4c9abb60e5bf086a0460336248b16|h2h|Buffalo Sabres|None": [
    0.5334,
@@ -6282,27 +6282,27 @@
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Philadelphia Flyers|None": [
    0.413,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Utah Mammoth|None": [
    0.587,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Philadelphia Flyers|1.5": [
    0.6345,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Utah Mammoth|-1.5": [
    0.3655,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Over|6.0": [
    0.4932,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Under|6.0": [
    0.5068,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|h2h|Detroit Lions|None": [
    0.6243,
@@ -6786,27 +6786,27 @@
   ],
   "7bfae1a5166976e5ca05e92319277910|h2h|Columbus Blue Jackets|None": [
    0.378,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "7bfae1a5166976e5ca05e92319277910|h2h|Dallas Stars|None": [
    0.622,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "7bfae1a5166976e5ca05e92319277910|spreads|Columbus Blue Jackets|1.5": [
    0.6086,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "7bfae1a5166976e5ca05e92319277910|spreads|Dallas Stars|-1.5": [
    0.3914,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "7bfae1a5166976e5ca05e92319277910|totals|Over|5.5": [
    0.4839,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "7bfae1a5166976e5ca05e92319277910|totals|Under|5.5": [
    0.5161,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "7da8a99a4ae4ef2ec08b3e4fa37c2485|h2h|Edmonton Oilers|None": [
    0.5466,
@@ -7034,35 +7034,35 @@
   ],
   "875368ed11228a45263f84f54223e264|h2h|Carolina Hurricanes|None": [
    0.7095,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|h2h|Winnipeg Jets|None": [
    0.2905,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|spreads|Carolina Hurricanes|-1.5": [
    0.4864,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|spreads|Winnipeg Jets|1.5": [
    0.5136,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.0": [
    0.5023,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.5": [
    0.4573,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.0": [
    0.4977,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.5": [
    0.5427,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "877d5834acad37b6142a835438c23001|h2h|Nebraska Cornhuskers|None": [
    0.7339,
@@ -7418,27 +7418,27 @@
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Anaheim Ducks|None": [
    0.491,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Ottawa Senators|None": [
    0.509,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Anaheim Ducks|1.5": [
    0.6756,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Ottawa Senators|-1.5": [
    0.3244,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Over|6.5": [
    0.5444,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Under|6.5": [
    0.4556,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a536736a6da269d2e10edbdb27a789bd|h2h|Florida Panthers|None": [
    0.6711,
@@ -7474,27 +7474,27 @@
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|h2h|Toronto Maple Leafs|None": [
    0.6363,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|h2h|Vancouver Canucks|None": [
    0.3637,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|spreads|Toronto Maple Leafs|-1.5": [
    0.4164,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|spreads|Vancouver Canucks|1.5": [
    0.5836,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|totals|Over|6.5": [
    0.5355,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "a9b3c158b86d367eaa9dd342fbb440b3|totals|Under|6.5": [
    0.4645,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "aa15904c0f5814a899ddbe002c96406a|h2h|California Golden Bears|None": [
    0.2722,
@@ -8066,27 +8066,27 @@
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|Edmonton Oilers|None": [
    0.4654,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|New York Rangers|None": [
    0.5346,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|Edmonton Oilers|1.5": [
    0.669,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|New York Rangers|-1.5": [
    0.331,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Over|6.5": [
    0.4945,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Under|6.5": [
    0.5055,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "dea96094c29a9f24d7dc07a5d848afd7|h2h|Michigan Wolverines|None": [
    0.8502,
@@ -8426,27 +8426,27 @@
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|h2h|Montr\u00e9al Canadiens|None": [
    0.5306,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|h2h|Pittsburgh Penguins|None": [
    0.4694,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|spreads|Montr\u00e9al Canadiens|-1.5": [
    0.3308,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|spreads|Pittsburgh Penguins|1.5": [
    0.6692,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|totals|Over|6.5": [
    0.5303,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "fa8413d05f6c8b2d8f68cc0d17551fa9|totals|Under|6.5": [
    0.4697,
-   1793482219.1783879
+   1793483116.5864134
   ],
   "fa9022be308ebe9ca39ecda8ea15bda4|h2h|East Carolina Pirates|None": [
    0.6247,
@@ -8505,7 +8505,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793482219.1783879,
+ "last_run": 1793483116.5864134,
  "last_vote": {
   "approved": true,
   "label": "Nevada Wolf Pack to win",
@@ -9157,11 +9157,19 @@
   "icehockey_nhl": {
    "items": [
     {
+     "t": 1793481772.0,
+     "text": "Stamkos scores in regulation and only goal in shootout to lead Predators over Lightning 5-4 \u2014 Steven Stamkos scored the tying goal in regulation and the only goal of the shootout to lead the Nashville Predators to a 5-4 victory over the Tampa Bay Lightning on Saturday."
+    },
+    {
+     "t": 1793480471.0,
+     "text": "Tampa Bay Lightning vs. Nashville Predators: Game Highlights Tampa Bay Lightning vs. Nashville Predators: Game Highlights"
+    },
+    {
      "t": 1793479521.0,
      "text": "Edmonton Oilers vs. New York Islanders: Game Highlights Edmonton Oilers vs. New York Islanders: Game Highlights"
     },
     {
-     "t": 1793479367.0,
+     "t": 1793480388.0,
      "text": "Connor McDavid extends his assist streak to 14 games as the Oilers beat the Islanders 4-0 \u2014 Connor McDavid extended his NHL-record season-opening assist streak to 14 games by setting up Ryan Nugent-Hopkins' second goal, and the Edmonton Oilers opened their road trip by beating the New York Islanders 4-0 on Saturday."
     },
     {
@@ -9181,7 +9189,7 @@
      "text": "St. Louis Blues vs. Detroit Red Wings: Game Highlights St. Louis Blues vs. Detroit Red Wings: Game Highlights"
     },
     {
-     "t": 1793475595.0,
+     "t": 1793480836.0,
      "text": "Islanders' Emil Heineman ejected for hit that injured Oilers' Isaac Howard Islanders forward Emil Heineman was ejected early in Saturday's game against the Oilers for a knee-on-knee hit that injured Edmonton wing Isaac Howard."
     },
     {
@@ -9347,17 +9355,9 @@
     {
      "t": 1793329413.0,
      "text": "New York Islanders vs. Minnesota Wild: Game Highlights New York Islanders vs. Minnesota Wild: Game Highlights"
-    },
-    {
-     "t": 1793329247.0,
-     "text": "Cole Hutson scores twice as the Capitals beat the Predators 4-3 \u2014 Cole Hutson scored twice to lead the Washington Capitals to a 4-3 victory over the Nashville Predators on Thursday night."
-    },
-    {
-     "t": 1793328947.0,
-     "text": "Schaefer scores his 2nd goal of the game in OT to lift Islanders past Wild, 4-3 \u2014 Matthew Schaefer scored his second goal of the game on a wrist shot at 33 seconds of overtime to give the New York Islanders a 4-3 victory over the Minnesota Wild on Thursday night."
     }
    ],
-   "t": 1793480432.1065197
+   "t": 1793483118.5640132
   }
  },
  "odds": {
@@ -39771,7 +39771,7 @@
  "schedule": {
   "americanfootball_ncaaf": 14,
   "americanfootball_nfl": 12,
-  "basketball_nba": 6,
+  "basketball_nba": 5,
   "icehockey_nhl": 9
  }
 }
