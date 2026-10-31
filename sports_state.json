@@ -1292,6 +1292,42 @@
     "The Shopper": true,
     "The Skeptic": true
    }
+  },
+  {
+   "away": "Seattle Kraken",
+   "bet": "Calgary Flames to win",
+   "book": "kalshi",
+   "book_name": "Kalshi",
+   "dec": 2.127659574468085,
+   "ev": 0.03944232707095874,
+   "fair": 0.4885378937233506,
+   "game_id": "026d37181dd4ace0df7565d9b208ce7e",
+   "graded": 1793415628.0219715,
+   "home": "Calgary Flames",
+   "id": "026d37181dd4ace0df7565d9b208ce7e-h2h-Calgary Flames--1793332825",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Kraken @ Flames",
+   "odds": 45,
+   "outcome": "Calgary Flames",
+   "pl": 1.15,
+   "placed": 1793332825.1667686,
+   "player": null,
+   "point": null,
+   "result": "win",
+   "sport": "icehockey_nhl",
+   "stake": 1.02,
+   "start": 1793405400.0,
+   "type": "straight",
+   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26nov04cgysea",
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -4594,7 +4630,7 @@
       "name": "Seattle Kraken",
       "score": 2.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Calgary Flames",
       "score": 6.0
@@ -4602,7 +4638,7 @@
      "id": "401892613"
     }
    ],
-   "t": 1793414715.328802
+   "t": 1793415628.1509356
   }
  },
  "fair_hist": {
@@ -4752,19 +4788,19 @@
   ],
   "06a03fb0ce0f81a970c6000fb71fdc6d|h2h|Minnesota Timberwolves|None": [
    0.1902,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "06a03fb0ce0f81a970c6000fb71fdc6d|h2h|San Antonio Spurs|None": [
    0.8098,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "06a03fb0ce0f81a970c6000fb71fdc6d|spreads|Minnesota Timberwolves|11.5": [
    0.4892,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "06a03fb0ce0f81a970c6000fb71fdc6d|spreads|San Antonio Spurs|-11.5": [
    0.5108,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "07da1e37f1e37363a71d35f2298f01d9|h2h|Illinois Fighting Illini|None": [
    0.5457,
@@ -5512,27 +5548,27 @@
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|h2h|Cleveland Cavaliers|None": [
    0.7477,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|h2h|Milwaukee Bucks|None": [
    0.2523,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|spreads|Cleveland Cavaliers|-8.5": [
    0.5097,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|spreads|Milwaukee Bucks|8.5": [
    0.4903,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|totals|Over|236.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|totals|Under|236.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "746742d4bb94424d9e63d00701eef4ec|h2h|Southern Mississippi Golden Eagles|None": [
    0.6076,
@@ -5608,19 +5644,19 @@
   ],
   "77270837bc694d198c10f42937690d75|h2h|Atlanta Hawks|None": [
    0.5926,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "77270837bc694d198c10f42937690d75|h2h|New Orleans Pelicans|None": [
    0.4074,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "77270837bc694d198c10f42937690d75|spreads|Atlanta Hawks|-3.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "77270837bc694d198c10f42937690d75|spreads|New Orleans Pelicans|3.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "78b3d38cdfa28649fdd2ca92829569ce|h2h|Charlotte 49ers|None": [
    0.2563,
@@ -5848,27 +5884,27 @@
   ],
   "863ae1092be42c6b563b2c4f099a3eb3|h2h|Memphis Grizzlies|None": [
    0.7826,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "863ae1092be42c6b563b2c4f099a3eb3|h2h|Sacramento Kings|None": [
    0.2174,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "863ae1092be42c6b563b2c4f099a3eb3|spreads|Memphis Grizzlies|-10.5": [
    0.5108,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "863ae1092be42c6b563b2c4f099a3eb3|spreads|Sacramento Kings|10.5": [
    0.4892,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "863ae1092be42c6b563b2c4f099a3eb3|totals|Over|234.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "863ae1092be42c6b563b2c4f099a3eb3|totals|Under|234.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "877d5834acad37b6142a835438c23001|h2h|Nebraska Cornhuskers|None": [
    0.7189,
@@ -6752,27 +6788,27 @@
   ],
   "d47417c3b1a2cd427cce74c9d00f1046|h2h|Portland Trail Blazers|None": [
    0.6644,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "d47417c3b1a2cd427cce74c9d00f1046|h2h|Utah Jazz|None": [
    0.3356,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "d47417c3b1a2cd427cce74c9d00f1046|spreads|Portland Trail Blazers|-6.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "d47417c3b1a2cd427cce74c9d00f1046|spreads|Utah Jazz|6.5": [
    0.5,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "d47417c3b1a2cd427cce74c9d00f1046|totals|Over|232.5": [
    0.5108,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "d47417c3b1a2cd427cce74c9d00f1046|totals|Under|232.5": [
    0.4892,
-   1793414714.6475198
+   1793415626.7717206
   ],
   "dea96094c29a9f24d7dc07a5d848afd7|h2h|Michigan Wolverines|None": [
    0.8424,
@@ -7159,7 +7195,7 @@
    1793405716.7133737
   ]
  },
- "last_run": 1793414714.6475198,
+ "last_run": 1793415626.7717206,
  "last_vote": {
   "approved": true,
   "label": "Nevada Wolf Pack to win",
@@ -7606,12 +7642,60 @@
   "basketball_nba": {
    "items": [
     {
+     "t": 1793415524.0,
+     "text": "Houston Rockets vs. Dallas Mavericks: Game Highlights Houston Rockets vs. Dallas Mavericks: Game Highlights"
+    },
+    {
+     "t": 1793415298.0,
+     "text": "Indiana Pacers vs. Miami Heat: Game Highlights Indiana Pacers vs. Miami Heat: Game Highlights"
+    },
+    {
+     "t": 1793414627.0,
+     "text": "Giannis has triple-double, Heat open NBA Cup play with 145-125 win over Pacers \u2014 Giannis Antetokounmpo scored 31 points and had his second triple-double of the season, Bam Adebayo added 27 points and the Miami Heat opened NBA Cup play by beating the short-handed Indiana Pacers 145-125 on Friday night."
+    },
+    {
+     "t": 1793414674.0,
+     "text": "LA Clippers vs. Minnesota Timberwolves: Game Highlights LA Clippers vs. Minnesota Timberwolves: Game Highlights"
+    },
+    {
+     "t": 1793415215.0,
+     "text": "2026 NBA Cup: Schedule, format, groups, updates and more Here's everything you need to know about the fourth annual in-season tournament."
+    },
+    {
+     "t": 1793413667.0,
+     "text": "Pritchard nets 30, Celtics ease past turnover-prone Bulls 125-111 in NBA Cup action \u2014 Payton Pritchard scored 30 points, and the Boston Celtics raced past the Chicago Bulls 125-111 on Friday night in the NBA Cup opener for both teams."
+    },
+    {
+     "t": 1793413508.0,
+     "text": "Chicago Bulls vs. Boston Celtics: Game Highlights Chicago Bulls vs. Boston Celtics: Game Highlights"
+    },
+    {
+     "t": 1793413427.0,
+     "text": "Bane scores 28 points, Wagner adds 26 points and 11 assists as Magic beat Raptors 121-114 \u2014 Desmond Bane scored a season-best 28 points, Franz Wagner set season highs with 26 points and 11 assists, and the Orlando Magic overcame Scottie Barnes\u2019 first 40-point game to beat the Toronto Raptors 121-114 in NBA Cup play Friday night."
+    },
+    {
+     "t": 1793413567.0,
+     "text": "Maxey, LeBron propel 76ers over Knicks in NBA Cup thriller Maxey, LeBron propel 76ers over Knicks in NBA Cup thriller"
+    },
+    {
+     "t": 1793413522.0,
+     "text": "Orlando Magic vs. Toronto Raptors: Game Highlights Orlando Magic vs. Toronto Raptors: Game Highlights"
+    },
+    {
+     "t": 1793412948.0,
+     "text": "LeBron James scores 20 points to help 76ers beat champion Knicks for 2nd time this season, 98-93 \u2014 LeBron James scored 20 points and hit the go-ahead fadeaway late, and Tyrese Maxey had 27 points to lead the Philadelphia 76ers to a 98-93 win over the New York Knicks in an NBA Cup group game on Friday night."
+    },
+    {
      "t": 1793412706.0,
      "text": "Pistons rout the winless Nets 110-94 in an NBA Cup opener \u2014 Cade Cunningham scored 20 points, Duncan Robinson added 17 and the Detroit Pistons routed the Brooklyn Nets 110-94 on Friday night in an NBA Cup opener."
     },
     {
-     "t": 1793412672.0,
-     "text": "2026 NBA Cup: Schedule, format, groups, updates and more Here's everything you need to know about the fourth annual in-season tournament."
+     "t": 1793414694.0,
+     "text": "Detroit Pistons vs. Brooklyn Nets: Game Highlights Detroit Pistons vs. Brooklyn Nets: Game Highlights"
+    },
+    {
+     "t": 1793414856.0,
+     "text": "Charlotte Hornets vs. Washington Wizards: Game Highlights Charlotte Hornets vs. Washington Wizards: Game Highlights"
     },
     {
      "t": 1793410847.0,
@@ -7626,8 +7710,8 @@
      "text": "Halloween 2026: Breaking down top athlete costumes from across the sports world Athletes far and wide across the sports world showed off special costumes for Halloween."
     },
     {
-     "t": 1793402904.0,
-     "text": "Philadelphia 76ers star Brown to miss Friday NBA Cup game vs. New York Knicks Philadelphia 76ers veteran forward Jaylen Brown will be out of Friday's NBA Cup game against the New York Knicks with a left knee patella injury, the team announced."
+     "t": 1793414887.0,
+     "text": "Without injured Brown, 76ers outlast Knicks in NBA Cup Group Play Philadelphia forward Jaylen Brown missed Friday night's NBA Cup game against the New York Knicks because of a left patella injury, the 76ers announced shortly before their 98-93 victory at the Xfinity Mobile Arena."
     },
     {
      "t": 1793400886.0,
@@ -7756,57 +7840,9 @@
     {
      "t": 1793253774.0,
      "text": "Celtics and Bulls meet Friday in NBA Cup group stage Chicago Bulls (1-4, 12th in the Eastern Conference) vs. Boston Celtics (3-1, fourth in the Eastern Conference)"
-    },
-    {
-     "t": 1793253773.0,
-     "text": "Suns and Nuggets meet Friday in NBA Cup group stage Denver Nuggets (2-2, ninth in the Western Conference) vs. Phoenix Suns (1-2, 11th in the Western Conference)"
-    },
-    {
-     "t": 1793253772.0,
-     "text": "Hawks face the Cavaliers on 3-game skid Cleveland Cavaliers (3-1, fifth in the Eastern Conference) vs. Atlanta Hawks (2-3, seventh in the Eastern Conference)"
-    },
-    {
-     "t": 1793253771.0,
-     "text": "Mavericks and Rockets meet Friday in NBA Cup group stage Houston Rockets (5-0, first in the Western Conference) vs. Dallas Mavericks (3-2, seventh in the Western Conference)"
-    },
-    {
-     "t": 1793253769.0,
-     "text": "Magic visit Raptors Friday in NBA Cup group stage Orlando Magic (1-3, 11th in the Eastern Conference) vs. Toronto Raptors (3-1, third in the Eastern Conference)"
-    },
-    {
-     "t": 1793253768.0,
-     "text": "Nets and Pistons meet Friday in NBA Cup group stage Detroit Pistons (4-1, first in the Eastern Conference) vs. Brooklyn Nets (0-4, 15th in the Eastern Conference)"
-    },
-    {
-     "t": 1793253767.0,
-     "text": "76ers and Knicks meet Friday in NBA Cup group stage New York Knicks (2-3, eighth in the Eastern Conference) vs. Philadelphia 76ers (3-1, second in the Eastern Conference)"
-    },
-    {
-     "t": 1793253766.0,
-     "text": "New Orleans takes on Sacramento, seeks to stop 4-game skid Sacramento Kings (0-4, 15th in the Western Conference) vs. New Orleans Pelicans (0-4, 14th in the Western Conference)"
-    },
-    {
-     "t": 1793260117.0,
-     "text": "Stephen Curry torches Wolves for 44 as Warriors win 2nd straight after 0-3 start Stephen Curry exploded for 44 points to lead the Warriors to their second straight win Wednesday night in a 119-114 victory over the Timberwolves."
-    },
-    {
-     "t": 1793251009.0,
-     "text": "Los Angeles Lakers vs. LA Clippers: Game Highlights Los Angeles Lakers vs. LA Clippers: Game Highlights"
-    },
-    {
-     "t": 1793251007.0,
-     "text": "Lakers rout Clippers 103-87 without Luka Doncic \u2014 Quentin Grimes scored 23 points, Collin Sexton added a season-high 21 points off the bench, and the Los Angeles Lakers \u2014 without Luka Doncic \u2014 beat the Los Angeles Clippers 103-87 on Wednesday night for the second time in a week."
-    },
-    {
-     "t": 1793247700.0,
-     "text": "Mavericks hand the Thunder their first loss of the season Mavericks hand the Thunder their first loss of the season"
-    },
-    {
-     "t": 1793249266.0,
-     "text": "Cooper Flagg has 26 points, 8 assists as Mavericks beat depleted Thunder 120-96 \u2014 Cooper Flagg had 26 points and eight assists and P.J. Washington scored 18 points as the Dallas Mavericks beat the injury-depleted Oklahoma City Thunder 120-96 on Wednesday night."
     }
    ],
-   "t": 1793412918.4011097
+   "t": 1793415628.9400911
   },
   "icehockey_nhl": {
    "items": [
@@ -39433,39 +39469,6 @@
  },
  "open": [
   {
-   "away": "Seattle Kraken",
-   "bet": "Calgary Flames to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "dec": 2.127659574468085,
-   "ev": 0.03944232707095874,
-   "fair": 0.4885378937233506,
-   "game_id": "026d37181dd4ace0df7565d9b208ce7e",
-   "home": "Calgary Flames",
-   "id": "026d37181dd4ace0df7565d9b208ce7e-h2h-Calgary Flames--1793332825",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Kraken @ Flames",
-   "odds": 45,
-   "outcome": "Calgary Flames",
-   "placed": 1793332825.1667686,
-   "player": null,
-   "point": null,
-   "sport": "icehockey_nhl",
-   "stake": 1.02,
-   "start": 1793405400.0,
-   "type": "straight",
-   "url": "https://kalshi.com/markets/kxnhlgame/kxnhlgame-26nov04cgysea",
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  },
-  {
    "away": "Michigan Wolverines",
    "bet": "Rutgers Scarlet Knights to win",
    "book": "fanduel",
@@ -39901,14 +39904,19 @@
    "detail": "+$9.00",
    "t": 1793331019.745684,
    "title": "Troy Trojans to win"
+  },
+  {
+   "detail": "+$1.15",
+   "t": 1793415628.0219715,
+   "title": "Calgary Flames to win"
   }
  ],
  "record": {
   "losses": 26,
-  "pl": 14.82,
+  "pl": 15.97,
   "pushes": 0,
-  "staked": 55.73,
-  "wins": 8
+  "staked": 56.75,
+  "wins": 9
  },
  "schedule": {
   "americanfootball_ncaaf": 47,
