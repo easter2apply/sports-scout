@@ -1,45 +1,5 @@
 {
- "board": [
-  {
-   "bet": "Indianapolis Colts to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "ev": 0.05233470044288513,
-   "fair": 0.2063401373417422,
-   "matchup": "Colts @ Jaguars",
-   "odds": 410,
-   "ok": true,
-   "sport": "americanfootball_nfl",
-   "start": 1793556000.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved +0.0% since last check"
-    ],
-    "The Clock": [
-     false,
-     "starts in 11.7h; odds 165 min old (stale: prices may have moved)"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair +385 vs FanDuel 410: +5.2% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     false,
-     "too much of a longshot/favorite"
-    ]
-   }
-  }
- ],
+ "board": [],
  "closed": [
   {
    "away": "Colorado Avalanche",
@@ -3117,7 +3077,7 @@
     {
      "away": {
       "name": "Oregon State Beavers",
-      "score": 16.0
+      "score": 22.0
      },
      "done": false,
      "home": {
@@ -3679,7 +3639,7 @@
      "id": "401864530"
     }
    ],
-   "t": 1793513719.6548555
+   "t": 1793514622.1944616
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -6215,43 +6175,43 @@
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Minnesota Wild|None": [
    0.4977,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Washington Capitals|None": [
    0.5023,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|-1.5": [
    0.2914,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|1.5": [
    0.7074,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|-1.5": [
    0.2926,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|1.5": [
    0.7086,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.0": [
    0.5136,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.5": [
    0.4573,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.0": [
    0.4864,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.5": [
    0.5427,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "159dbf0253dd2038eda2212f84387f0c|h2h|Indianapolis Colts|None": [
    0.2063,
@@ -6727,27 +6687,27 @@
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Philadelphia Flyers|None": [
    0.4059,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Utah Mammoth|None": [
    0.5941,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Philadelphia Flyers|1.5": [
    0.6288,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Utah Mammoth|-1.5": [
    0.3712,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Over|6.0": [
    0.4977,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Under|6.0": [
    0.5023,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|h2h|Detroit Lions|None": [
    0.6211,
@@ -7407,35 +7367,35 @@
   ],
   "875368ed11228a45263f84f54223e264|h2h|Carolina Hurricanes|None": [
    0.7145,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|h2h|Winnipeg Jets|None": [
    0.2855,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|spreads|Carolina Hurricanes|-1.5": [
    0.4932,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|spreads|Winnipeg Jets|1.5": [
    0.5068,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.0": [
    0.5023,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.5": [
    0.4556,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.0": [
    0.4977,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.5": [
    0.5444,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "877d5834acad37b6142a835438c23001|h2h|Nebraska Cornhuskers|None": [
    0.7339,
@@ -7695,27 +7655,27 @@
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Anaheim Ducks|None": [
    0.4784,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Ottawa Senators|None": [
    0.5216,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Anaheim Ducks|1.5": [
    0.6807,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Ottawa Senators|-1.5": [
    0.3193,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Over|6.5": [
    0.5454,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Under|6.5": [
    0.4546,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "a536736a6da269d2e10edbdb27a789bd|h2h|Florida Panthers|None": [
    0.6711,
@@ -8271,27 +8231,27 @@
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|Edmonton Oilers|None": [
    0.4583,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|New York Rangers|None": [
    0.5417,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|Edmonton Oilers|1.5": [
    0.6675,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|New York Rangers|-1.5": [
    0.3325,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Over|6.5": [
    0.5113,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Under|6.5": [
    0.4887,
-   1793513719.0030344
+   1793514621.2083597
   ],
   "dea96094c29a9f24d7dc07a5d848afd7|h2h|Michigan Wolverines|None": [
    0.8502,
@@ -8790,7 +8750,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793513719.0030344,
+ "last_run": 1793514621.2083597,
  "last_vote": {
   "approved": true,
   "label": "Indianapolis Colts to win",
