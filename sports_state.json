@@ -3675,7 +3675,7 @@
      "id": "401860924"
     }
    ],
-   "t": 1793567717.6144738
+   "t": 1793568623.613679
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -3982,7 +3982,7 @@
       "name": "Baltimore Ravens",
       "score": 10.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Buffalo Bills",
       "score": 36.0
@@ -3997,14 +3997,14 @@
      "done": false,
      "home": {
       "name": "Cincinnati Bengals",
-      "score": 29.0
+      "score": 36.0
      },
      "id": "401873031"
     },
     {
      "away": {
       "name": "Arizona Cardinals",
-      "score": 24.0
+      "score": 30.0
      },
      "done": false,
      "home": {
@@ -4012,6 +4012,18 @@
       "score": 30.0
      },
      "id": "401873024"
+    },
+    {
+     "away": {
+      "name": "Los Angeles Chargers",
+      "score": 0.0
+     },
+     "done": false,
+     "home": {
+      "name": "Los Angeles Rams",
+      "score": 0.0
+     },
+     "id": "401873032"
     },
     {
      "away": {
@@ -4027,30 +4039,6 @@
     },
     {
      "away": {
-      "name": "Cleveland Browns",
-      "score": 6.0
-     },
-     "done": true,
-     "home": {
-      "name": "Pittsburgh Steelers",
-      "score": 27.0
-     },
-     "id": "401873027"
-    },
-    {
-     "away": {
-      "name": "Indianapolis Colts",
-      "score": 7.0
-     },
-     "done": true,
-     "home": {
-      "name": "Jacksonville Jaguars",
-      "score": 42.0
-     },
-     "id": "401873028"
-    },
-    {
-     "away": {
       "name": "Las Vegas Raiders",
       "score": 38.0
      },
@@ -4060,6 +4048,18 @@
       "score": 33.0
      },
      "id": "401873029"
+    },
+    {
+     "away": {
+      "name": "Cleveland Browns",
+      "score": 6.0
+     },
+     "done": true,
+     "home": {
+      "name": "Pittsburgh Steelers",
+      "score": 27.0
+     },
+     "id": "401873027"
     },
     {
      "away": {
@@ -4075,15 +4075,15 @@
     },
     {
      "away": {
-      "name": "Los Angeles Chargers",
-      "score": 0.0
+      "name": "Indianapolis Colts",
+      "score": 7.0
      },
-     "done": false,
+     "done": true,
      "home": {
-      "name": "Los Angeles Rams",
-      "score": 0.0
+      "name": "Jacksonville Jaguars",
+      "score": 42.0
      },
-     "id": "401873032"
+     "id": "401873028"
     },
     {
      "away": {
@@ -4122,7 +4122,7 @@
      "id": "401873035"
     }
    ],
-   "t": 1793567717.780636
+   "t": 1793568623.650009
   },
   "basketball_nba|2026-10-21": {
    "games": [
@@ -6150,10 +6150,6 @@
    0.5,
    1793450714.614181
   ],
-  "067d97a124c10ea2d206546384500c5e|totals|Over|216.5": [
-   0.5,
-   1793439020.115066
-  ],
   "067d97a124c10ea2d206546384500c5e|totals|Under|213.5": [
    0.5045,
    1793480425.1997566
@@ -6161,10 +6157,6 @@
   "067d97a124c10ea2d206546384500c5e|totals|Under|215.5": [
    0.5,
    1793450714.614181
-  ],
-  "067d97a124c10ea2d206546384500c5e|totals|Under|216.5": [
-   0.5,
-   1793439020.115066
   ],
   "06a03fb0ce0f81a970c6000fb71fdc6d|h2h|Minnesota Timberwolves|None": [
    0.1801,
@@ -6990,17 +6982,9 @@
    0.2361,
    1793480425.1997566
   ],
-  "6d7e1e0af6d568f4435d35a1763a3622|spreads|Cleveland Cavaliers|-9.0": [
-   0.4931,
-   1793439020.115066
-  ],
   "6d7e1e0af6d568f4435d35a1763a3622|spreads|Cleveland Cavaliers|-9.5": [
    0.5,
    1793480425.1997566
-  ],
-  "6d7e1e0af6d568f4435d35a1763a3622|spreads|Milwaukee Bucks|9.0": [
-   0.5069,
-   1793439020.115066
   ],
   "6d7e1e0af6d568f4435d35a1763a3622|spreads|Milwaukee Bucks|9.5": [
    0.5,
@@ -7942,10 +7926,6 @@
    0.5,
    1793450714.614181
   ],
-  "c30d3bdf126e98ced5b9389db8617926|spreads|Houston Rockets|-4.5": [
-   0.5,
-   1793439020.115066
-  ],
   "c30d3bdf126e98ced5b9389db8617926|spreads|Oklahoma City Thunder|2.5": [
    0.493,
    1793480425.1997566
@@ -7953,10 +7933,6 @@
   "c30d3bdf126e98ced5b9389db8617926|spreads|Oklahoma City Thunder|3.5": [
    0.5,
    1793450714.614181
-  ],
-  "c30d3bdf126e98ced5b9389db8617926|spreads|Oklahoma City Thunder|4.5": [
-   0.5,
-   1793439020.115066
   ],
   "c30d3bdf126e98ced5b9389db8617926|totals|Over|218.5": [
    0.5023,
@@ -8615,7 +8591,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793567716.483924,
+ "last_run": 1793568622.8068163,
  "last_vote": {
   "approved": true,
   "label": "Indianapolis Colts to win",
