@@ -1,45 +1,6 @@
 {
  "board": [
   {
-   "bet": "Los Angeles Lakers to win",
-   "book": "kalshi",
-   "book_name": "Kalshi",
-   "ev": 0.43520242421129685,
-   "fair": 0.6314890666529706,
-   "matchup": "Raptors @ Lakers",
-   "odds": 42,
-   "ok": true,
-   "sport": "basketball_nba",
-   "start": 1793585400.0,
-   "type": "straight",
-   "votes": {
-    "Line Watcher": [
-     true,
-     "fair chance moved -0.0% since last check"
-    ],
-    "The Clock": [
-     true,
-     "starts in 23.2h; odds 0 min old"
-    ],
-    "The Insider": [
-     true,
-     "no fresh injury news on our side"
-    ],
-    "The Sharp": [
-     true,
-     "fair -171 vs Kalshi 42\u00a2: +43.5% value"
-    ],
-    "The Shopper": [
-     true,
-     "9 books priced it; ours is the best price"
-    ],
-    "The Skeptic": [
-     true,
-     "edge holds vs the market average too"
-    ]
-   }
-  },
-  {
    "bet": "Indianapolis Colts to win",
    "book": "fanduel",
    "book_name": "FanDuel",
@@ -58,7 +19,7 @@
     ],
     "The Clock": [
      true,
-     "starts in 15.0h; odds 0 min old"
+     "starts in 14.7h; odds 15 min old"
     ],
     "The Insider": [
      true,
@@ -3155,63 +3116,15 @@
    "games": [
     {
      "away": {
-      "name": "Oklahoma State Cowboys",
-      "score": 49.0
-     },
-     "done": false,
-     "home": {
-      "name": "Iowa State Cyclones",
-      "score": 51.0
-     },
-     "id": "401856847"
-    },
-    {
-     "away": {
-      "name": "Miami Hurricanes",
-      "score": 38.0
-     },
-     "done": false,
-     "home": {
-      "name": "North Carolina Tar Heels",
-      "score": 35.0
-     },
-     "id": "401858282"
-    },
-    {
-     "away": {
-      "name": "Ohio State Buckeyes",
-      "score": 18.0
-     },
-     "done": false,
-     "home": {
-      "name": "USC Trojans",
-      "score": 30.0
-     },
-     "id": "401858509"
-    },
-    {
-     "away": {
       "name": "Georgia Tech Yellow Jackets",
       "score": 11.0
      },
      "done": false,
      "home": {
       "name": "Pittsburgh Panthers",
-      "score": 27.0
-     },
-     "id": "401858281"
-    },
-    {
-     "away": {
-      "name": "Missouri Tigers",
       "score": 34.0
      },
-     "done": false,
-     "home": {
-      "name": "Arkansas Razorbacks",
-      "score": 10.0
-     },
-     "id": "401856733"
+     "id": "401858281"
     },
     {
      "away": {
@@ -3233,14 +3146,14 @@
      "done": false,
      "home": {
       "name": "Memphis Tigers",
-      "score": 41.0
+      "score": 49.0
      },
      "id": "401862814"
     },
     {
      "away": {
       "name": "Texas State Bobcats",
-      "score": 0.0
+      "score": 3.0
      },
      "done": false,
      "home": {
@@ -3252,7 +3165,7 @@
     {
      "away": {
       "name": "Northern Illinois Huskies",
-      "score": 13.0
+      "score": 14.0
      },
      "done": false,
      "home": {
@@ -3260,6 +3173,42 @@
       "score": 10.0
      },
      "id": "401864530"
+    },
+    {
+     "away": {
+      "name": "Oregon State Beavers",
+      "score": 6.0
+     },
+     "done": false,
+     "home": {
+      "name": "Fresno State Bulldogs",
+      "score": 0.0
+     },
+     "id": "401860924"
+    },
+    {
+     "away": {
+      "name": "Miami Hurricanes",
+      "score": 38.0
+     },
+     "done": true,
+     "home": {
+      "name": "North Carolina Tar Heels",
+      "score": 35.0
+     },
+     "id": "401858282"
+    },
+    {
+     "away": {
+      "name": "Ohio State Buckeyes",
+      "score": 18.0
+     },
+     "done": true,
+     "home": {
+      "name": "USC Trojans",
+      "score": 30.0
+     },
+     "id": "401858509"
     },
     {
      "away": {
@@ -3404,6 +3353,30 @@
       "score": 34.0
      },
      "id": "401858505"
+    },
+    {
+     "away": {
+      "name": "Missouri Tigers",
+      "score": 34.0
+     },
+     "done": true,
+     "home": {
+      "name": "Arkansas Razorbacks",
+      "score": 10.0
+     },
+     "id": "401856733"
+    },
+    {
+     "away": {
+      "name": "Oklahoma State Cowboys",
+      "score": 49.0
+     },
+     "done": true,
+     "home": {
+      "name": "Iowa State Cyclones",
+      "score": 51.0
+     },
+     "id": "401856847"
     },
     {
      "away": {
@@ -3704,21 +3677,9 @@
       "score": 26.0
      },
      "id": "401860909"
-    },
-    {
-     "away": {
-      "name": "Oregon State Beavers",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Fresno State Bulldogs",
-      "score": 0.0
-     },
-     "id": "401860924"
     }
    ],
-   "t": 1793502025.0690522
+   "t": 1793502916.6850688
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -6038,19 +5999,19 @@
   ],
   "05405af79752f5e742cdf50b61f6745e|h2h|Miami Dolphins|None": [
    0.2437,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "05405af79752f5e742cdf50b61f6745e|h2h|New England Patriots|None": [
    0.7563,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "05405af79752f5e742cdf50b61f6745e|spreads|Miami Dolphins|7.0": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "05405af79752f5e742cdf50b61f6745e|spreads|New England Patriots|-7.0": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "05405af79752f5e742cdf50b61f6745e|totals|Over|43.0": [
    0.5011,
@@ -6058,7 +6019,7 @@
   ],
   "05405af79752f5e742cdf50b61f6745e|totals|Over|43.5": [
    0.4724,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "05405af79752f5e742cdf50b61f6745e|totals|Under|43.0": [
    0.4989,
@@ -6066,7 +6027,7 @@
   ],
   "05405af79752f5e742cdf50b61f6745e|totals|Under|43.5": [
    0.5276,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "067d97a124c10ea2d206546384500c5e|h2h|Charlotte Hornets|None": [
    0.4977,
@@ -6270,67 +6231,67 @@
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Minnesota Wild|None": [
    0.4977,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|h2h|Washington Capitals|None": [
    0.5023,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|-1.5": [
    0.2914,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Minnesota Wild|1.5": [
    0.7074,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|-1.5": [
    0.2926,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|spreads|Washington Capitals|1.5": [
    0.7086,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.0": [
    0.5136,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Over|6.5": [
    0.4573,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.0": [
    0.4864,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "10a3cc989861cd05cb2a95b5ebc4abb0|totals|Under|6.5": [
    0.5427,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "159dbf0253dd2038eda2212f84387f0c|h2h|Indianapolis Colts|None": [
    0.2063,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "159dbf0253dd2038eda2212f84387f0c|h2h|Jacksonville Jaguars|None": [
    0.7937,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "159dbf0253dd2038eda2212f84387f0c|spreads|Indianapolis Colts|10.0": [
    0.5043,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "159dbf0253dd2038eda2212f84387f0c|spreads|Jacksonville Jaguars|-10.0": [
    0.4957,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "159dbf0253dd2038eda2212f84387f0c|totals|Over|46.5": [
    0.4978,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "159dbf0253dd2038eda2212f84387f0c|totals|Under|46.5": [
    0.5022,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "183676bbb63b1716e2248ec6c6d205a9|h2h|Louisville Cardinals|None": [
    0.9166,
@@ -6534,51 +6495,51 @@
   ],
   "2ff84d3f6053d083c8c0a5bebf7cdd4c|h2h|Los Angeles Chargers|None": [
    0.2729,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "2ff84d3f6053d083c8c0a5bebf7cdd4c|h2h|Los Angeles Rams|None": [
    0.7271,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "2ff84d3f6053d083c8c0a5bebf7cdd4c|spreads|Los Angeles Chargers|6.5": [
    0.5046,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "2ff84d3f6053d083c8c0a5bebf7cdd4c|spreads|Los Angeles Rams|-6.5": [
    0.4954,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "2ff84d3f6053d083c8c0a5bebf7cdd4c|totals|Over|45.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "2ff84d3f6053d083c8c0a5bebf7cdd4c|totals|Under|45.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "31fc89cbf3846e545e8e41a543a71d24|h2h|Los Angeles Lakers|None": [
    0.6315,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "31fc89cbf3846e545e8e41a543a71d24|h2h|Toronto Raptors|None": [
    0.3685,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "31fc89cbf3846e545e8e41a543a71d24|spreads|Los Angeles Lakers|-4.5": [
    0.5069,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "31fc89cbf3846e545e8e41a543a71d24|spreads|Toronto Raptors|4.5": [
    0.4931,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "31fc89cbf3846e545e8e41a543a71d24|totals|Over|227.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "31fc89cbf3846e545e8e41a543a71d24|totals|Under|227.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "3713b2d962a33a6e55be7bffedd604a5|h2h|South Florida Bulls|None": [
    0.7199,
@@ -6846,59 +6807,59 @@
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Philadelphia Flyers|None": [
    0.4059,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|h2h|Utah Mammoth|None": [
    0.5941,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Philadelphia Flyers|1.5": [
    0.6288,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|spreads|Utah Mammoth|-1.5": [
    0.3712,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Over|6.0": [
    0.4977,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "4b59901ec085a0f20022fc14ffa1ba6c|totals|Under|6.0": [
    0.5023,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|h2h|Detroit Lions|None": [
    0.6211,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|h2h|Minnesota Vikings|None": [
    0.3789,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|spreads|Detroit Lions|-3.0": [
    0.5185,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|spreads|Detroit Lions|-3.5": [
    0.4718,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|spreads|Minnesota Vikings|3.0": [
    0.4815,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|spreads|Minnesota Vikings|3.5": [
    0.5282,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|totals|Over|45.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "52e7ee9c42525e6deec02da32dc2fad8|totals|Under|45.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "573eed720cdbfb7644835b8beb1bc89a|h2h|Air Force Falcons|None": [
    0.4804,
@@ -7582,35 +7543,35 @@
   ],
   "875368ed11228a45263f84f54223e264|h2h|Carolina Hurricanes|None": [
    0.7145,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|h2h|Winnipeg Jets|None": [
    0.2855,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|spreads|Carolina Hurricanes|-1.5": [
    0.4932,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|spreads|Winnipeg Jets|1.5": [
    0.5068,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.0": [
    0.5023,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|totals|Over|6.5": [
    0.4556,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.0": [
    0.4977,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "875368ed11228a45263f84f54223e264|totals|Under|6.5": [
    0.5444,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "877d5834acad37b6142a835438c23001|h2h|Nebraska Cornhuskers|None": [
    0.7339,
@@ -7670,67 +7631,67 @@
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|h2h|Atlanta Falcons|None": [
    0.4675,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|h2h|Tampa Bay Buccaneers|None": [
    0.5325,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|spreads|Atlanta Falcons|1.5": [
    0.4957,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|spreads|Atlanta Falcons|2.5": [
    0.5291,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|spreads|Tampa Bay Buccaneers|-1.5": [
    0.5043,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|spreads|Tampa Bay Buccaneers|-2.5": [
    0.4709,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|totals|Over|43.0": [
    0.5022,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|totals|Over|43.5": [
    0.494,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|totals|Under|43.0": [
    0.4978,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "921859689f5f8b3b8b1caf4248bdb1ec|totals|Under|43.5": [
    0.506,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9255ca8f32aea590d00aa57de79f6bb6|h2h|Arizona Cardinals|None": [
    0.267,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9255ca8f32aea590d00aa57de79f6bb6|h2h|Dallas Cowboys|None": [
    0.733,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9255ca8f32aea590d00aa57de79f6bb6|spreads|Arizona Cardinals|7.0": [
    0.5033,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9255ca8f32aea590d00aa57de79f6bb6|spreads|Dallas Cowboys|-7.0": [
    0.4967,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9255ca8f32aea590d00aa57de79f6bb6|totals|Over|54.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9255ca8f32aea590d00aa57de79f6bb6|totals|Under|54.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "929937ced936976088a9562342ba0b90|h2h|Iowa Hawkeyes|None": [
    0.5583,
@@ -7806,19 +7767,19 @@
   ],
   "98f1b121b793977434c046e76c707145|h2h|Las Vegas Raiders|None": [
    0.4633,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "98f1b121b793977434c046e76c707145|h2h|New York Jets|None": [
    0.5367,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "98f1b121b793977434c046e76c707145|spreads|Las Vegas Raiders|1.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "98f1b121b793977434c046e76c707145|spreads|New York Jets|-1.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "98f1b121b793977434c046e76c707145|totals|Over|45.5": [
    0.5111,
@@ -7826,7 +7787,7 @@
   ],
   "98f1b121b793977434c046e76c707145|totals|Over|46.5": [
    0.4967,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "98f1b121b793977434c046e76c707145|totals|Under|45.5": [
    0.4889,
@@ -7834,7 +7795,7 @@
   ],
   "98f1b121b793977434c046e76c707145|totals|Under|46.5": [
    0.5033,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9ae108f7a23e86e8102237053dd9e58d|h2h|Denver Nuggets|None": [
    0.6114,
@@ -7910,27 +7871,27 @@
   ],
   "9c5d8f57e0ba0fbd9ef436c1f0898f99|h2h|Cincinnati Bengals|None": [
    0.8592,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9c5d8f57e0ba0fbd9ef436c1f0898f99|h2h|Tennessee Titans|None": [
    0.1408,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9c5d8f57e0ba0fbd9ef436c1f0898f99|spreads|Cincinnati Bengals|-12.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9c5d8f57e0ba0fbd9ef436c1f0898f99|spreads|Tennessee Titans|12.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9c5d8f57e0ba0fbd9ef436c1f0898f99|totals|Over|46.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "9c5d8f57e0ba0fbd9ef436c1f0898f99|totals|Under|46.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a0f5d89a4fc51e52edd0e70d1e4cbaf2|h2h|Orlando Magic|None": [
    0.3302,
@@ -7966,27 +7927,27 @@
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Anaheim Ducks|None": [
    0.4784,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a5203c5f9248aa3653feba547eabd4b8|h2h|Ottawa Senators|None": [
    0.5216,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Anaheim Ducks|1.5": [
    0.6807,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a5203c5f9248aa3653feba547eabd4b8|spreads|Ottawa Senators|-1.5": [
    0.3193,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Over|6.5": [
    0.5454,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a5203c5f9248aa3653feba547eabd4b8|totals|Under|6.5": [
    0.4546,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "a536736a6da269d2e10edbdb27a789bd|h2h|Florida Panthers|None": [
    0.6711,
@@ -8094,23 +8055,23 @@
   ],
   "ab5ab731ab655bd6308bc7a922275518|h2h|Cleveland Browns|None": [
    0.362,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "ab5ab731ab655bd6308bc7a922275518|h2h|Pittsburgh Steelers|None": [
    0.638,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "ab5ab731ab655bd6308bc7a922275518|spreads|Cleveland Browns|3.5": [
    0.5092,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "ab5ab731ab655bd6308bc7a922275518|spreads|Pittsburgh Steelers|-3.5": [
    0.4908,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "ab5ab731ab655bd6308bc7a922275518|totals|Over|38.5": [
    0.5188,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "ab5ab731ab655bd6308bc7a922275518|totals|Over|39.5": [
    0.4892,
@@ -8118,7 +8079,7 @@
   ],
   "ab5ab731ab655bd6308bc7a922275518|totals|Under|38.5": [
    0.4812,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "ab5ab731ab655bd6308bc7a922275518|totals|Under|39.5": [
    0.5108,
@@ -8222,35 +8183,35 @@
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|h2h|Philadelphia Eagles|None": [
    0.3091,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|h2h|Washington Commanders|None": [
    0.6909,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|spreads|Philadelphia Eagles|6.0": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|spreads|Washington Commanders|-6.0": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|totals|Over|40.0": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|totals|Over|40.5": [
    0.4812,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|totals|Under|40.0": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "b9c60db63b1a19ad319f24b33c0defe8|totals|Under|40.5": [
    0.5188,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "bd73558e7eb5bee08962bfb1f5ef6c9a|h2h|Ohio State Buckeyes|None": [
    0.6735,
@@ -8470,27 +8431,27 @@
   ],
   "c93c421e5fa46031a43162d111d981d0|h2h|Baltimore Ravens|None": [
    0.3822,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "c93c421e5fa46031a43162d111d981d0|h2h|Buffalo Bills|None": [
    0.6178,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "c93c421e5fa46031a43162d111d981d0|spreads|Baltimore Ravens|3.0": [
    0.4804,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "c93c421e5fa46031a43162d111d981d0|spreads|Buffalo Bills|-3.0": [
    0.5196,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "c93c421e5fa46031a43162d111d981d0|totals|Over|54.5": [
    0.4957,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "c93c421e5fa46031a43162d111d981d0|totals|Under|54.5": [
    0.5043,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "cac1461f5983a88fac612685395aa897|h2h|Los Angeles Clippers|None": [
    0.2972,
@@ -8646,27 +8607,27 @@
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|Edmonton Oilers|None": [
    0.4583,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|h2h|New York Rangers|None": [
    0.5417,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|Edmonton Oilers|1.5": [
    0.6675,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|spreads|New York Rangers|-1.5": [
    0.3325,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Over|6.5": [
    0.5113,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "d8dd95fa4fc001a1ea9f6629a8c8ffee|totals|Under|6.5": [
    0.4887,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "dea96094c29a9f24d7dc07a5d848afd7|h2h|Michigan Wolverines|None": [
    0.8502,
@@ -8894,27 +8855,27 @@
   ],
   "e8559eaac12af915cfe6597644620c13|h2h|Boston Celtics|None": [
    0.6919,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "e8559eaac12af915cfe6597644620c13|h2h|Orlando Magic|None": [
    0.3081,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "e8559eaac12af915cfe6597644620c13|spreads|Boston Celtics|-6.5": [
    0.4908,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "e8559eaac12af915cfe6597644620c13|spreads|Orlando Magic|6.5": [
    0.5092,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "e8559eaac12af915cfe6597644620c13|totals|Over|223.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "e8559eaac12af915cfe6597644620c13|totals|Under|223.5": [
    0.5,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "e88d624c699646a03bac59eb193a09bf|h2h|Marshall Thundering Herd|None": [
    0.5705,
@@ -8998,35 +8959,35 @@
   ],
   "f2a036d5edf483a277880014861e78ad|h2h|Denver Broncos|None": [
    0.4829,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|h2h|Kansas City Chiefs|None": [
    0.5171,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|spreads|Denver Broncos|1.0": [
    0.5115,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|spreads|Denver Broncos|1.5": [
    0.5238,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|spreads|Kansas City Chiefs|-1.0": [
    0.4885,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|spreads|Kansas City Chiefs|-1.5": [
    0.4762,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|totals|Over|40.5": [
    0.5022,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f2a036d5edf483a277880014861e78ad|totals|Under|40.5": [
    0.4978,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "f912d0a74ab85bac2021199aa03abb3f|h2h|Boston Bruins|None": [
    0.6803,
@@ -9118,11 +9079,11 @@
   ],
   "fc3e945a5be88d3f933456bc512c956d|h2h|Brooklyn Nets|None": [
    0.3914,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "fc3e945a5be88d3f933456bc512c956d|h2h|Indiana Pacers|None": [
    0.6086,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "fc3e945a5be88d3f933456bc512c956d|spreads|Brooklyn Nets|4.5": [
    0.5206,
@@ -9134,11 +9095,11 @@
   ],
   "fc3e945a5be88d3f933456bc512c956d|totals|Over|230.5": [
    0.5023,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "fc3e945a5be88d3f933456bc512c956d|totals|Under|230.5": [
    0.4977,
-   1793502024.0366592
+   1793502915.6458025
   ],
   "fc416b26c2c25018a05bc5cb0d80dbb6|h2h|Bowling Green Falcons|None": [
    0.1811,
@@ -9165,19 +9126,19 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793502024.0366592,
+ "last_run": 1793502915.6458025,
  "last_vote": {
   "approved": true,
-  "label": "Los Angeles Lakers to win",
-  "sub": "Raptors @ Lakers \u00b7 Kalshi 42\u00a2",
+  "label": "Indianapolis Colts to win",
+  "sub": "Colts @ Jaguars \u00b7 FanDuel +410",
   "votes": {
    "Line Watcher": [
     true,
-    "fair chance moved -0.0% since last check"
+    "fair chance moved +0.0% since last check"
    ],
    "The Clock": [
     true,
-    "starts in 23.2h; odds 0 min old"
+    "starts in 14.7h; odds 15 min old"
    ],
    "The Insider": [
     true,
@@ -9185,18 +9146,18 @@
    ],
    "The Sharp": [
     true,
-    "fair -171 vs Kalshi 42\u00a2: +43.5% value"
+    "fair +385 vs FanDuel 410: +5.2% value"
    ],
    "The Shopper": [
     true,
     "9 books priced it; ours is the best price"
    ],
    "The Skeptic": [
-    true,
-    "edge holds vs the market average too"
+    false,
+    "too much of a longshot/favorite"
    ]
   },
-  "when": 1793502024.0366592
+  "when": 1793502915.6458025
  },
  "news": {
   "americanfootball_ncaaf": {
@@ -20517,7 +20478,7 @@
  },
  "schedule": {
   "americanfootball_nfl": 12,
-  "basketball_nba": 3,
+  "basketball_nba": 4,
   "icehockey_nhl": 5
  }
 }
