@@ -3639,7 +3639,7 @@
      "id": "401860924"
     }
    ],
-   "t": 1793565917.3802598
+   "t": 1793566827.516633
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -3949,19 +3949,19 @@
      "done": false,
      "home": {
       "name": "Buffalo Bills",
-      "score": 23.0
+      "score": 29.0
      },
      "id": "401873026"
     },
     {
      "away": {
       "name": "Tennessee Titans",
-      "score": 21.0
+      "score": 28.0
      },
      "done": false,
      "home": {
       "name": "Cincinnati Bengals",
-      "score": 23.0
+      "score": 29.0
      },
      "id": "401873031"
     },
@@ -3973,26 +3973,26 @@
      "done": false,
      "home": {
       "name": "Dallas Cowboys",
-      "score": 24.0
+      "score": 27.0
      },
      "id": "401873024"
     },
     {
      "away": {
       "name": "Minnesota Vikings",
-      "score": 13.0
+      "score": 15.0
      },
      "done": false,
      "home": {
       "name": "Detroit Lions",
-      "score": 12.0
+      "score": 19.0
      },
      "id": "401873030"
     },
     {
      "away": {
       "name": "Las Vegas Raiders",
-      "score": 35.0
+      "score": 38.0
      },
      "done": false,
      "home": {
@@ -4015,18 +4015,6 @@
     },
     {
      "away": {
-      "name": "Atlanta Falcons",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Tampa Bay Buccaneers",
-      "score": 16.0
-     },
-     "id": "401873025"
-    },
-    {
-     "away": {
       "name": "Indianapolis Colts",
       "score": 7.0
      },
@@ -4036,6 +4024,18 @@
       "score": 42.0
      },
      "id": "401873028"
+    },
+    {
+     "away": {
+      "name": "Atlanta Falcons",
+      "score": 0.0
+     },
+     "done": true,
+     "home": {
+      "name": "Tampa Bay Buccaneers",
+      "score": 16.0
+     },
+     "id": "401873025"
     },
     {
      "away": {
@@ -4086,7 +4086,7 @@
      "id": "401873035"
     }
    ],
-   "t": 1793565917.4619982
+   "t": 1793566827.5565305
   },
   "basketball_nba|2026-10-21": {
    "games": [
@@ -6182,17 +6182,9 @@
    0.5011,
    1793447115.2319837
   ],
-  "07da1e37f1e37363a71d35f2298f01d9|totals|Over|54.5": [
-   0.4789,
-   1793436326.7250721
-  ],
   "07da1e37f1e37363a71d35f2298f01d9|totals|Under|53.5": [
    0.4989,
    1793447115.2319837
-  ],
-  "07da1e37f1e37363a71d35f2298f01d9|totals|Under|54.5": [
-   0.5211,
-   1793436326.7250721
   ],
   "094b083ace229ca31ff360a80e35a1a8|h2h|Golden State Warriors|None": [
    0.5427,
@@ -6718,17 +6710,9 @@
    0.4977,
    1793472314.6972454
   ],
-  "49aa48a7dbcd6563f389ae4232707d64|spreads|Georgia Tech Yellow Jackets|8.5": [
-   0.5022,
-   1793436326.7250721
-  ],
   "49aa48a7dbcd6563f389ae4232707d64|spreads|Pittsburgh Panthers|-7.5": [
    0.5023,
    1793472314.6972454
-  ],
-  "49aa48a7dbcd6563f389ae4232707d64|spreads|Pittsburgh Panthers|-8.5": [
-   0.4978,
-   1793436326.7250721
   ],
   "49aa48a7dbcd6563f389ae4232707d64|totals|Over|54.5": [
    0.5022,
@@ -8314,10 +8298,6 @@
    0.5089,
    1793447115.2319837
   ],
-  "e7510e4cb4351947263e33b6dc6a0812|totals|Over|57.5": [
-   0.4946,
-   1793436326.7250721
-  ],
   "e7510e4cb4351947263e33b6dc6a0812|totals|Under|55.5": [
    0.4955,
    1793472314.6972454
@@ -8325,10 +8305,6 @@
   "e7510e4cb4351947263e33b6dc6a0812|totals|Under|56.5": [
    0.4911,
    1793447115.2319837
-  ],
-  "e7510e4cb4351947263e33b6dc6a0812|totals|Under|57.5": [
-   0.5054,
-   1793436326.7250721
   ],
   "e8559eaac12af915cfe6597644620c13|h2h|Boston Celtics|None": [
    0.6966,
@@ -8603,7 +8579,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793565916.5440671,
+ "last_run": 1793566826.4692018,
  "last_vote": {
   "approved": true,
   "label": "Indianapolis Colts to win",
@@ -20282,7 +20258,7 @@
   "wins": 11
  },
  "schedule": {
-  "americanfootball_nfl": 4,
+  "americanfootball_nfl": 2,
   "basketball_nba": 3,
   "icehockey_nhl": 6
  }
