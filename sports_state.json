@@ -1832,6 +1832,42 @@
     "The Shopper": true,
     "The Skeptic": false
    }
+  },
+  {
+   "away": "Arizona Cardinals",
+   "bet": "Arizona Cardinals to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 3.9,
+   "ev": 0.043333290254209844,
+   "fair": 0.26752135647543845,
+   "game_id": "9255ca8f32aea590d00aa57de79f6bb6",
+   "graded": 1793569517.6332872,
+   "home": "Dallas Cowboys",
+   "id": "9255ca8f32aea590d00aa57de79f6bb6-h2h-Arizona Cardinals--1793448023",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Cardinals @ Cowboys",
+   "odds": 290,
+   "outcome": "Arizona Cardinals",
+   "pl": 2.9,
+   "placed": 1793448023.5194786,
+   "player": null,
+   "point": null,
+   "result": "win",
+   "sport": "americanfootball_nfl",
+   "stake": 1.0,
+   "start": 1793556000.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": true
+   }
   }
  ],
  "credits": {
@@ -3675,7 +3711,7 @@
      "id": "401860924"
     }
    ],
-   "t": 1793568623.613679
+   "t": 1793569517.8379586
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -3979,34 +4015,22 @@
    "games": [
     {
      "away": {
-      "name": "Baltimore Ravens",
-      "score": 10.0
-     },
-     "done": true,
-     "home": {
-      "name": "Buffalo Bills",
-      "score": 36.0
-     },
-     "id": "401873026"
-    },
-    {
-     "away": {
       "name": "Tennessee Titans",
       "score": 36.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Cincinnati Bengals",
-      "score": 36.0
+      "score": 43.0
      },
      "id": "401873031"
     },
     {
      "away": {
       "name": "Arizona Cardinals",
-      "score": 30.0
+      "score": 33.0
      },
-     "done": false,
+     "done": true,
      "home": {
       "name": "Dallas Cowboys",
       "score": 30.0
@@ -4016,14 +4040,50 @@
     {
      "away": {
       "name": "Los Angeles Chargers",
-      "score": 0.0
+      "score": 3.0
      },
      "done": false,
      "home": {
       "name": "Los Angeles Rams",
-      "score": 0.0
+      "score": 3.0
      },
      "id": "401873032"
+    },
+    {
+     "away": {
+      "name": "Kansas City Chiefs",
+      "score": 7.0
+     },
+     "done": false,
+     "home": {
+      "name": "Denver Broncos",
+      "score": 3.0
+     },
+     "id": "401873033"
+    },
+    {
+     "away": {
+      "name": "New England Patriots",
+      "score": 3.0
+     },
+     "done": false,
+     "home": {
+      "name": "Miami Dolphins",
+      "score": 0.0
+     },
+     "id": "401873034"
+    },
+    {
+     "away": {
+      "name": "Baltimore Ravens",
+      "score": 10.0
+     },
+     "done": true,
+     "home": {
+      "name": "Buffalo Bills",
+      "score": 36.0
+     },
+     "id": "401873026"
     },
     {
      "away": {
@@ -4087,30 +4147,6 @@
     },
     {
      "away": {
-      "name": "Kansas City Chiefs",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Denver Broncos",
-      "score": 0.0
-     },
-     "id": "401873033"
-    },
-    {
-     "away": {
-      "name": "New England Patriots",
-      "score": 0.0
-     },
-     "done": false,
-     "home": {
-      "name": "Miami Dolphins",
-      "score": 0.0
-     },
-     "id": "401873034"
-    },
-    {
-     "away": {
       "name": "Philadelphia Eagles",
       "score": 0.0
      },
@@ -4122,7 +4158,7 @@
      "id": "401873035"
     }
    ],
-   "t": 1793568623.650009
+   "t": 1793569517.8944335
   },
   "basketball_nba|2026-10-21": {
    "games": [
@@ -8591,7 +8627,7 @@
    1793447115.2319837
   ]
  },
- "last_run": 1793568622.8068163,
+ "last_run": 1793569517.090855,
  "last_vote": {
   "approved": true,
   "label": "Indianapolis Colts to win",
@@ -20030,39 +20066,6 @@
    }
   },
   {
-   "away": "Arizona Cardinals",
-   "bet": "Arizona Cardinals to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 3.9,
-   "ev": 0.043333290254209844,
-   "fair": 0.26752135647543845,
-   "game_id": "9255ca8f32aea590d00aa57de79f6bb6",
-   "home": "Dallas Cowboys",
-   "id": "9255ca8f32aea590d00aa57de79f6bb6-h2h-Arizona Cardinals--1793448023",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Cardinals @ Cowboys",
-   "odds": 290,
-   "outcome": "Arizona Cardinals",
-   "placed": 1793448023.5194786,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_nfl",
-   "stake": 1.0,
-   "start": 1793556000.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": true
-   }
-  },
-  {
    "away": "Toronto Raptors",
    "bet": "Los Angeles Lakers to win",
    "book": "kalshi",
@@ -20171,18 +20174,14 @@
     "9255ca8f32aea590d00aa57de79f6bb6-h2h-Arizona Cardinals--1793448023",
     "159dbf0253dd2038eda2212f84387f0c-h2h-Indianapolis Colts--1793448023"
    ],
-   "result": null,
+   "pl": -1.0,
+   "result": "loss",
    "stake": 1.0,
    "text": "\ud83c\udfb2 PARLAY OF THE DAY (2 legs, FanDuel)\n\n\u2022 Arizona Cardinals to win (+290) \u00b7 Cardinals @ Cowboys\n\u2022 Indianapolis Colts to win (+400) \u00b7 Colts @ Jaguars\n\nPays +1850 \u00b7 fair chance 6% \u00b7 value +8.1%\n\ud83d\udcb5 Paper stake $1.00 \u2192 +$18.50 if it hits\n\nFor fun: every leg is a +EV pick, but parlays miss most of the time. Keep it small.",
    "title": "Arizona Cardinals to win + Indianapolis Colts to win"
   }
  ],
  "parties": [
-  {
-   "detail": "+$8.10",
-   "t": 1792278915.6058164,
-   "title": "Auburn Tigers to win"
-  },
   {
    "detail": "+$7.23",
    "t": 1792644318.1117811,
@@ -20227,18 +20226,23 @@
    "detail": "+$1.23",
    "t": 1793501126.2889075,
    "title": "Dallas Stars to win"
+  },
+  {
+   "detail": "+$2.90",
+   "t": 1793569517.6332872,
+   "title": "Arizona Cardinals to win"
   }
  ],
  "record": {
   "losses": 38,
-  "pl": 7.36,
+  "pl": 10.26,
   "pushes": 0,
-  "staked": 72.84,
-  "wins": 11
+  "staked": 73.84,
+  "wins": 12
  },
  "schedule": {
   "americanfootball_nfl": 2,
-  "basketball_nba": 3,
+  "basketball_nba": 2,
   "icehockey_nhl": 6
  }
 }
