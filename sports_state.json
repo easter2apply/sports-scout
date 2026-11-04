@@ -1904,6 +1904,40 @@
     "The Shopper": true,
     "The Skeptic": true
    }
+  },
+  {
+   "away": "New Mexico Lobos",
+   "bet": "San Jose State Spartans to win",
+   "book": "fanduel",
+   "book_name": "FanDuel",
+   "dec": 6.5,
+   "ev": 0.07544672402382524,
+   "fair": 0.16545334215751156,
+   "game_id": "1841dedea57dac1d1de462bb44f8a732",
+   "home": "San Jose State Spartans",
+   "id": "1841dedea57dac1d1de462bb44f8a732-h2h-San Jose State Spartans--1793394917",
+   "kind": "moneyline",
+   "market": "h2h",
+   "matchup": "Lobos @ Spartans",
+   "odds": 550,
+   "outcome": "San Jose State Spartans",
+   "placed": 1793394917.1937943,
+   "player": null,
+   "point": null,
+   "result": "void",
+   "sport": "americanfootball_ncaaf",
+   "stake": 1.0,
+   "start": 1793476800.0,
+   "type": "straight",
+   "url": null,
+   "votes": {
+    "Line Watcher": null,
+    "The Clock": true,
+    "The Insider": true,
+    "The Sharp": true,
+    "The Shopper": true,
+    "The Skeptic": false
+   }
   }
  ],
  "credits": {
@@ -3747,7 +3781,7 @@
      "id": "401860924"
     }
    ],
-   "t": 1793821517.0746005
+   "t": 1793822423.5087562
   },
   "americanfootball_nfl|2026-10-18": {
    "games": [
@@ -6203,7 +6237,7 @@
   }
  },
  "fair_hist": {},
- "last_run": 1793821516.1822178,
+ "last_run": 1793822422.7573576,
  "last_vote": {
   "approved": true,
   "label": "Indianapolis Colts to win",
@@ -17607,41 +17641,7 @@
    ]
   }
  },
- "open": [
-  {
-   "away": "New Mexico Lobos",
-   "bet": "San Jose State Spartans to win",
-   "book": "fanduel",
-   "book_name": "FanDuel",
-   "dec": 6.5,
-   "ev": 0.07544672402382524,
-   "fair": 0.16545334215751156,
-   "game_id": "1841dedea57dac1d1de462bb44f8a732",
-   "home": "San Jose State Spartans",
-   "id": "1841dedea57dac1d1de462bb44f8a732-h2h-San Jose State Spartans--1793394917",
-   "kind": "moneyline",
-   "market": "h2h",
-   "matchup": "Lobos @ Spartans",
-   "odds": 550,
-   "outcome": "San Jose State Spartans",
-   "placed": 1793394917.1937943,
-   "player": null,
-   "point": null,
-   "sport": "americanfootball_ncaaf",
-   "stake": 1.0,
-   "start": 1793476800.0,
-   "type": "straight",
-   "url": null,
-   "votes": {
-    "Line Watcher": null,
-    "The Clock": true,
-    "The Insider": true,
-    "The Sharp": true,
-    "The Shopper": true,
-    "The Skeptic": false
-   }
-  }
- ],
+ "open": [],
  "parlays": [
   {
    "book_name": "FanDuel",
